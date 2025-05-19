@@ -29276,15 +29276,15 @@
         },
         "skin_chery_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/JIf8HxA.png"
+            "relativePath": "https://platen-007.github.io/007/images/skin_group/skin_007/skin_007_01.png"
         },
         "skin_chery_02": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/IQaJF0G.png"
+            "relativePath": "https://platen-007.github.io/007/images/skin_group/skin_007/skin_007_02.png"
         },
         "skin_chery_03": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/nEF8SBX.png"
+            "relativePath": "https://platen-007.github.io/007/images/skin_group/skin_007/skin_007_03.png"
         },
         "nonamilo_01": {
             "custom": true,
@@ -32168,7 +32168,7 @@
         },
         "ice_51": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/0n0CSZ2.png"
+            "relativePath": "https://platen-007.github.io/007/images/skin_group/skin_007/skin_007_04.png"
         },
         "ice_450": {
             "custom": true,
