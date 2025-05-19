@@ -2,7 +2,7 @@
             "cliente_NOMBRE": "Seko",
             "cliente_ID": "gg_106263452150533879793",
             "Client_KeyAccecs": "XTPRIVATESKIN",
-            "cliente_DateExpired": "2025-12-20",
+            "cliente_DateExpired": "2029-12-20",
             "status": 1,
             "Client_VisibleSkin": "0000",
             "Client_VisibleSkin1": "0000",
