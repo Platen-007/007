@@ -5782,12 +5782,8 @@ else {
     </tbody>
 </table>
 
-<div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Keys <a href="/">Q</a> : Automatically turns around in one place. (Quay Đầu Vòng Tròn 1 Chỗ)</div>
-                    <div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Keys <a href="/">R </a> : Quick Revive (Hồi Sinh Nhanh)</div>
-                    
-                    <div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Note : This setting is only for activated members . Thank you !</div>
-                    <div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Lưu Ý : Phần cài đặt này chỉ dành cho thành viên đã kích hoạt . Xin cảm ơn !</div>
-                    <center><div class="hg"><a target="_blank" href="https://thanhtoan.vuonghiep.com/">Activated (Kích Hoạt)</a></div></center>
+
+                    <center><div class="hg"><a target="_blank" href="https://thanhtoan.vuonghiep.com/">Activated (Platen)</a></div></center>
 
            
         </div>`);
@@ -5803,7 +5799,7 @@ else {
       <input type="text" value="${theoKzObjects.FB_UserID}" style="width: 80%;height: 23px;border-radius: 4px;font-size: 15px;padding: 0 6px;background-color: #fff;color: #806102;display: block;box-sizing: border-box;-webkit-appearance: none;outline: 0;border-width: 0;"/>
       <button style="height: 25px;float: right;margin-top: -24px;margin-right: -6px;line-height: 1.2;font-size: 14px;" onclick="navigator.clipboard.writeText('${theoKzObjects.FB_UserID}').then(()=> alert('You ID ${theoKzObjects.FB_UserID} copiado! copied!'));">Copy</button>
       <center>
-        <div class="hg"><a target="_blank" href="https://thanhtoan.vuonghiep.com/">Activated (Kích Hoạt)</a> </div>
+        <div class="hg"><a target="_blank" href="https://thanhtoan.vuonghiep.com/">Activated (Platen)</a> </div>
       </center>
      <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Instructions for installing on IOS and iPad New 2024: <a style="color: #2ae1eb; font-weight: 600;" href="https://www.youtube.com/watch?v=uyHHXWKHgRw">https://www.youtube.com/watch?v=uyHHXWKHgRw</a> </div>
       
@@ -5848,20 +5844,15 @@ else {
                 localStorage.ComidaShadow = theoKzObjects.FoodShadow;
             });
 
-            $("#mm-advice-cont").html(`
-            
-            
-            
-            <div class="vietnam" style="display: grid !important; grid-template-columns: 1fr 1fr 1fr;gap: 8.5px;">
-            
-            
-    <input type="button" value="F.SCREEN" class="fullscreen_button">
-    
-    
-    <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
-    
-    <input type="button" value="CONTACT" onclick="window.location.href='https://api.whatsapp.com/send?phone=84924623650&text=Xin%20ch%C3%A0o!%20M%C3%ACnh%20%C4%91ang%20d%C3%B9ng%20Whatsapp'" class="fullscreen_contact">
-    </div> `);
+                  $("#mm-advice-cont").html(`
+<div class="wormworld-connect-count-b32" style="display: grid !important; grid-template-columns: 1fr 1fr 1fr; gap: 2px;">
+    <input type="button" value="Full Screen" id="fullscreen_button" style="margin-top:5px;width:100%;height:35px;" />
+    <input type="button" value="RESPAWN" onclick="respawnFn()" style="margin-top:5px;width:100%;background-color:#f7941d;color:#fff;border:0;height:35px;" />
+    <input type="button" value="SKINLAB" onclick="window.location.href='https://wormate.io'" style="margin-top:5px;width:100%;height:35px;" />
+</div>
+
+
+    `);
             
             
              $(".mm-merchant-cont").html(`
