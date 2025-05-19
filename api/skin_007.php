@@ -29276,15 +29276,15 @@
         },
         "skin_chery_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/2yE4vTq.png"
+            "relativePath": "https:\/\/i.imgur.com\/7lnNDNV.png"
         },
         "skin_chery_02": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/Kk859aw.png"
+            "relativePath": "https:\/\/i.imgur.com\/IQaJF0G.png"
         },
         "skin_chery_03": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/z7NDzPC.png"
+            "relativePath": "https:\/\/i.imgur.com\/nEF8SBX.png"
         },
         "nonamilo_01": {
             "custom": true,
@@ -32168,7 +32168,7 @@
         },
         "ice_51": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/qAkocXx.png"
+            "relativePath": "https:\/\/i.imgur.com\/0n0CSZ2.png"
         },
         "ice_450": {
             "custom": true,
