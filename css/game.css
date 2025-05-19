@@ -1,3 +1,10 @@
+@import url("https://haylamday.com/css/font.css");
+@import "https://fonts.googleapis.com/css2?family=Quicksand&display=swap";
+::-webkit-scrollbar{display:none}*
+body,html{background-color:#333;height:100%;width:100%;min-width:320px;min-height:320px;padding:0;margin:0;overflow:hidden;font-family: vuonghiep;}
+
+body {font-family: vuonghiep; }
+
 #1eaom01c3pxu9wd3 {
   width:100%;
   height:100%;
@@ -150,9 +157,9 @@
   left:0;
   cursor: url(https://i.imgur.com/0zaJ1Jq.png), auto !important;
   background-image: url(https://i.imgur.com/pWLFzxg.png);
-  background-repeat: no-repeat;
-  background-color: #e0e3bf !important;
-  background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #e0e3bf !important;
+    
 }
 
 
@@ -1072,7 +1079,7 @@
 
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-bottom #mm-bottom-buttons #mm-store {
   background-color:#8bc34a;
-  /* background-image: linear-gradient(#f1f71d, rgb(239 53 15)); */
+  background-image: linear-gradient(#f1f71d, rgb(239 53 15));
   color:#fff;
   overflow:hidden;
   height:50px;
@@ -4785,7 +4792,7 @@ width: 40px;
     border: 2px solid #efe807;
     border-radius: 10px;
     font-size: 17px;
-    font-family: Arial;
+    font-family: vuonghiep;
 }
     
     
@@ -4872,7 +4879,7 @@ button:hover{
     float: right;}  
     
  .fullscreen_button ,.fullscreen_respawn, .fullscreen_contact {
- font-family: Arial;
+ font-family: vuonghiep;
  margin-top:2px;
  width:100%;height: 35px;
  font-size: 16px;
@@ -5003,7 +5010,7 @@ input[type="color"]::-moz-color-swatch {
 }
 
 #titleSetings {
-  font-size: 23px; /* Aumenta el tamaÃ±o del texto */
+  font-size: 1.5em; /* Aumenta el tamaÃ±o del texto */
   padding: 8px 12px; /* Aumenta el espacio interior */
   border-radius: 8px; /* Aumenta el radio del borde para hacerlo mÃ¡s suave */
   text-align: center; /* Centra el texto horizontalmente */
@@ -5121,5 +5128,5 @@ input[type="color"]::-moz-color-swatch {
 
 .description-text, #loa831pibur0w4gv {
     border: 1px solid #ffe1ff;
-    /* box-shadow: 0px 0px 15px 10px #cdff00; */
+    box-shadow: 0px 0px 15px 10px #cdff00;
 }
