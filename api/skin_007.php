@@ -29276,7 +29276,7 @@
         },
         "skin_chery_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/7lnNDNV.png"
+            "relativePath": "https:\/\/i.imgur.com\/JIf8HxA.png"
         },
         "skin_chery_02": {
             "custom": true,
