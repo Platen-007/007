@@ -363,7 +363,7 @@ const ctx = {
             'stroke': '#FAA845',
             'strokeThickness': 0x1,
             'whiteSpace': _0x1e228d(0x45a),
-            'fontFamily': 'wormdv',
+            'fontFamily': 'worm007',
             'fontWeight': _0x1e228d(0x3ca),
             'wordWrap': !![]
         }),
@@ -387,7 +387,7 @@ const ctx = {
             'stroke': _0x1e228d(0x389),
             'strokeThickness': 0x1,
             'whiteSpace': _0x1e228d(0x45a),
-            'fontFamily': 'wormdv',
+            'fontFamily': 'worm007',
             'fontWeight': _0x1e228d(0x3ca),
             'wordWrap': !![]
         }),
@@ -2603,7 +2603,7 @@ window['addEventListener'](_0x1e228d(0x51b), function () {
                         var _0x10813f = _0x5e02;
                         _0x2d9910['fc'][_0x10813f(0xd0)](this, _0x3a343e, {
                                 'fill': _0x260c79,
-                                'fontFamily': 'wormdv',
+                                'fontFamily': 'worm007',
                                 'fontSize': 0x24
                             }),
                             this['anchor'][_0x10813f(0x40e)](0.5),
@@ -3029,7 +3029,7 @@ window['addEventListener'](_0x1e228d(0x51b), function () {
                                         this['eg'][_0x8e39fc(0x2ce)]['x'] = 0x4,
                                         this['addChild'](this['eg']),
                                         this['fg'] = new _0x2d9910['fc']('', {
-                                            'fontFamily': 'wormdv',
+                                            'fontFamily': 'worm007',
                                             'fontSize': 0xb,
                                             'fill': _0x8e39fc(0x375),
                                             'fontWeight': 'bold',
