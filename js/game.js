@@ -7448,7 +7448,7 @@ $(function () {
       }
     }
     function handleUserData() {
-      $("#mm-event-text").replaceWith("<div class=\"text-FDZ\">جيش الأفناك قوة الروح لا تنتهي</div>");
+      $("#mm-event-text").replaceWith("<div class=\"text-FDZ\">Worm 007 2025</div>");
       var settingButton = document.getElementById("settingBtn");
       var settingContent = document.getElementById("settingContent");
       settingButton.addEventListener("click", function () {
@@ -7671,33 +7671,33 @@ $(".mm-merchant-cont").html(`
       theoKzObjects.adblock = true;
 $("#mm-store").after(`
 <div id="mm-store" class="store">
-    <div class="settings-button" onclick="openPopup()">الإعدادات</div>
+    <div class="settings-button" onclick="openPopup()">Settings</div>
 </div>
 
 <div id="popup" class="popup">
     <!-- رأس الـ Popup -->
     <div class="popup-header">
         <!-- زر أغلق -->
-        <button class="close-button" onclick="closePopup()">أغلق</button>
+        <button class="close-button" onclick="closePopup()">Close</button>
         
         <!-- عرض ID المستخدم -->
         <div class="user-id-display">
             <span>${theoKzObjects.FB_UserID}</span>
         </div>
 
-        <!-- زر نسخ ID -->
-        <button class="copy-button" onclick="navigator.clipboard.writeText('${theoKzObjects.FB_UserID}').then(()=> alert('تم نسخ ID ${theoKzObjects.FB_UserID}!'));">نسخ ID</button>
+        <!-- زر Copy ID -->
+        <button class="copy-button" onclick="navigator.clipboard.writeText('${theoKzObjects.FB_UserID}').then(()=> alert('تم Copy ID ${theoKzObjects.FB_UserID}!'));">Copy ID</button>
     </div>
 
     <div id="kich-hoat">
         <div class="settings-row">
             <div class="settings-lineZoom">
-                <span class="settings-labelZoom">تناول سريع :</span>
+                <span class="settings-labelZoom">Quick take:</span>
                 <input class="settings-switchZoom" id="settings-Abilityzoom-switch" type="checkbox"/>
                 <label for="settings-Abilityzoom-switch"></label>
             </div>
             <div class="settings-lineZoom">
-                <span class="settings-labelZoom">وضع البث :</span>
+                <span class="settings-labelZoom">Broadcast mode:</span>
                 <input class="settings-switchZoom" id="settings-stremingmode-switch" type="checkbox"/>
                 <label for="settings-stremingmode-switch"></label>
             </div>
@@ -7705,12 +7705,12 @@ $("#mm-store").after(`
 
         <div class="settings-row">
             <div class="settings-lineZoom">
-                <span class="settings-labelZoom">مجموع القتل :</span>
+                <span class="settings-labelZoom">Total kills:</span>
                 <input class="settings-switchZoom" id="settings-stremingmodesaveheadshot-switch" type="checkbox"/>
                 <label for="settings-stremingmodesaveheadshot-switch"></label>
             </div>
             <div class="settings-lineZoom">
-                <span class="settings-labelZoom">أفضل 3 نقاط :</span>
+                <span class="settings-labelZoom">Top 3 points:</span>
                 <input class="settings-switchZoom" id="settings-stremingmodebatop-switch" type="checkbox"/>
                 <label for="settings-stremingmodebatop-switch"></label>
             </div>
@@ -7718,12 +7718,12 @@ $("#mm-store").after(`
 
         <div class="settings-row">
             <div class="settings-lineZoom">
-                <span class="settings-labelZoom">سهم السرعة <img class="icon" src="https://i.imgur.com/lkx3fEA.png" alt="Turn on"/> :</span>
+                <span class="settings-labelZoom">Speed ​​arrow<img class="icon" src="https://i.imgur.com/lkx3fEA.png" alt="Turn on"/> :</span>
                 <input class="settings-switchZoom" id="settings-stremingmodemuiten-switch" type="checkbox"/>
                 <label for="settings-stremingmodemuiten-switch"></label>
             </div>
             <div class="settings-lineZoom">
-                <span class="settings-labelZoom">إيقاف الإيموجي :</span>
+                <span class="settings-labelZoom">Stop emoji:</span>
                 <input class="settings-switchZoom" id="settings-stremingmodeemoj-switch" type="checkbox"/>
                 <label for="settings-stremingmodeemoj-switch"></label>
             </div>
@@ -7731,12 +7731,12 @@ $("#mm-store").after(`
 
         <div class="settings-row">
             <div class="settings-lineZoom">
-                <span class="settings-labelZoom">إيقاف الأصوات :</span>
+                <span class="settings-labelZoom">Stop sounds:</span>
                 <input class="settings-switchZoom" id="settings-stremingmodeheadshot-switch" type="checkbox"/>
                 <label for="settings-stremingmodeheadshot-switch"></label>
             </div>
 <div class="settings-lineZoom">
-    <span class="settings-labelZoom">تصنيع السكنات  :</span>
+    <span class="settings-labelZoom">SkinLab</span>
     <a href="https://worm007.infinityfreeapp.com/skinlab/" target="_blank">
         <i class="fa-solid fa-link red-icon"></i>
     </a>
@@ -7746,7 +7746,7 @@ $("#mm-store").after(`
 
     <div class="container">
         <div class="left-column">
-            <div class="spancursor">اختر المؤشر</div>
+            <div class="spancursor">Select the indicator</div>
             <div class="cursor-container">
                 <div id="default-cursor-btn">
                     <img class="img" alt="Imgur-Upload" src="https://i.imgur.com/rI522o3.png">
@@ -7754,20 +7754,12 @@ $("#mm-store").after(`
             </div>
         </div>
         <div class="right-column">
-            <div class="spancursor-right">اختر الخلفية</div>
+            <div class="spancursor-right">Choose background</div>
             <div class="background-container"></div>
         </div>
     </div>
 
-<div class="container">
-    <div class="list1">
-        مفاتيح <i class="fa-solid fa-q red-icon"></i> تدور تلقائيًا
-    </div>
-    <div class="list2">
-        مفاتيح <i class="fa-solid fa-r red-icon"></i> إحياء سريع
-    </div>
-</div>
-</div>
+
 
 <div id="overlay"></div> <!-- إضافة overlay -->
 `);
