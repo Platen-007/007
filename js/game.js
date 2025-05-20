@@ -9,7 +9,7 @@ const _wrmxt = {
     if (_wrmxt.BETAisSkinCustom(skin)) {
       return 34 || 33;
     } else {
-      return skin;.
+      return skin;
     }
   },
   testSkinMod: function (modValue) {
