@@ -3244,30 +3244,36 @@ while (this.fg.width > 110) {
                         var options = POGL.$b.from("/images/bg-pattern-pow2-TEAM2.png");
                         return options.wrapMode = POGL.kc.lc, options;
                     }());
-                    this.Af = new _0x2d9910._b(_0x2d9910.$b.from("/images/lens.png"));
-                    var _0x30e3f5 = _0x2d9910.$b.from("/images/wear-ability.png");
-                    var _0x1ae5e5 = _0x2d9910.$b.from("https://i.imgur.com/EDt862t.png");
-                    var _0x4bcf1a = _0x2d9910.$b.from("https://i.imgur.com/U5sTlhC.png");
-                    var _0x490c91 = _0x2d9910.$b.from("https://i.imgur.com/ub4ed3R.png");
-                    var _0x470c84 = _0x2d9910.$b.from("https://i.imgur.com/LFiCido.png");
-                    this.X_x5 = new _0x41b1f5(_0x470c84, 0x9c, 0x50, 0x57, 0x3c, 0xaa, 1.5, 0x80, 0x80);
-                    this.X_x10 = new _0x41b1f5(_0x470c84, 0x9e, 0xc8, 0x5f, 0x37, 0x109, 128.5, 0x80, 0x80);
-                    this.X_xxlupa = new _0x41b1f5(_0x470c84, 0x4f, 0x8, 0x4b, 0x4d, 0x109, 1.5, 0x80, 0x80);
-                    this.Id_mobileguia = new _0x41b1f5(_0x490c91, 0x0, 0x0, 0x57, 0x4a, 0x15e, 0x3f, 0x80, 0x80);
-                    this.emoji_headshot = new _0x41b1f5(_0x1ae5e5, 0x0, 0x0, 0x100, 0x100, 170.5, -163.5, 0x80, 0x80);
-                    this.emoji_kill = new _0x41b1f5(_0x4bcf1a, 0x0, 0x0, 0x100, 0x100, 170.5, -163.5, 0x80, 0x80);
-                    this.Ph = new _0x41b1f5(_0x30e3f5, 0x9e, 0x56, 0x43, 0x7c, 0x94, 63.5, 0x80, 0x80);
-                    this.Qh = new _0x41b1f5(_0x30e3f5, 0x9e, 0x4, 0x57, 0x4a, 0xcb, 63.5, 0x80, 0x80);
-                    this.Rh = new _0x41b1f5(_0x470c84, 0x9c, 0x8c, 0x57, 0x3c, 0xaa, 128.5, 0x80, 0x80);
+                    this.Cf = new POGL._b(e());
+                    this.Df = new POGL._b(function () {
+                        var options = POGL.$b.from("/images/bg-pattern-pow2-TEAM2.png");
+                        return options.wrapMode = POGL.kc.lc, options;
+                    }());
+                    this.Af = new POGL._b(POGL.$b.from("/images/lens.png"));
+                    var COMPUTE = POGL.$b.from("/images/wear-ability.png");
+
+                    var EMOJI_HEADSHOT = POGL.$b.from("https://i.imgur.com/EDt862t.png");
+                    var EMOJI_KILL = POGL.$b.from("https://i.imgur.com/U5sTlhC.png");
+
+                    var COMPUTEMOBILE_GIE = POGL.$b.from("https://i.imgur.com/ub4ed3R.png");
+                    this.Id_mobileguia = new Region(COMPUTEMOBILE_GIE, 0, 0, 87, 74, 350, 63, 128, 128);
+                    this.emoji_headshot = new Region(EMOJI_HEADSHOT, 0, 0, 256, 256, 170.5, -163.5, 128, 128);
+                    this.emoji_kill = new Region(EMOJI_KILL, 0, 0, 256, 256, 170.5, -163.5, 128, 128);
+                    this.Ph = new Region(COMPUTE, 158, 86, 67, 124, 148, 63.5, 128, 128);
+                    if(theoKzObjects.ModeStremermuiten){
+                    this.Qh = new Region(COMPUTE, 158, 4, 87, 74, 203, 63.5, 128, 128);    
+                }
+                else{
+                    
+                };
+                    this.Rh = new Region(COMPUTE, 4, 4, 146, 146, 63.5, 63.5, 128, 128);
                     this.Ug = function () {
-                      var _0x8ea95f = window.document.createElement('canvas');
-                      _0x8ea95f.width = 0x50;
-                      _0x8ea95f.height = 0x50;
-                      return {
-                        'te': _0x8ea95f,
-                        'Tg': _0x8ea95f.getContext('2d'),
-                        'Hc': new _0x2d9910._b(_0x2d9910.$b.from(_0x8ea95f))
-                      };
+                        var t = window.document.createElement("canvas");
+                        return t.width = 80, t.height = 80, {
+                            te: t,
+                            Tg: t.getContext("2d"),
+                            Hc: new POGL._b(POGL.$b.from(t))
+                        };
                     }();
                     this.Bd = {};
                     this.yd = {};
