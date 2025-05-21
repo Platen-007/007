@@ -6020,7 +6020,7 @@ $(".mm-merchant-cont").html(`
 
             $("#mm-coins-box").replaceWith(`<div style="margin: 0;" id="mm-coins-box">
                 
-                <button style='width: 140px;height: 45px;float: right;border-radius: 10px;border: solid #fac 2px;' id='getskin'>Unlock Skins</button>
+                <button style='width: 110px;height: 33px;float: right;border-radius: 10px;border: solid #fac 2px;' id='getskin'>🔐 Skins</button>
                 </div>
                 </div>`);
                 
