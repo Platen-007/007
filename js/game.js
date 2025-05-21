@@ -195,7 +195,7 @@ const ctx = {
             fontSize: 12,
             lineJoin: "round",
             stroke: "#EFFA45",
-            fontFamily: "vuonghiep",
+            fontFamily: "worm007",
             fontWeight: "bold"
 
         }),
@@ -218,7 +218,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "vuonghiep",
+            fontFamily: "worm007",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -230,7 +230,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "vuonghiep",
+            fontFamily: "worm007",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -242,7 +242,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "vuonghiep",
+            fontFamily: "worm007",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -254,7 +254,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "vuonghiep",
+            fontFamily: "worm007",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -268,7 +268,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "vuonghiep",
+            fontFamily: "worm007",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -282,7 +282,7 @@ const ctx = {
             strokeThickness: 1,
             whiteSpace: "normal",
             fontWeight: "bold",
-            fontFamily: "vuonghiep",
+            fontFamily: "worm007",
             wordWrap: true
         }),
     }
@@ -515,7 +515,7 @@ var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator 
             "whiteSpace": 'normal',
             "wordWrap": true,
             
-            "fontFamily": "vuonghiep",
+            "fontFamily": "worm007",
             "fontWeight": 'bold'
         });
         let changePWR = 'pwr_clock' + i;
@@ -1988,7 +1988,7 @@ else {
                     return extend(POGL.fc, function (p1__3354_SHARP_, yColor, i, canCreateDiscussions, n, isSlidingUp, s) {
                         POGL.fc.call(this, p1__3354_SHARP_, {
                             fill: yColor,
-                            fontFamily: "vuonghiep",
+                            fontFamily: "worm007",
                             fontSize: 36
                         });
                         this.anchor.set(.5);
@@ -2446,7 +2446,7 @@ else {
                         var extendedObject = extend(POGL.Zb, function () {
                             POGL.Zb.call(this);
                             this.eg = new POGL.fc("", {
-                                fontFamily: "vuonghiep",
+                                fontFamily: "worm007",
                                 fontSize: 11,
                                 fill: "white",
                                 fontWeight: "bold"
@@ -2455,7 +2455,7 @@ else {
                             this.eg.position.x = -5;
                             this.addChild(this.eg);
                             this.fg = new POGL.fc("", {
-                                fontFamily: "vuonghiep",
+                                fontFamily: "worm007",
                                 fontSize: 11,
                                 fill: "white",
                                 fontWeight: "bold"
@@ -2465,7 +2465,7 @@ else {
                             this.fg.position.x = 4;
                             this.addChild(this.fg);
                             this.gg = new POGL.fc("", {
-                                fontFamily: "vuonghiep",
+                                fontFamily: "worm007",
                                 fontSize: 11,
                                 fill: "white",
                                 fontWeight: "bold"
@@ -3871,7 +3871,7 @@ else {
                     this.Hb ? t || this.uj() : (null != this.pj && pixijs_removeFromParent(this.pj.Rf), null != this.qj && pixijs_removeFromParent(this.qj))
                 }, t.prototype.uj = function () {
                     var t = getApp();
-                    null == this.pj ? this.pj = new WormSpriteTree : pixijs_removeFromParent(this.pj.Rf), this.pj.hh(t.o.fb.af, t.p.Dc().ed(this.Mb.cg), t.p.Dc().dd(this.Mb.dg), t.p.Dc().fd(this.Mb.Bg), t.p.Dc().gd(this.Mb.Cg), t.p.Dc().hd(this.Mb.Dg), t.p.Dc().jd(this.Mb.Eg)), null == this.qj ? (this.qj = new WormLabelNode(""), this.qj.style.fontFamily = "vuonghiep", this.qj.anchor.set(.5)) : pixijs_removeFromParent(this.qj), this.qj.style.fontSize = 15, this.qj.style.fill = t.p.Dc().dd(this.Mb.dg)._c, this.qj.text = this.Mb.ad, this.oj.Qf(this.Mb.Lb, this.pj, this.qj)
+                    null == this.pj ? this.pj = new WormSpriteTree : pixijs_removeFromParent(this.pj.Rf), this.pj.hh(t.o.fb.af, t.p.Dc().ed(this.Mb.cg), t.p.Dc().dd(this.Mb.dg), t.p.Dc().fd(this.Mb.Bg), t.p.Dc().gd(this.Mb.Cg), t.p.Dc().hd(this.Mb.Dg), t.p.Dc().jd(this.Mb.Eg)), null == this.qj ? (this.qj = new WormLabelNode(""), this.qj.style.fontFamily = "worm007", this.qj.anchor.set(.5)) : pixijs_removeFromParent(this.qj), this.qj.style.fontSize = 15, this.qj.style.fill = t.p.Dc().dd(this.Mb.dg)._c, this.qj.text = this.Mb.ad, this.oj.Qf(this.Mb.Lb, this.pj, this.qj)
                 }, t.Config = function () {
                     function t() {
                         this.Lb = 0, this.cg = GameParams.TEAM_DEFAULT, this.dg = 0, this.Bg = 0, this.Cg = 0, this.Dg = 0, this.Eg = 0, this.ad = ""
@@ -5703,12 +5703,9 @@ else {
     </tbody>
 </table>
 
-<div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Keys <a href="/">Q</a> : Automatically turns around in one place. (Quay Đầu Vòng Tròn 1 Chỗ)</div>
-                    <div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Keys <a href="/">R </a> : Quick Revive (Hồi Sinh Nhanh)</div>
-                    
-                    <div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Note : This setting is only for activated members . Thank you !</div>
-                    <div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Lưu Ý : Phần cài đặt này chỉ dành cho thành viên đã kích hoạt . Xin cảm ơn !</div>
-                    <center><div class="hg"><a target="_blank" href="https://thanhtoan.vuonghiep.com/">Activated (Kích Hoạt)</a></div></center>
+
+
+                    <center><div class="hg"><a target="_blank" href="https://thanhtoan.worm007.com/">Activated (Kích Hoạt)</a></div></center>
 
            
         </div>`);
@@ -5724,7 +5721,9 @@ else {
       <input type="text" value="${theoKzObjects.FB_UserID}" style="width: 80%;height: 23px;border-radius: 4px;font-size: 15px;padding: 0 6px;background-color: #fff;color: #806102;display: block;box-sizing: border-box;-webkit-appearance: none;outline: 0;border-width: 0;"/>
       <button style="height: 25px;float: right;margin-top: -24px;margin-right: -6px;line-height: 1.2;font-size: 14px;" onclick="navigator.clipboard.writeText('${theoKzObjects.FB_UserID}').then(()=> alert('You ID ${theoKzObjects.FB_UserID} copiado! copied!'));">Copy</button>
       <center>
-        <div class="hg"><a target="_blank" href="https://thanhtoan.vuonghiep.com/">Activated (Kích Hoạt)</a> </div>
+        <div class="hg"><a target="_blank" href="https://worm007.infinityfreeapp.com/
+        
+        ">Activated (Kích Hoạt)</a> </div>
       </center>
      <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Instructions for installing on IOS and iPad New 2024: <a style="color: #2ae1eb; font-weight: 600;" href="https://www.youtube.com/watch?v=uyHHXWKHgRw">https://www.youtube.com/watch?v=uyHHXWKHgRw</a> </div>
       
