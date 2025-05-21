@@ -4985,7 +4985,7 @@ else {
                         let get = i18nCustomBundle(this.nl.name)
                         if (this.nl.img) {
                             var where = '<img src="';
-                            where = where + SITE_XTHOST + "/images/paths/" + this.nl.img;
+                            where = where + SITE_XTHOST + "/images/group/" + this.nl.img;
                             get = where = where + '" height="43" width="220" />';
                         }
                         return get;
