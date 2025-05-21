@@ -5774,13 +5774,12 @@ else {
             
             
             <div class="vietnam" style="display: grid !important; grid-template-columns: 1fr 1fr 1fr;gap: 8.5px;">
-            
-            
+                 
     <input type="button" value="F.SCREEN" class="fullscreen_button">
-    
-    
     <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
             
+
+
             
              $(".mm-merchant-cont").html(`
   <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">
