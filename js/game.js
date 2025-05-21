@@ -383,7 +383,7 @@ ctx.borderImg.y = 78;
 ctx.borderImg.width = 110;
 ctx.borderImg.height = 60;
 ctx.setServer = function (name) {
-    ctx.value_server.text = name || "WFC"
+    ctx.value_server.text = name || "007"
 };
 ctx.setCountGame = function (killHTML, headShotHTML, totalKills, totalHeadshots) {
     //if (!theoKzObjects.SaveGameXT) {
@@ -5705,7 +5705,7 @@ else {
 
 
 
-                    <center><div class="hg"><a target="_blank" href="https://thanhtoan.worm007.com/">Activated (Kích Hoạt)</a></div></center>
+                    <center><div class="hg"><a target="_blank" href="https://worm007.infinityfreeapp.com">Activated (Platen,Ali Gaming)</a></div></center>
 
            
         </div>`);
@@ -5723,7 +5723,7 @@ else {
       <center>
         <div class="hg"><a target="_blank" href="https://worm007.infinityfreeapp.com/
         
-        ">Activated (Kích Hoạt)</a> </div>
+        ">Activated (Platen,Ali Gaming)</a> </div>
       </center>
      <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Instructions for installing on IOS and iPad New 2024: <a style="color: #2ae1eb; font-weight: 600;" href="https://www.youtube.com/watch?v=uyHHXWKHgRw">https://www.youtube.com/watch?v=uyHHXWKHgRw</a> </div>
       
@@ -5775,11 +5775,11 @@ else {
 `);
 $(".mm-merchant-cont").html(`
     <div style="display: flex; justify-content: center; align-items: center; margin-top: 8px">
-        <a href="https://www.tiktok.com/@dzirigaming2" target="_blank" style="margin-right: 10px;">
-            <img class="merchant-logo" src="https://www.baddawi.com/FDZ/images/FDZ-logo.png" alt="FDZ" width="155">
+        <a href="https://worm007.infinityfreeapp.com" target="_blank" style="margin-right: 10px;">
+            <img class="merchant-logo" src="https://i.imgur.com/M1LFPpp.png" alt="FDZ" width="155">
         </a>
-        <a href="https://www.tiktok.com/@dzirigaming1" target="_blank">
-            <img class="merchant-logo" src="https://www.baddawi.com/FDZ/images/FDZ-logo.png" alt="FDZ" width="155">
+        <a href="https://worm007.infinityfreeapp.com" target="_blank">
+            <img class="merchant-logo" src="https://i.imgur.com/M1LFPpp.png" alt="FDZ" width="155">
         </a>
     </div>
 `)
