@@ -5768,28 +5768,22 @@ else {
                 theoKzObjects.FoodShadow = $(this).val();
                 localStorage.ComidaShadow = theoKzObjects.FoodShadow;
             });
-
-            $("#mm-advice-cont").html(`
-            
-            
-            
-            <div class="vietnam" style="display: grid !important; grid-template-columns: 1fr 1fr 1fr;gap: 8.5px;">
-                 
-    <input type="button" value="F.SCREEN" class="fullscreen_button">
-    <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
-            
-
-
-            
-             $(".mm-merchant-cont").html(`
-  <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">
-    <a href="https://worm007.infinityfreeapp.com" target="_blank" style="margin-right: 10px;">
-      <img src="https://i.imgur.com/zYdWPum.png" alt="nona" width="155">
-    </a>
-    <a href="https://worm007.infinityfreeapp.com" target="_blank">
-      <img src="https://i.imgur.com/zYdWPum.png" alt="wfc" width="155">
-    </a>
-  </div>`);
+      $("#mm-advice-cont").html(`
+    <div style="display: grid !important; grid-template-columns: 1fr 1fr; gap: 8.5px;">
+        <input type="button" value="F.SCREEN" class="fullscreen_button">
+        <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
+    </div>
+`);
+$(".mm-merchant-cont").html(`
+    <div style="display: flex; justify-content: center; align-items: center; margin-top: 8px">
+        <a href="https://www.tiktok.com/@dzirigaming2" target="_blank" style="margin-right: 10px;">
+            <img class="merchant-logo" src="https://www.baddawi.com/FDZ/images/FDZ-logo.png" alt="FDZ" width="155">
+        </a>
+        <a href="https://www.tiktok.com/@dzirigaming1" target="_blank">
+            <img class="merchant-logo" src="https://www.baddawi.com/FDZ/images/FDZ-logo.png" alt="FDZ" width="155">
+        </a>
+    </div>
+`)
             $(document).ready(function () {
                 $(".fullscreen_button").on("click", function () {
                     document.fullScreenElement && null !== document.fullScreenElement || !document.mozFullScreen && !document.webkitIsFullScreen ? document.documentElement.requestFullScreen ? document.documentElement.requestFullScreen() : document.documentElement.mozRequestFullScreen ? document.documentElement.mozRequestFullScreen() : document.documentElement.webkitRequestFullScreen && document.documentElement.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT) : document.cancelFullScreen ? document.cancelFullScreen() : document.mozCancelFullScreen ? document.mozCancelFullScreen() : document.webkitCancelFullScreen && document.webkitCancelFullScreen()
