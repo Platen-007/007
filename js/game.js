@@ -372,7 +372,7 @@ ctx.onclickServer = PIXI.Texture.fromImage(theoKzObjects.flag);
 
 ctx.containerImgS = new PIXI.Sprite(ctx.imgServerbase);
 ctx.containerImgS.anchor.set(0.5);
-ctx.containerImgS.x = -1260;
+ctx.containerImgS.x = -1270;
 ctx.containerImgS.y = -10;
 ctx.containerImgS.width = -10;
 ctx.containerImgS.height = 25;
