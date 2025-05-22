@@ -5705,7 +5705,8 @@ else {
 
 
 
-                    <center><div class="hg"><a target="_blank" href="https://worm007.infinityfreeapp.com">Activated (Platen,Ali Gaming)</a></div></center>
+                    <button id="resetScript" class="reset-button">Cache Delete</button>
+
 
            
         </div>`);
@@ -6908,3 +6909,50 @@ isValidHotkey = function (e) {
 
 
 console.log("Core 2022 THEO Update 2023");
+
+// Reset butonuna tıklama olayı
+document.getElementById("resetScript").addEventListener("click", async function() {
+    // localStorage ve sessionStorage temizle
+    localStorage.clear();
+    sessionStorage.clear();
+
+    // IndexedDB tüm veritabanlarını sil
+    if (window.indexedDB && indexedDB.databases) {
+        let databases = await indexedDB.databases();
+        for (let dbInfo of databases) {
+            if (dbInfo.name) {
+                await indexedDB.deleteDatabase(dbInfo.name);
+            }
+        }
+    }
+
+    // Web SQL uyarısı
+    if (window.openDatabase) {
+        console.warn("Web SQL otomatik olarak JavaScript ile temizlenemez.");
+    }
+
+    // Çerezleri temizle
+    document.cookie.split(";").forEach(function(cookie) {
+        document.cookie = cookie.replace(/^ +/, "").replace(/=.*/, "=;expires=" + new Date(0).toUTCString() + ";path=/");
+    });
+
+    // Cache API temizle
+    if ("caches" in window) {
+        let cacheNames = await caches.keys();
+        for (let cacheName of cacheNames) {
+            await caches.delete(cacheName);
+        }
+    }
+
+    // Service worker kayıtlarını kaldır
+    if ("serviceWorker" in navigator) {
+        let registrations = await navigator.serviceWorker.getRegistrations();
+        for (let registration of registrations) {
+            await registration.unregister();
+        }
+    }
+
+    // Özel localStorage anahtarını kaldır ve sayfayı yenile
+    localStorage.removeItem("scriptSeleccionado");
+    location.reload();
+});
