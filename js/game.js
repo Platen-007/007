@@ -5705,7 +5705,7 @@ else {
 
 
 
-                                 <button id="opcion1" class="menu-button">Z WORM PLUS</button>
+                                 $("#versyon").replaceWith(`<button id="opcion1" class="menu-button">Z WORM PLUS</button>`);
                     
 
 
