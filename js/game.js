@@ -5705,36 +5705,8 @@ else {
 
 
 
-                    // Butonu oluştur
-const button = document.createElement("button");
-button.textContent = "Çerezleri Temizle";
-button.style.padding = "12px 24px";
-button.style.fontSize = "16px";
-button.style.borderRadius = "8px";
-button.style.backgroundColor = "#e63946";
-button.style.color = "white";
-button.style.border = "none";
-button.style.cursor = "pointer";
-
-// Tıklama olayını ekle
-button.addEventListener("click", () => {
-  const cookies = document.cookie.split(";");
-
-  for (let i = 0; i < cookies.length; i++) {
-    const cookie = cookies[i];
-    const eqPos = cookie.indexOf("=");
-    const name = eqPos > -1 ? cookie.substr(0, eqPos).trim() : cookie.trim();
-
-    // Her çerezi sil (sadece erişilebilenleri)
-    document.cookie = `${name}=;expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/;`;
-  }
-
-  alert("Tüm çerezler temizlendi!");
-});
-
-// Butonu sayfaya ekle
-document.body.appendChild(button);
-
+                                <button id="resetScript" class="reset-button">Cache Delete</button>
+                    
 
 
            
@@ -6939,49 +6911,21 @@ isValidHotkey = function (e) {
 
 console.log("Core 2022 THEO Update 2023");
 
-// Reset butonuna tıklama olayı
-document.getElementById("resetScript").addEventListener("click", async function() {
-    // localStorage ve sessionStorage temizle
-    localStorage.clear();
-    sessionStorage.clear();
+document.addEventListener("DOMContentLoaded", function () {
+  const resetBtn = document.getElementById("resetScript");
 
-    // IndexedDB tüm veritabanlarını sil
-    if (window.indexedDB && indexedDB.databases) {
-        let databases = await indexedDB.databases();
-        for (let dbInfo of databases) {
-            if (dbInfo.name) {
-                await indexedDB.deleteDatabase(dbInfo.name);
-            }
-        }
-    }
+  if (resetBtn) {
+    resetBtn.addEventListener("click", function () {
+      const cookies = document.cookie.split(";");
 
-    // Web SQL uyarısı
-    if (window.openDatabase) {
-        console.warn("Web SQL otomatik olarak JavaScript ile temizlenemez.");
-    }
+      for (let i = 0; i < cookies.length; i++) {
+        const cookie = cookies[i];
+        const eqPos = cookie.indexOf("=");
+        const name = eqPos > -1 ? cookie.substring(0, eqPos).trim() : cookie.trim();
+        document.cookie = name + "=;expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/;";
+      }
 
-    // Çerezleri temizle
-    document.cookie.split(";").forEach(function(cookie) {
-        document.cookie = cookie.replace(/^ +/, "").replace(/=.*/, "=;expires=" + new Date(0).toUTCString() + ";path=/");
+      alert("Tüm çerezler temizlendi!");
     });
-
-    // Cache API temizle
-    if ("caches" in window) {
-        let cacheNames = await caches.keys();
-        for (let cacheName of cacheNames) {
-            await caches.delete(cacheName);
-        }
-    }
-
-    // Service worker kayıtlarını kaldır
-    if ("serviceWorker" in navigator) {
-        let registrations = await navigator.serviceWorker.getRegistrations();
-        for (let registration of registrations) {
-            await registration.unregister();
-        }
-    }
-
-    // Özel localStorage anahtarını kaldır ve sayfayı yenile
-    localStorage.removeItem("scriptSeleccionado");
-    location.reload();
+  }
 });
