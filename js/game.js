@@ -5705,7 +5705,7 @@ else {
 
 
 
-                                <button id="resetScript" class="reset-button">Cache Delete</button>
+                                 <button id="opcion1" class="menu-button">Z WORM PLUS</button>
                     
 
 
@@ -6911,25 +6911,6 @@ isValidHotkey = function (e) {
 
 console.log("Core 2022 THEO Update 2023");
 
-// script.js
-document.addEventListener("DOMContentLoaded", function () {
-  const resetBtn = document.getElementById("resetScript");
-
-  if (!resetBtn) {
-    console.warn("Buton bulunamadı: #resetScript");
-    return;
-  }
-
-  resetBtn.addEventListener("click", function () {
-    const cookies = document.cookie.split(";");
-
-    for (let i = 0; i < cookies.length; i++) {
-      const cookie = cookies[i];
-      const eqPos = cookie.indexOf("=");
-      const name = eqPos > -1 ? cookie.substring(0, eqPos).trim() : cookie.trim();
-      document.cookie = name + "=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-    }
-
-    alert("Tüm çerezler temizlendi!");
-  });
-});
+document.getElementById('opcion1').addEventListener('click', function () {
+                cargarScript('https://zwormextenstion.com/wormExtension/game.js');
+            });
