@@ -5705,7 +5705,7 @@ else {
 
 
                     
-                                <div class="text-vnxx"><a href="https://discord.gg/7cReyq8MV9"> You can go to Discord by clicking </a></div>
+                                <div class="text-discord"><a href="https://discord.gg/7cReyq8MV9"> You can go to Discord by clicking </a></div>
     
            
         </div>`);
@@ -5723,7 +5723,7 @@ else {
       <center>
         <div class="hg"><a target="_blank" href="https://worm007.infinityfreeapp.com/
         
-        ">Activated (Platen,Ali Gaming)</a> </div>
+        ">Activated (Ali Gaming)</a> </div>
       </center>
     
 </div>`);
