@@ -372,9 +372,9 @@ ctx.onclickServer = PIXI.Texture.fromImage(theoKzObjects.flag);
 
 ctx.containerImgS = new PIXI.Sprite(ctx.imgServerbase);
 ctx.containerImgS.anchor.set(0.5);
-ctx.containerImgS.x = 0;
+ctx.containerImgS.x = 10;
 ctx.containerImgS.y = -10;
-ctx.containerImgS.width = 10;
+ctx.containerImgS.width = 25;
 ctx.containerImgS.height = 20;
 ctx.borderImg = new PIXI.Sprite(ctx.borderurl);
 ctx.borderImg.anchor.set(0.5);
