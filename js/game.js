@@ -297,7 +297,7 @@ ctx.clock.y = -50;
 
 
 /*server name */
-ctx.value_server = new PIXI.Text("WFC", ctx.fontStyle.name);
+ctx.value_server = new PIXI.Text("007", ctx.fontStyle.name);
 ctx.value_server.x = 25;
 ctx.value_server.y = -18;
 
@@ -374,7 +374,7 @@ ctx.containerImgS = new PIXI.Sprite(ctx.imgServerbase);
 ctx.containerImgS.anchor.set(0.5);
 ctx.containerImgS.x = 0;
 ctx.containerImgS.y = -10;
-ctx.containerImgS.width = 25;
+ctx.containerImgS.width = 10;
 ctx.containerImgS.height = 20;
 ctx.borderImg = new PIXI.Sprite(ctx.borderurl);
 ctx.borderImg.anchor.set(0.5);
