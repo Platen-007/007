@@ -5704,12 +5704,6 @@ else {
 </table>
 
 
-
-                                 $("#mm-vs-box").replaceWith(`<div style="margin: 0;" id="mm-coins-box">
-                
-                <button style='width: 110px;height: 33px;float: right;border-radius: 10px;border: solid #fac 2px;' id='opcion1'>🔐 Skins</button>
-                </div>
-                </div>`);
                     
 
 
@@ -5734,8 +5728,9 @@ else {
     
 </div>`);
 
+            
 
-
+$("#versyone").replaceWith(`<button id="opcion1" class="menu-button">Cache Delete</button> `);
 
 
             var button = document.getElementById("settingBtn");
