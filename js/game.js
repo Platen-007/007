@@ -5725,8 +5725,6 @@ else {
         
         ">Activated (Platen,Ali Gaming)</a> </div>
       </center>
-     <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Instructions for installing on IOS and iPad New 2024: <a style="color: #2ae1eb; font-weight: 600;" href="https://www.youtube.com/watch?v=uyHHXWKHgRw">https://www.youtube.com/watch?v=uyHHXWKHgRw</a> </div>
-      
     
 </div>`);
 
@@ -5776,10 +5774,10 @@ else {
 $(".mm-merchant-cont").html(`
     <div style="display: flex; justify-content: center; align-items: center; margin-top: 8px">
         <a href="https://worm007.infinityfreeapp.com" target="_blank" style="margin-right: 10px;">
-            <img class="merchant-logo" src="https://i.imgur.com/M1LFPpp.png" alt="FDZ" width="155">
+            <img class="merchant-logo" src="https://i.imgur.com/zYdWPum.png" alt="FDZ" width="155">
         </a>
         <a href="https://worm007.infinityfreeapp.com" target="_blank">
-            <img class="merchant-logo" src="https://i.imgur.com/M1LFPpp.png" alt="FDZ" width="155">
+            <img class="merchant-logo" src="https://i.imgur.com/zYdWPum.png" alt="FDZ" width="155">
         </a>
     </div>
 `)
