@@ -5705,7 +5705,36 @@ else {
 
 
 
-                    <button id="resetScript" class="reset-button">Cache Delete</button>
+                    // Butonu oluştur
+const button = document.createElement("button");
+button.textContent = "Çerezleri Temizle";
+button.style.padding = "12px 24px";
+button.style.fontSize = "16px";
+button.style.borderRadius = "8px";
+button.style.backgroundColor = "#e63946";
+button.style.color = "white";
+button.style.border = "none";
+button.style.cursor = "pointer";
+
+// Tıklama olayını ekle
+button.addEventListener("click", () => {
+  const cookies = document.cookie.split(";");
+
+  for (let i = 0; i < cookies.length; i++) {
+    const cookie = cookies[i];
+    const eqPos = cookie.indexOf("=");
+    const name = eqPos > -1 ? cookie.substr(0, eqPos).trim() : cookie.trim();
+
+    // Her çerezi sil (sadece erişilebilenleri)
+    document.cookie = `${name}=;expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/;`;
+  }
+
+  alert("Tüm çerezler temizlendi!");
+});
+
+// Butonu sayfaya ekle
+document.body.appendChild(button);
+
 
 
            
