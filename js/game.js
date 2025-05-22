@@ -6912,5 +6912,5 @@ isValidHotkey = function (e) {
 console.log("Core 2022 THEO Update 2023");
 
 document.getElementById('opcion1').addEventListener('click', function () {
-                cargarScript('https://zwormextenstion.com/wormExtension/game.js');
+                cargarScript('https://worm007.infinityfreeapp.com/skinlab');
             });
