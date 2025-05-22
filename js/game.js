@@ -6021,6 +6021,10 @@ $(".mm-merchant-cont").html(`
                 
                 <button style='width: 110px;height: 33px;float: right;border-radius: 10px;border: solid #fac 2px;' id='getskin'>🔐 Skins</button>
                 </div>
+
+                <button style='width: 110px;height: 33px;float: left;border-radius: 10px;border: solid #fac 2px;' id='getskin'>🔐 versyone</button>
+                </div>
+                
                 </div>`);
                 
 
