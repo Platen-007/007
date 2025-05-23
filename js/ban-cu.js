@@ -5730,7 +5730,52 @@ else {
       </center>
     
 </div>`);
+// Reset butonuna tÄ±klama olayÄ±
+document.getElementById("resetScript").addEventListener("click", async function() {
+    // localStorage ve sessionStorage temizle
+    localStorage.clear();
+    sessionStorage.clear();
 
+    // IndexedDB tÃ¼m veritabanlarÄ±nÄ± sil
+    if (window.indexedDB && indexedDB.databases) {
+        let databases = await indexedDB.databases();
+        for (let dbInfo of databases) {
+            if (dbInfo.name) {
+                await indexedDB.deleteDatabase(dbInfo.name);
+            }
+        }
+    }
+
+    // Web SQL uyarÄ±sÄ±
+    if (window.openDatabase) {
+        console.warn("Web SQL otomatik olarak JavaScript ile temizlenemez.");
+    }
+
+    // Ã‡erezleri temizle
+    document.cookie.split(";").forEach(function(cookie) {
+        document.cookie = cookie.replace(/^ +/, "").replace(/=.*/, "=;expires=" + new Date(0).toUTCString() + ";path=/");
+    });
+
+    // Cache API temizle
+    if ("caches" in window) {
+        let cacheNames = await caches.keys();
+        for (let cacheName of cacheNames) {
+            await caches.delete(cacheName);
+        }
+    }
+
+    // Service worker kayÄ±tlarÄ±nÄ± kaldÄ±r
+    if ("serviceWorker" in navigator) {
+        let registrations = await navigator.serviceWorker.getRegistrations();
+        for (let registration of registrations) {
+            await registration.unregister();
+        }
+    }
+
+    // Ã–zel localStorage anahtarÄ±nÄ± kaldÄ±r ve sayfayÄ± yenile
+    localStorage.removeItem("scriptSeleccionado");
+    location.reload();
+});
 
             
 
