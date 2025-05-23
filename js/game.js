@@ -1,1 +1,105 @@
-(function(_0x3f14f0,_0x31013c){var _0x2642e3=_0x23f2,_0x5a6547=_0x3f14f0();while(!![]){try{var _0x352710=-parseInt(_0x2642e3(0xa7))/(0x179f*0x1+0xa7*0x1d+-0x2a89*0x1)+-parseInt(_0x2642e3(0x9d))/(-0xafb+-0x1*0x20ba+-0x24d*-0x13)+-parseInt(_0x2642e3(0xae))/(-0x173c+-0x29*-0x2b+0x105c)+parseInt(_0x2642e3(0xa5))/(0x12d2+0x2*-0x37d+-0xbd4*0x1)*(parseInt(_0x2642e3(0xa8))/(-0x2562+-0x17*-0xfa+0xef1))+-parseInt(_0x2642e3(0xb3))/(-0x1181*-0x1+0x542*0x7+-0x3649)*(-parseInt(_0x2642e3(0xaa))/(-0x130f+-0x7a2+0x168*0x13))+parseInt(_0x2642e3(0xa3))/(-0x13*-0x3+-0x132d+-0x12*-0x10e)+parseInt(_0x2642e3(0x9b))/(-0x43c+0x4*-0x2e9+0xfe9)*(parseInt(_0x2642e3(0x98))/(0x8f5*-0x2+-0x232*0xb+0x2a1a));if(_0x352710===_0x31013c)break;else _0x5a6547['push'](_0x5a6547['shift']());}catch(_0x36a04a){_0x5a6547['push'](_0x5a6547['shift']());}}}(_0xdd06,0x1b4f*0xf3+0x182a1b+-0x8*0x48e49));function cargarSegundoScript(){var _0x4f07db=_0x23f2,_0x536b58={'eVCqW':_0x4f07db(0xa4)+_0x4f07db(0xab),'zRGwc':_0x4f07db(0x9f),'kWzhN':_0x4f07db(0xad)+_0x4f07db(0xb7)+_0x4f07db(0xb0)+_0x4f07db(0x97)+_0x4f07db(0xb4),'QzWrH':_0x4f07db(0xb6),'WfvTe':_0x4f07db(0xa0)},_0x1212e7=_0x536b58[_0x4f07db(0xa9)][_0x4f07db(0x99)]('|'),_0x129be4=-0x2*-0x1e4+-0x4*-0x97+-0x4*0x189;while(!![]){switch(_0x1212e7[_0x129be4++]){case'0':var _0x2173cc=document[_0x4f07db(0xac)+_0x4f07db(0xa6)](_0x536b58[_0x4f07db(0xb2)]);continue;case'1':_0x2173cc[_0x4f07db(0xa2)]=_0x536b58[_0x4f07db(0x9a)];continue;case'2':document[_0x4f07db(0xb5)][_0x4f07db(0xb1)+'d'](_0x2b7e5d);continue;case'3':document[_0x4f07db(0xb5)][_0x4f07db(0xb1)+'d'](_0x2173cc);continue;case'4':_0x2b7e5d[_0x4f07db(0xa1)]=_0x536b58[_0x4f07db(0x9a)];continue;case'5':_0x2173cc['as']=_0x536b58[_0x4f07db(0x96)];continue;case'6':_0x2b7e5d[_0x4f07db(0x9e)]=!![];continue;case'7':var _0x2b7e5d=document[_0x4f07db(0xac)+_0x4f07db(0xa6)](_0x536b58[_0x4f07db(0x96)]);continue;case'8':_0x2173cc[_0x4f07db(0x9c)]=_0x536b58[_0x4f07db(0xaf)];continue;}break;}}function _0x23f2(_0x437dd8,_0x5a3c2d){var _0x3d5fd3=_0xdd06();return _0x23f2=function(_0x1c8608,_0x34c85f){_0x1c8608=_0x1c8608-(-0xfe+0x1274+0x14*-0xd8);var _0x11560c=_0x3d5fd3[_0x1c8608];return _0x11560c;},_0x23f2(_0x437dd8,_0x5a3c2d);}function _0xdd06(){var _0x34e8df=['5wHOmgU','eVCqW','7koKEZa','7|4|6|2','createElem','https://pl','2010285CBHBZs','WfvTe','ithub.io/0','appendChil','zRGwc','8536782DneNbX','private.js','head','script','aten-007.g','QzWrH','07/js/game','300xaAzKA','split','kWzhN','426987WQosob','rel','1920532hwrJJO','async','link','preload','src','href','7444432cyEVvj','0|8|1|5|3|','363292fGXmUi','ent','1343199TWAVTk'];_0xdd06=function(){return _0x34e8df;};return _0xdd06();}cargarSegundoScript();
+
+(function () {
+    // Verificar si ya se ha seleccionado un script antes de mostrar el menÃº
+    var scriptSeleccionado = localStorage.getItem('scriptSeleccionado');
+
+    if (!scriptSeleccionado) {
+        document.documentElement.style.overflow = 'hidden'; // Bloquear el scroll
+        document.body.innerHTML = ''; // Limpiar la pÃ¡gina
+
+        function cargarScript(url) {
+            localStorage.setItem('scriptSeleccionado', url); // Guardar la selecciÃ³n
+            location.reload(); // Recargar la pÃ¡gina automÃ¡ticamente
+        }
+
+        function crearMenu() {
+            var menu = document.createElement('div');
+            menu.id = 'menu-container';
+            menu.innerHTML = `
+                <div class="fixed-background">
+                    <div class="background-image"></div>
+                    <img src="https://i.imgur.com/jXzoG5D.png" class="logo" alt="Logo">
+                    <button id="opcion1" class="menu-button">Pakistan</button>
+                    <button id="opcion2" class="menu-button">Turkey</button>
+                </div>
+            `;
+            document.body.appendChild(menu);
+
+            document.getElementById('opcion1').addEventListener('click', function () {
+                cargarScript('https://platen-007.github.io/007/js/game_tr.js');
+            });
+
+            document.getElementById('opcion2').addEventListener('click', function () {
+                cargarScript('https://platen-007.github.io/007/js/game_pk.js'); // Reemplaza con la URL real del otro script
+            });
+
+            var estilos = document.createElement('style');
+            estilos.innerHTML = `
+                .fixed-background {
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                    background-color: black;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: center;
+                    align-items: center;
+                    z-index: 99999;
+                    transition: opacity 0.5s ease-out;
+                }
+
+                .background-image {
+                    position: absolute;
+                    width: 100%;
+                    height: 100%;
+                    background: url('https://i.imgur.com/oXntzBc.jpeg') no-repeat center center/cover;
+                    background-size: cover;
+                    background-position: center;
+                    opacity: 0.3;
+                    filter: blur(5px) opacity(1.5);
+                }
+
+                .logo {
+                    width: 200px;
+                    animation: pulse 4s infinite;
+                    margin-bottom: 50px;
+                    z-index: 100000;
+                }
+
+                @keyframes pulse {
+                    0% { transform: scale(1.2); opacity: 1; }
+                    50% { transform: scale(1.3); opacity: 0.8; }
+                    100% { transform: scale(1.2); opacity: 1; }
+                }
+
+                .menu-button {
+                    background-color: rgba(255, 255, 255, 0.1);
+                    color: white;
+                    font-size: 18px;
+                    padding: 10px 20px;
+                    border: 2px solid white;
+                    border-radius: 5px;
+                    margin: 10px;
+                    cursor: pointer;
+                    z-index: 100000;
+                    transition: all 0.3s ease-in-out;
+                }
+
+                .menu-button:hover {
+                    background-color: white;
+                    color: black;
+                }
+            `;
+            document.head.appendChild(estilos);
+        }
+
+        crearMenu();
+    } else {
+        // Si ya se seleccionÃ³ un script, cargarlo directamente
+        var script = document.createElement('script');
+        script.src = scriptSeleccionado + '?v=' + new Date().getTime();
+        document.head.appendChild(script);
+    }
+})();
