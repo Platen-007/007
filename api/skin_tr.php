@@ -28569,7 +28569,7 @@
         {
             "isCustom": true,
             "id": "WFC - Friends",
-            "img": "wfc.png",
+            "img": "007.png",
             "name": {
                 "en": "WFC - Friends"
             },
@@ -28648,17 +28648,7 @@
                 "3242",
                 "3303",
                 "3304",
-                "3305"
-            ]
-        },
-        {
-            "isCustom": true,
-            "id": "HPBD",
-            "img": "hpd.png",
-            "name": {
-                "en": "HPBD"
-            },
-            "list": [
+                "3305",
                 "3441",
                 "3442",
                 "3443",
@@ -28671,19 +28661,18 @@
                 "3450",
                 "3451",
                 "3452",
-                "3453",
-                
+                "3453"
             ]
         },
         {
             "isCustom": true,
-            "id": "HPBD",
-            "img": "hpd.png",
+            "id": "TR",
+            "img": "tr.png",
             "name": {
-                "en": "HPBD"
+                "en": "TR"
             },
             "list": [
-                "308"
+                "87"
             ]
         }
     ],
