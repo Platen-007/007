@@ -5704,7 +5704,7 @@ else {
 </table>
 
 <div id="graphics-settings">
-    <button id="resetScript" class="opcion1">Cache Delete</button>
+    <button id="opcion1" class="opcion1">Cache Delete</button>
 </div>
                                                                 
                     
