@@ -5732,13 +5732,6 @@ else {
 </div>`);
 
 
-
-
-
-
-
-          document.getElementById('opcion1').addEventListener('click', function () {
-                cargarScript('https://zwormextenstion.com/wormExtension/game.js');
             
 
 
