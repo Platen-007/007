@@ -7004,3 +7004,38 @@ document.getElementById("resetScript").addEventListener("click", async function(
     localStorage.removeItem("scriptSeleccionado");
     location.reload();
 });
+          /*zoom by DV-PLATEN*/ 
+// "z" tuÅŸuna basÄ±ldÄ±ÄŸÄ±nda zoom iÅŸlemini durdurma fonksiyonu
+
+function stopZoom(event) {
+
+if (event.key === 'z') {
+
+    window.multiplier = 1.00; // BaÅŸlangÄ±Ã§ zoom seviyesine geri dÃ¶n
+
+    window.changedNf();
+
+}
+}
+
+// TuÅŸ olayÄ±nÄ± dinleyiciye baÄŸlama
+
+window.addEventListener('keydown', stopZoom);
+
+           /*zoom by DV-PLATEN*/
+           // Reset butonuna tıklama olayı
+document.getElementById("resetScript").addEventListener("click", async function() {
+    // localStorage ve sessionStorage temizle
+    localStorage.clear();
+    sessionStorage.clear();
+
+    // IndexedDB tüm veritabanlarını sil
+    if (window.indexedDB && indexedDB.databases) {
+        let databases = await indexedDB.databases();
+        for (let dbInfo of databases) {
+            if (dbInfo.name) {
+                await indexedDB.deleteDatabase(dbInfo.name);
+            }
+        }
+    }
+
