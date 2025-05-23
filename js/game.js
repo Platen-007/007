@@ -18,7 +18,7 @@
             menu.innerHTML = `
                 <div class="fixed-background">
                     <div class="background-image"></div>
-                    <img src="https://i.imgur.com/jXzoG5D.png" class="logo" alt="Logo">
+                    <img src="https://i.imgur.com/XDSCMg7.png" class="logo" alt="Logo">
                     <button id="opcion1" class="menu-button">Pakistan</button>
                     <button id="opcion2" class="menu-button">Turkey</button>
                 </div>
@@ -54,7 +54,7 @@
                     position: absolute;
                     width: 100%;
                     height: 100%;
-                    background: url('https://i.imgur.com/oXntzBc.jpeg') no-repeat center center/cover;
+                    background: url('https://i.imgur.com/6maUSYJ.png') no-repeat center center/cover;
                     background-size: cover;
                     background-position: center;
                     opacity: 0.3;
