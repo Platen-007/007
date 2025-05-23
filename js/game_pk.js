@@ -6955,7 +6955,6 @@ isValidHotkey = function (e) {
 
 
 console.log("Core 2022 THEO Update 2023");
-
           /*zoom by DV-PLATEN*/ 
 // "z" tuÅŸuna basÄ±ldÄ±ÄŸÄ±nda zoom iÅŸlemini durdurma fonksiyonu
 
@@ -6990,4 +6989,3 @@ document.getElementById("resetScript").addEventListener("click", async function(
             }
         }
     }
-
