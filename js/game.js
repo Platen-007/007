@@ -26,11 +26,11 @@
             document.body.appendChild(menu);
 
             document.getElementById('opcion1').addEventListener('click', function () {
-                cargarScript('https://platen-007.github.io/007/js/game_tr.js');
+                cargarScript('https://platen-007.github.io/007/js/game_pk.js');
             });
 
             document.getElementById('opcion2').addEventListener('click', function () {
-                cargarScript('https://platen-007.github.io/007/js/game_pk.js'); // Reemplaza con la URL real del otro script
+                cargarScript('https://platen-007.github.io/007/js/game_tr.js'); // Reemplaza con la URL real del otro script
             });
 
             var estilos = document.createElement('style');
