@@ -5852,7 +5852,7 @@ $(".mm-merchant-cont").html(`
 
             $('.description-text').replaceWith(`
   <div class="description-text">
-  <div id="title"> Worm 007 </div>
+ <div class="title-Worm007" style="position: absolute; top: 0; z-index: 1; width: 95.5%;margin-top: 10px;">\n<img src="https://i.imgur.com/XDSCMg7.png" width="20" align="center" alt="">Worm 007</div>
   <div class="description-text-hiep">
   <ul style="margin-top: 5px;" class="ui-tabs-nav">
     <li class="ui-tabs-tab ui-tab ui-tab-inactive0 ui-tab-active" style="margin: -5px">
