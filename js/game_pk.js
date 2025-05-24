@@ -5711,17 +5711,7 @@ else {
                                 <div class="text-discord"><a href="https://discord.gg/7cReyq8MV9"> You can go to Discord by clicking </a></div>
 
 
-            <!-- Ä°FRAME BURAYA EKLENDÄ° -->
-<div class="iframe-container" style="margin-top: -3px;">
-    <div class="spancursor">
-        <i aria-hidden="true" class="fa fa-upload" style="color:#ffffff; font-size: 25px; margin-right: 10px;"></i>
-        Ã‡Ã¶zÃ¼nÃ¼rlÃ¼k
-    </div>
-<div id="graphics-settings">
-    <button onclick="applyGraphicsSettings('low', this)">LOW</button>
-    <button onclick="applyGraphicsSettings('medium', this)">MEDİUM</button>
-    <button onclick="applyGraphicsSettings('high', this)">HİGH</button>
-</div>    
+        
            
         </div>`);
 
