@@ -1407,6 +1407,17 @@ body {display:block !important;}
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text:nth-child(n+2) {display:none;}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text * {font-size:12px;}
+
+.title-Worm007 {
+    background: #ffffff;
+    color: #820000;
+    border-radius: 5px;
+    text-align: center;
+    padding: 2px;
+    font-family: vuonghiep;
+    font-style: italic;
+    font-weight: bold;
+}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text h1,
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text h2,
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text ul,
@@ -4686,15 +4697,16 @@ button:hover{
 .het-han {
    font-weight: bold;
    width: 210px;
-    line-height: 1.6;
-    border-radius: 10px;
-    font-size: 14px;
-    text-shadow: 0 0 0 #ff006a, 0 0 0.5em #ff00bc, 0 0 0.4em #ff00d4;
-    text-align: center;
-    /* background: linear-gradient(#8f22ff, #35b3a2); */
-    position: absolute;
-    left: 25px;
-    top: -6px;
+   line-height: 1.6;
+   border-radius: 10px;
+   font-size: 14px;
+   text-shadow: 0 0 0 #ff006a, 0 0 0.5em #ff00bc, 0 0 0.4em #ff00d4;
+   text-align: center;
+   /* background: linear-gradient(#8f22ff, #35b3a2); */
+   position: absolute;
+   left: 48px;
+   margin-top: -41px;
+   top: -6px;
 }
 
 #final-replay {position: absolute;
