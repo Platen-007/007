@@ -5778,14 +5778,7 @@ document.getElementById("resetScript").addEventListener("click", async function(
     location.reload();
 });
 
-
-            document.getElementById('opcion2').addEventListener('click', function () {
-                cargarScript('https://platen-007.github.io/007/js/game.js'); // Reemplaza con la URL real del otro script
-            });
-
             
-
-
             var button = document.getElementById("settingBtn");
             var content = document.getElementById("settingContent");
 
