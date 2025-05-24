@@ -5707,9 +5707,6 @@ else {
     <button id="resetScript" class="resetScript">Cache Delete</button>
 </div>
 
-<div id="graphics-settings">
-    <button id="opcion2" class="resetScript">Mennu</button>
-</div>
                                                                 
                     
                                 <div class="text-discord"><a href="https://discord.gg/7cReyq8MV9"> You can go to Discord by clicking </a></div>
