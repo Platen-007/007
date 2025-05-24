@@ -75,7 +75,7 @@
             "Client_VisibleSkin7": "0000",
             "Client_VisibleSkin8": "0000",
             "Client_VisibleSkin9": "0000",
-         },   "Client_VisibleSkin10": "0000"
+         }, "Client_VisibleSkin10": "0000"
          { 
             "id": 5,
             "cliente_NOMBRE": "SAG IMAM ",
@@ -97,8 +97,8 @@
          },
          { 
             "id": 6,
-            "cliente_NOMBRE": "HANUMAN JI  ",
-            "cliente_ID": "gg_100116068052742964877",
+            "cliente_NOMBRE": "SAG IMAM ",
+            "cliente_ID": "gg_102115232765058091743",
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateExpired": "2029-12-20",
             "status": 1,
