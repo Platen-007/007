@@ -36,7 +36,7 @@
 
 
              document.getElementById('opcion3').addEventListener('click', function () {
-                cargarScript('https://platen-007.github.io/007/js/game.js');
+                cargarScript('https://platen-007.github.io/007/js/game_v2.js');
             });
 
             var estilos = document.createElement('style');
