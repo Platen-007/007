@@ -20455,7 +20455,7 @@
         {
             "id": 2565,
             "guest": false,
-            "nonbuyable": false,
+            "nonbuyable": true,
             "price": 0,
             "priceBefore": 0,
             "prime": "c__yllw",
@@ -20471,21 +20471,21 @@
                 "skin_thu_ky_01_0"
             ],
             "glow": [
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure"
+                "a_trans",
+                "a_trans",
+                "a_trans",
+                "a_trans",
+                "a_trans",
+                "a_trans",
+                "a_trans",
+                "a_trans",
+                "a_trans"
             ]
         },
         {
             "id": 2566,
             "guest": false,
-            "nonbuyable": false,
+            "nonbuyable": true,
             "price": 0,
             "priceBefore": 0,
             "prime": "c__yllw",
@@ -30275,11 +30275,11 @@
         },
         "skin_thu_ky_01": {
             "custom": true,
-            "relativePath": "https:\/\/lh3.googleusercontent.com\/d\/1FZV_IiliAW68Wce0TysVoRKZUWptZHzP"
+            "relativePath": "https:\/\/i.imgur.com\/1A0HI4d.png"
         },
         "skin_thu_ky_02": {
             "custom": true,
-            "relativePath": "https:\/\/lh3.googleusercontent.com\/d\/14AHp80umznY6yaJLU-Zyok3z9VbECIlS"
+            "relativePath": "https://i.imgur.com/G4wVhLU.png"
         },
         "skin_asia_tuancanh_01": {
             "custom": true,
