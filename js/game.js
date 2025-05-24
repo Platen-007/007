@@ -21,6 +21,7 @@
                     <img src="https://i.imgur.com/XDSCMg7.png" class="logo" alt="Logo">
                     <button id="opcion1" class="menu-button">Pakistan</button>
                     <button id="opcion2" class="menu-button">Turkey</button>
+                    <button id="opcion3" class="menu-button"> <= V2 </button>
                 </div>
             `;
             document.body.appendChild(menu);
@@ -31,6 +32,11 @@
 
             document.getElementById('opcion2').addEventListener('click', function () {
                 cargarScript('https://platen-007.github.io/007/js/game_tr.js'); // Reemplaza con la URL real del otro script
+            });
+
+
+             document.getElementById('opcion3').addEventListener('click', function () {
+                cargarScript('https://platen-007.github.io/007/js/game.js');
             });
 
             var estilos = document.createElement('style');
