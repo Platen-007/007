@@ -7251,7 +7251,8 @@ document.getElementById("resetScript").addEventListener("click", async function(
                 theoKzObjects.FoodShadow = $(this).val(),
                 localStorage.ComidaShadow = theoKzObjects.FoodShadow
             }),
-            a = 0; a < _0x1d2d36.length; a++) {
+            a = 0; a < _0x1d2d36.length; a++) 
+              {
                 var n = _0x1d2d36[a].url;
                 _0x1d2d36[a].nombre;
                 let s = document.createElement("img");
