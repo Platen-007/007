@@ -5709,7 +5709,6 @@ else {
                                                                 
                     
                                 <div class="text-discord"><a href="https://discord.gg/7cReyq8MV9"> You can go to Discord by clicking </a></div>
-           
         </div>`);
 
            $("#loa831pibur0w4gv").replaceWith(`
