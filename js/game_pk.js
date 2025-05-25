@@ -195,7 +195,7 @@ const ctx = {
             fontSize: 12,
             lineJoin: "round",
             stroke: "#EFFA45",
-            fontFamily: "worm007",
+            fontFamily: "vuonghiep",
             fontWeight: "bold"
 
         }),
@@ -218,7 +218,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "worm007",
+            fontFamily: "vuonghiep",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -230,7 +230,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "worm007",
+            fontFamily: "vuonghiep",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -242,7 +242,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "worm007",
+            fontFamily: "vuonghiep",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -254,7 +254,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "worm007",
+            fontFamily: "vuonghiep",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -268,7 +268,7 @@ const ctx = {
             stroke: "#FAA845",
             strokeThickness: 1,
             whiteSpace: "normal",
-            fontFamily: "worm007",
+            fontFamily: "vuonghiep",
             fontWeight: "bold",
             wordWrap: true
         }),
@@ -282,7 +282,7 @@ const ctx = {
             strokeThickness: 1,
             whiteSpace: "normal",
             fontWeight: "bold",
-            fontFamily: "worm007",
+            fontFamily: "vuonghiep",
             wordWrap: true
         }),
     }
@@ -297,7 +297,7 @@ ctx.clock.y = -50;
 
 
 /*server name */
-ctx.value_server = new PIXI.Text("007", ctx.fontStyle.name);
+ctx.value_server = new PIXI.Text("WFC", ctx.fontStyle.name);
 ctx.value_server.x = 25;
 ctx.value_server.y = -18;
 
@@ -372,18 +372,18 @@ ctx.onclickServer = PIXI.Texture.fromImage(theoKzObjects.flag);
 
 ctx.containerImgS = new PIXI.Sprite(ctx.imgServerbase);
 ctx.containerImgS.anchor.set(0.5);
-ctx.containerImgS.x = -1275;
-ctx.containerImgS.y = 105;
+ctx.containerImgS.x = 0;
+ctx.containerImgS.y = -10;
 ctx.containerImgS.width = 25;
 ctx.containerImgS.height = 20;
 ctx.borderImg = new PIXI.Sprite(ctx.borderurl);
 ctx.borderImg.anchor.set(0.5);
-ctx.borderImg.x = -1200;
+ctx.borderImg.x = -2;
 ctx.borderImg.y = 78;
 ctx.borderImg.width = 110;
 ctx.borderImg.height = 60;
 ctx.setServer = function (name) {
-    ctx.value_server.text = name || "007"
+    ctx.value_server.text = name || "WFC"
 };
 ctx.setCountGame = function (killHTML, headShotHTML, totalKills, totalHeadshots) {
     //if (!theoKzObjects.SaveGameXT) {
@@ -515,7 +515,7 @@ var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator 
             "whiteSpace": 'normal',
             "wordWrap": true,
             
-            "fontFamily": "worm007",
+            "fontFamily": "vuonghiep",
             "fontWeight": 'bold'
         });
         let changePWR = 'pwr_clock' + i;
@@ -1988,7 +1988,7 @@ else {
                     return extend(POGL.fc, function (p1__3354_SHARP_, yColor, i, canCreateDiscussions, n, isSlidingUp, s) {
                         POGL.fc.call(this, p1__3354_SHARP_, {
                             fill: yColor,
-                            fontFamily: "worm007",
+                            fontFamily: "vuonghiep",
                             fontSize: 36
                         });
                         this.anchor.set(.5);
@@ -2446,7 +2446,7 @@ else {
                         var extendedObject = extend(POGL.Zb, function () {
                             POGL.Zb.call(this);
                             this.eg = new POGL.fc("", {
-                                fontFamily: "worm007",
+                                fontFamily: "vuonghiep",
                                 fontSize: 11,
                                 fill: "white",
                                 fontWeight: "bold"
@@ -2455,7 +2455,7 @@ else {
                             this.eg.position.x = -5;
                             this.addChild(this.eg);
                             this.fg = new POGL.fc("", {
-                                fontFamily: "worm007",
+                                fontFamily: "vuonghiep",
                                 fontSize: 11,
                                 fill: "white",
                                 fontWeight: "bold"
@@ -2465,7 +2465,7 @@ else {
                             this.fg.position.x = 4;
                             this.addChild(this.fg);
                             this.gg = new POGL.fc("", {
-                                fontFamily: "worm007",
+                                fontFamily: "vuonghiep",
                                 fontSize: 11,
                                 fill: "white",
                                 fontWeight: "bold"
@@ -3600,7 +3600,7 @@ else {
                                 // If the new token is also expired, handle the error as needed
                                 autoLoginCount++;
                                 console.log("auto login attempt:", autoLoginCount);
-                                $("#login-view").html("<h2>Auto Login Google Worm 007  : " + autoLoginCount + "</h2>");
+                                $("#login-view").html("<h2>Auto Login Google Worm 007 : " + autoLoginCount + "</h2>");
                                 fetchNewToken();
                             } else {
                                 handleLoginResponse(opts);
@@ -3622,7 +3622,7 @@ else {
                                 // If the new token is also expired, handle the error as needed
                                 autoLoginCount++;
                                 console.log("auto login attempt:", autoLoginCount);
-                                $("#login-view").html("<h2>Auto Login Google Worm 007  : "+ autoLoginCount +"</h2>");
+                                $("#login-view").html("<h2>Auto Login Google Worm 007 : "+ autoLoginCount +"</h2>");
                                 fetchNewToken();
                             }else{
                                 handleLoginResponse(opts);
@@ -3871,7 +3871,7 @@ else {
                     this.Hb ? t || this.uj() : (null != this.pj && pixijs_removeFromParent(this.pj.Rf), null != this.qj && pixijs_removeFromParent(this.qj))
                 }, t.prototype.uj = function () {
                     var t = getApp();
-                    null == this.pj ? this.pj = new WormSpriteTree : pixijs_removeFromParent(this.pj.Rf), this.pj.hh(t.o.fb.af, t.p.Dc().ed(this.Mb.cg), t.p.Dc().dd(this.Mb.dg), t.p.Dc().fd(this.Mb.Bg), t.p.Dc().gd(this.Mb.Cg), t.p.Dc().hd(this.Mb.Dg), t.p.Dc().jd(this.Mb.Eg)), null == this.qj ? (this.qj = new WormLabelNode(""), this.qj.style.fontFamily = "worm007", this.qj.anchor.set(.5)) : pixijs_removeFromParent(this.qj), this.qj.style.fontSize = 15, this.qj.style.fill = t.p.Dc().dd(this.Mb.dg)._c, this.qj.text = this.Mb.ad, this.oj.Qf(this.Mb.Lb, this.pj, this.qj)
+                    null == this.pj ? this.pj = new WormSpriteTree : pixijs_removeFromParent(this.pj.Rf), this.pj.hh(t.o.fb.af, t.p.Dc().ed(this.Mb.cg), t.p.Dc().dd(this.Mb.dg), t.p.Dc().fd(this.Mb.Bg), t.p.Dc().gd(this.Mb.Cg), t.p.Dc().hd(this.Mb.Dg), t.p.Dc().jd(this.Mb.Eg)), null == this.qj ? (this.qj = new WormLabelNode(""), this.qj.style.fontFamily = "vuonghiep", this.qj.anchor.set(.5)) : pixijs_removeFromParent(this.qj), this.qj.style.fontSize = 15, this.qj.style.fill = t.p.Dc().dd(this.Mb.dg)._c, this.qj.text = this.Mb.ad, this.oj.Qf(this.Mb.Lb, this.pj, this.qj)
                 }, t.Config = function () {
                     function t() {
                         this.Lb = 0, this.cg = GameParams.TEAM_DEFAULT, this.dg = 0, this.Bg = 0, this.Cg = 0, this.Dg = 0, this.Eg = 0, this.ad = ""
@@ -4985,7 +4985,7 @@ else {
                         let get = i18nCustomBundle(this.nl.name)
                         if (this.nl.img) {
                             var where = '<img src="';
-                            where = where + SITE_XTHOST + "/images/group/" + this.nl.img;
+                            where = where + SITE_XTHOST + "/images/paths/" + this.nl.img;
                             get = where = where + '" height="43" width="220" />';
                         }
                         return get;
@@ -5608,7 +5608,7 @@ else {
         var showServers = function () {
 
 
-            $('#mm-event-text').replaceWith('<div class="text-vnxx"><a href="https://worm007.infinityfreeapp.com/skinlab/"> You can go to Skinlab by clicking </a></div>');
+            $('#mm-event-text').replaceWith('<div class="text-vnxx"><a href="https://www.facebook.com/WormateFriendsConnect">Worm 007 </a></div>');
 
           $(".column-right").append(`
           
@@ -5623,7 +5623,7 @@ else {
             
         <div onclick="openPopup()"><i aria-hidden="true" class="fa fa-cog fa-spin" style="color:yellow;font-size: 25px;"> </i> Settings</div>
         <div id="popup" class="popup">
-        <div class="phdr1"><i aria-hidden="true" class="fa fa-cog fa-spin" style="color:yellow;font-size: 25px;"></i> Worm 007 Settings</div>
+        <div class="phdr1"><i aria-hidden="true" class="fa fa-cog fa-spin" style="color:yellow;font-size: 25px;"></i> Worm 007 s</div>
         <button class="close-button" onclick="closePopup()">Close</button>
         
                     <div id="kich-hoat">
@@ -5703,12 +5703,14 @@ else {
     </tbody>
 </table>
 
-<div id="graphics-settings">
-    <button id="resetScript" class="resetScript">Cache Delete</button>
-</div>
-                                                                
+<div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Keys <a href="/">Q</a> : Automatically turns around in one place. (Quay Đầu Vòng Tròn 1 Chỗ)</div>
+                    <div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Keys <a href="/">R </a> : Quick Revive (Hồi Sinh Nhanh)</div>
                     
-                                <div class="text-discord"><a href="https://discord.gg/7cReyq8MV9"> You can go to Discord by clicking </a></div>
+                    <div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Note : This setting is only for activated members . Thank you !</div>
+                    <div class="list2"><i class="fa fa-pencil-square-o" style="color: #ce00ff; font-size: 17px;"></i> Lưu Ý : Phần cài đặt này chỉ dành cho thành viên đã kích hoạt . Xin cảm ơn !</div>
+                    <center><div class="hg"><a target="_blank" href="https://thanhtoan.vuonghiep.com/">Activated (Kích Hoạt)</a></div></center>
+
+           
         </div>`);
 
            $("#loa831pibur0w4gv").replaceWith(`
@@ -5722,60 +5724,15 @@ else {
       <input type="text" value="${theoKzObjects.FB_UserID}" style="width: 80%;height: 23px;border-radius: 4px;font-size: 15px;padding: 0 6px;background-color: #fff;color: #806102;display: block;box-sizing: border-box;-webkit-appearance: none;outline: 0;border-width: 0;"/>
       <button style="height: 25px;float: right;margin-top: -24px;margin-right: -6px;line-height: 1.2;font-size: 14px;" onclick="navigator.clipboard.writeText('${theoKzObjects.FB_UserID}').then(()=> alert('You ID ${theoKzObjects.FB_UserID} copiado! copied!'));">Copy</button>
       <center>
-        <div class="hg"><a target="_blank" href="https://worm007.infinityfreeapp.com/
-        
-        ">Activated (Ali Gaming)</a> </div>
+        <div class="hg"><a target="_blank" href="https://thanhtoan.vuonghiep.com/">Activated (Kích Hoạt)</a> </div>
       </center>
+     <i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Instructions for installing on IOS and iPad New 2024: <a style="color: #2ae1eb; font-weight: 600;" href="https://www.youtube.com/watch?v=uyHHXWKHgRw">https://www.youtube.com/watch?v=uyHHXWKHgRw</a> </div>
+      
     
 </div>`);
-// Reset butonuna tÄ±klama olayÄ±
-document.getElementById("resetScript").addEventListener("click", async function() {
-    // localStorage ve sessionStorage temizle
-    localStorage.clear();
-    sessionStorage.clear();
 
-    // IndexedDB tÃ¼m veritabanlarÄ±nÄ± sil
-    if (window.indexedDB && indexedDB.databases) {
-        let databases = await indexedDB.databases();
-        for (let dbInfo of databases) {
-            if (dbInfo.name) {
-                await indexedDB.deleteDatabase(dbInfo.name);
-            }
-        }
-    }
 
-    // Web SQL uyarÄ±sÄ±
-    if (window.openDatabase) {
-        console.warn("Web SQL otomatik olarak JavaScript ile temizlenemez.");
-    }
 
-    // Ã‡erezleri temizle
-    document.cookie.split(";").forEach(function(cookie) {
-        document.cookie = cookie.replace(/^ +/, "").replace(/=.*/, "=;expires=" + new Date(0).toUTCString() + ";path=/");
-    });
-
-    // Cache API temizle
-    if ("caches" in window) {
-        let cacheNames = await caches.keys();
-        for (let cacheName of cacheNames) {
-            await caches.delete(cacheName);
-        }
-    }
-
-    // Service worker kayÄ±tlarÄ±nÄ± kaldÄ±r
-    if ("serviceWorker" in navigator) {
-        let registrations = await navigator.serviceWorker.getRegistrations();
-        for (let registration of registrations) {
-            await registration.unregister();
-        }
-    }
-
-    // Ã–zel localStorage anahtarÄ±nÄ± kaldÄ±r ve sayfayÄ± yenile
-    localStorage.removeItem("scriptSeleccionado");
-    location.reload();
-});
-
-            
 
 
             var button = document.getElementById("settingBtn");
@@ -5811,22 +5768,32 @@ document.getElementById("resetScript").addEventListener("click", async function(
                 theoKzObjects.FoodShadow = $(this).val();
                 localStorage.ComidaShadow = theoKzObjects.FoodShadow;
             });
-      $("#mm-advice-cont").html(`
-    <div style="display: grid !important; grid-template-columns: 1fr 1fr; gap: 8.5px;">
-        <input type="button" value="F.SCREEN" class="fullscreen_button">
-        <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
-    </div>
-`);
-$(".mm-merchant-cont").html(`
-    <div style="display: flex; justify-content: center; align-items: center; margin-top: 8px">
-        <a href="https://worm007.infinityfreeapp.com" target="_blank" style="margin-right: 10px;">
-            <img class="merchant-logo" src="https://i.imgur.com/zYdWPum.png" alt="FDZ" width="155">
-        </a>
-        <a href="https://worm007.infinityfreeapp.com" target="_blank">
-            <img class="merchant-logo" src="https://i.imgur.com/zYdWPum.png" alt="FDZ" width="155">
-        </a>
-    </div>
-`)
+
+            $("#mm-advice-cont").html(`
+            
+            
+            
+            <div class="vietnam" style="display: grid !important; grid-template-columns: 1fr 1fr 1fr;gap: 8.5px;">
+            
+            
+    <input type="button" value="F.SCREEN" class="fullscreen_button">
+    
+    
+    <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
+    
+    <input type="button" value="CONTACT" onclick="window.location.href='https://api.whatsapp.com/send?phone=84924623650&text=Xin%20ch%C3%A0o!%20M%C3%ACnh%20%C4%91ang%20d%C3%B9ng%20Whatsapp'" class="fullscreen_contact">
+    </div> `);
+            
+            
+             $(".mm-merchant-cont").html(`
+  <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">
+    <a href="https://www.youtube.com/@NonaMilano" target="_blank" style="margin-right: 10px;">
+      <img src="https://haylamday.com/images/hiep_img/nona.png" alt="nona" width="155">
+    </a>
+    <a href="https://thanhtoan.vuonghiep.com" target="_blank">
+      <img src="https://i.imgur.com/UptsCxV.png" alt="wfc" width="155">
+    </a>
+  </div>`);
             $(document).ready(function () {
                 $(".fullscreen_button").on("click", function () {
                     document.fullScreenElement && null !== document.fullScreenElement || !document.mozFullScreen && !document.webkitIsFullScreen ? document.documentElement.requestFullScreen ? document.documentElement.requestFullScreen() : document.documentElement.mozRequestFullScreen ? document.documentElement.mozRequestFullScreen() : document.documentElement.webkitRequestFullScreen && document.documentElement.webkitRequestFullScreen(Element.ALLOW_KEYBOARD_INPUT) : document.cancelFullScreen ? document.cancelFullScreen() : document.mozCancelFullScreen ? document.mozCancelFullScreen() : document.webkitCancelFullScreen && document.webkitCancelFullScreen()
@@ -6064,9 +6031,8 @@ $(".mm-merchant-cont").html(`
 
             $("#mm-coins-box").replaceWith(`<div style="margin: 0;" id="mm-coins-box">
                 
-                <button style='width: 110px;height: 33px;float: right;border-radius: 10px;border: solid #fac 2px;' id='getskin'>🔐 Skins</button>
+                <button style='width: 140px;height: 45px;float: right;border-radius: 10px;border: solid #fac 2px;' id='getskin'>Unlock Skins</button>
                 </div>
-                
                 </div>`);
                 
 
@@ -6412,7 +6378,7 @@ $('#default-cursor-btn').click(function () {
 
             
             $('.description-text').replaceWith('<div class="description-text">');
-            $('.description-text').prepend("<p id='title'>Worm 007</p>");
+            $('.description-text').prepend("<p id='title'>Wormate Friends</p>");
             $('#title').after(`<div id="idwormworld" style="text-align: center"><div class='logo'><img src='https://haylamday.com/images/hiep_img/logo.png'/></div>
         <input type="text" value="${theoKzObjects.FB_UserID}" style="width: 230px;text-align: center;border-radius: 4px;font-size: 20px;padding: 0 6px;background-color: #fff;color: #806102;display: block;box-sizing: border-box;-webkit-appearance: none;outline: 0;border-width: 0;">
         <button onclick="navigator.clipboard.writeText('${theoKzObjects.FB_UserID}').then(()=> alert('You ID ${theoKzObjects.FB_UserID} copiado! copied!'));">COPY</button>
@@ -6617,10 +6583,10 @@ $("#background-canvas").replaceWith(`
 <a hreflang="es" href="/es/">Español</a>
 </div></div>
             
-            <a class="link" hreflang="en" href="https://worm007.infinityfreeapp.com">© 2024 Worm 007</a>
+            <a class="link" hreflang="en" href="Ploto">© 2025</a>
             
-            <a style="font-size: 17px;font-weight: 600;">Worm007.İnfinityFreeapp.Com</a>
-          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class='fa fa-heart animated infinite pulse' style='color:white'></i> in Pakistan And Turkey !</a>
+            <a style="font-size: 17px;font-weight: 600;">VuongHiep.Com</a>
+          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class='fa fa-heart animated infinite pulse' style='color:red'></i> in VungTau !</a>
             </footer>
 
 
@@ -6955,50 +6921,3 @@ isValidHotkey = function (e) {
 
 
 console.log("Core 2022 THEO Update 2023");
-
-// Reset butonuna tÄ±klama olayÄ±
-document.getElementById("resetScript").addEventListener("click", async function() {
-    // localStorage ve sessionStorage temizle
-    localStorage.clear();
-    sessionStorage.clear();
-
-    // IndexedDB tÃ¼m veritabanlarÄ±nÄ± sil
-    if (window.indexedDB && indexedDB.databases) {
-        let databases = await indexedDB.databases();
-        for (let dbInfo of databases) {
-            if (dbInfo.name) {
-                await indexedDB.deleteDatabase(dbInfo.name);
-            }
-        }
-    }
-
-    // Web SQL uyarÄ±sÄ±
-    if (window.openDatabase) {
-        console.warn("Web SQL otomatik olarak JavaScript ile temizlenemez.");
-    }
-
-    // Ã‡erezleri temizle
-    document.cookie.split(";").forEach(function(cookie) {
-        document.cookie = cookie.replace(/^ +/, "").replace(/=.*/, "=;expires=" + new Date(0).toUTCString() + ";path=/");
-    });
-
-    // Cache API temizle
-    if ("caches" in window) {
-        let cacheNames = await caches.keys();
-        for (let cacheName of cacheNames) {
-            await caches.delete(cacheName);
-        }
-    }
-
-    // Service worker kayÄ±tlarÄ±nÄ± kaldÄ±r
-    if ("serviceWorker" in navigator) {
-        let registrations = await navigator.serviceWorker.getRegistrations();
-        for (let registration of registrations) {
-            await registration.unregister();
-        }
-    }
-
-    // Ã–zel localStorage anahtarÄ±nÄ± kaldÄ±r ve sayfayÄ± yenile
-    localStorage.removeItem("scriptSeleccionado");
-    location.reload();
-});
