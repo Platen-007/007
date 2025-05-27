@@ -8150,16 +8150,6 @@ $("#loa831pibur0w4gv").replaceWith(`
   };
   $(document).ready(function () {
     $("#background-canvas").replaceWith(`
-      <canvas id="background-canvas" style="
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        background: url('https://i.imgur.com/YqGlYVZ.jpeg') no-repeat center center;
-        background-size: cover;
-          animation: zoomOut 5s infinite; /* Animasyonu uygula */
-      "></canvas>
     `);
   });
   
