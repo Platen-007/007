@@ -858,10 +858,10 @@ body {display:block !important;}
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-bottom {
  height: 70px;
-    width: 100%;
-    position: absolute;
-    top: 450px;
-  
+ width: 100%;
+ position: absolute;
+ top: 450px;
+ color: transparent;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-bottom #mm-bottom-buttons {
   float: right;
@@ -4040,14 +4040,13 @@ button:hover{
     font-weight: bold;}
     
 .contact {
-    font-weight: bold;
-    line-height: 1.6;
-    border-radius: 10px;
-    font-size: 16px;
-    text-shadow: 0 0 0 #ff006a, 0 0 0.5em #ff0000, 0 0 0.4em #ff0000;
-    margin-top: -30px;
-    color: #f3f906;
-    
+    /* font-weight: bold; */
+    /* line-height: 1.6; */
+    /* border-radius: 10px; */
+    /* font-size: 16px; */
+    /* text-shadow: 0 0 0 #ff006a, 0 0 0.5em #ff0000, 0 0 0.4em #ff0000; */
+    /* margin-top: -30px; */
+    color: #f3f90600;
 }
 .het-han {
    font-weight: bold;
