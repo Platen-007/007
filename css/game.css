@@ -442,10 +442,11 @@ body {display:block !important;}
     color: red;
     background-color: rgb(255, 255, 255);
     text-align: center;
-    font-weight: bold;
-    font-size: 19px !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
     padding: 5px;
     border-radius: 6px;
+    font-family: cursive;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text h1,
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left .description-text h2,
