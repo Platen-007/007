@@ -5393,7 +5393,7 @@
     }, {
         "id": 1199,
         "guest": false,
-        "nonbuyable": true,
+        "nonbuyable": false,
         "price": 0,
         "priceBefore": 0,
         "prime": "c__yllw",
@@ -5407,7 +5407,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["25ypg_02_8", "25ypg_02_7", "25ypg_02_6", "25ypg_02_5", "25ypg_02_4", "25ypg_02_3", "25ypg_02_2", "25ypg_02_1", "25ypg_02_0"],
-        "glow": ["a__yllw", "a__yllw", "a__yllw", "a__yllw", "a__yllw", "a__yllw", "a__yllw", "a__yllw", "a__yllw"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1201,
         "guest": false,
@@ -5425,7 +5425,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["25ypg_04_8", "25ypg_04_7", "25ypg_04_6", "25ypg_04_5", "25ypg_04_4", "25ypg_04_3", "25ypg_04_2", "25ypg_04_1", "25ypg_04_0"],
-        "glow": ["a_death", "a_death", "a_death", "a_death", "a_death", "a_death", "a_death", "a_death", "a_death"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1203,
         "guest": false,
@@ -5434,7 +5434,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["25ypg_05_8", "25ypg_05_7", "25ypg_05_6", "25ypg_05_5", "25ypg_05_4", "25ypg_05_3", "25ypg_05_2", "25ypg_05_1", "25ypg_05_0"],
-        "glow": ["a__ruby", "a_death", "a__ruby", "a_death", "a__ruby", "a_death", "a__ruby", "a_death", "a__ruby"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1204,
         "guest": false,
@@ -7460,7 +7460,7 @@
         "name": {
             "en": "HPBD"
         },
-        "list": ["1387", "1388", "1389", "1390", "1391", "1392", "1393", "1394", "1395", "1396", "1397", "1398", "1399"]
+        "list": ["1199", "1200", "1201", "1202", "1203"]
     }, {
         "isCustom": true,
         "id": "Kurdish Flag",
@@ -7488,7 +7488,7 @@
     }, {
         "isCustom": true,
         "id": "daragon",
-        "img": "daragon.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "daragon"
         },
@@ -7496,7 +7496,7 @@
     }, {
         "isCustom": true,
         "id": "Vuong hiep skins 1",
-        "img": "vth24.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "Vuong hiep skins 1"
         },
@@ -7504,7 +7504,7 @@
     }, {
         "isCustom": true,
         "id": "VƯƠNG HIỆP SKINS",
-        "img": "vth.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "VƯƠNG HIỆP SKINS"
         },
@@ -7512,7 +7512,7 @@
     }, {
         "isCustom": true,
         "id": "VNXX GAMING",
-        "img": "vnxx.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "VNXX GAMING"
         },
@@ -7520,7 +7520,7 @@
     }, {
         "isCustom": true,
         "id": "Việt Nam",
-        "img": "viet_nam.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "Việt Nam"
         },
@@ -7528,7 +7528,7 @@
     }, {
         "isCustom": true,
         "id": "Kiss The Rain",
-        "img": "ktr.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "Kiss The Rain"
         },
@@ -7536,7 +7536,7 @@
     }, {
         "isCustom": true,
         "id": "summer",
-        "img": "summer.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "SUMMER"
         },
@@ -7544,7 +7544,7 @@
     }, {
         "isCustom": true,
         "id": "Linspecturdz",
-        "img": "Linspecturdz.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "EFFENDI"
         },
@@ -7552,7 +7552,7 @@
     }, {
         "isCustom": true,
         "id": "NSND",
-        "img": "nsnd.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "NSND"
         },
@@ -7560,7 +7560,7 @@
     }, {
         "isCustom": true,
         "id": "THƯ KÝ BIGO",
-        "img": "THƯ-KÝ-SKINS.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "THƯ KÝ BIGO"
         },
@@ -7568,31 +7568,15 @@
     }, {
         "isCustom": true,
         "id": "EFFENDI",
-        "img": "effendi.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "EFFENDI"
         },
         "list": ["1222", "1223", "1224", "1225", "1226", "1228", "1230", "1231", "1232", "1233", "1235", "1236"]
     }, {
         "isCustom": true,
-        "id": "25 YPG",
-        "img": "25YPG.png",
-        "name": {
-            "en": "25 YPG"
-        },
-        "list": ["1199", "1200", "1201", "1202", "1203", "1204", "1205", "1206", "1207", "1208", "1209", "1210", "1211", "1212", "1213", "1214", "1215", "1216", "1217", "1218", "1219", "1220", "1221"]
-    },  {
-        "isCustom": true,
-        "id": "Other Flags",
-        "img": "other-flags.png",
-        "name": {
-            "en": "Flags Flags"
-        },
-        "list": ["1123", "1124", "1125", "1126", "1127", "1128", "1129", "1130", "1131", "1132", "1133", "1134", "1135", "1136", "1137", "1138", "1139"]
-    }, {
-        "isCustom": true,
         "id": "KURDISTAN 75",
-        "img": "kurdistan75.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "KURDISTAN 75"
         },
@@ -7600,7 +7584,7 @@
     }, {
         "isCustom": true,
         "id": "EZI EZIDXAN",
-        "img": "EZI.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "EZI EZIDXAN"
         },
@@ -7608,7 +7592,7 @@
     }, {
         "isCustom": true,
         "id": "101 Gaming",
-        "img": "101gaming.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "101 Gaming"
         },
@@ -7616,7 +7600,7 @@
     }, {
         "isCustom": true,
         "id": "Ziko Gaming",
-        "img": "ZIKO.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "Ziko Gaming"
         },
@@ -7624,7 +7608,7 @@
     }, {
         "isCustom": true,
         "id": "Abu Faris",
-        "img": "abufaris.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "Abu Faris"
         },
@@ -7632,7 +7616,7 @@
     }, {
         "isCustom": true,
         "id": "ninawa",
-        "img": "ninawa.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "ninawa"
         },
@@ -7640,18 +7624,11 @@
     }, {
         "isCustom": true,
         "id": "LSB SKINS",
-        "img": "LSB-Skins.png",
+        "img": "bosoda007.png",
         "name": {
             "en": "LSB SKINS"
         },
         "list": ["1000", "1001", "1002", "1003", "1004", "1005", "1006", "1007", "1008", "1009", "1010", "1011", "1012", "1013", "1014", "1015", "1016"]
-    }, {
-        "isCustom": true,
-        "id": "Forder",
-        "name": {
-            "en": "Custom"
-        },
-        "list": ["1340", "1339", "1337", "1270", "1227", "1229", "1087", "1018"]
     }],
     "textureDict": {
         "texture_glow2": {
@@ -8728,23 +8705,23 @@
         },
         "25ypg_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/S5rYkaP.png"
+            "relativePath": "https://i.imgur.com/IohdEYc.png"
         },
         "25ypg_02": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/AN870eT.png"
+            "relativePath": "https://i.imgur.com/6N4iAuk.png"
         },
         "25ypg_03": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/WfEEsl2.png"
+            "relativePath": "https://i.imgur.com/Tbw9f3K.png"
         },
         "25ypg_04": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/PTXxK6t.png"
+            "relativePath": "https://i.imgur.com/JA0T7rl.png"
         },
         "25ypg_05": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/3dgLhNE.png"
+            "relativePath": "https://i.imgur.com/ZWrK4f3.png"
         },
         "25ypg_06": {
             "custom": true,
