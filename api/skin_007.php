@@ -5056,7 +5056,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["otherflags_08_8", "otherflags_08_7", "otherflags_08_6", "otherflags_08_5", "otherflags_08_4", "otherflags_08_3", "otherflags_08_2", "otherflags_08_1", "otherflags_08_0"],
-        "glow": ["a_white", "a_white", "a_white", "a_azure", "a_azure", "a_azure", "a_azure", "a_azure", "a_azure"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1131,
         "guest": false,
@@ -5146,7 +5146,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["kurdistan75_01_8", "kurdistan75_01_7", "kurdistan75_01_6", "kurdistan75_01_5", "kurdistan75_01_4", "kurdistan75_01_3", "kurdistan75_01_2", "kurdistan75_01_1", "kurdistan75_01_0"],
-        "glow": ["a_white", "a_white", "a_white", "a_ivory", "a__yllw", "a__orng", "a__orng", "a__yllw", "a_ivory"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1096,
         "guest": false,
@@ -5155,7 +5155,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["kurdistan75_02_8", "kurdistan75_02_7", "kurdistan75_02_6", "kurdistan75_02_5", "kurdistan75_02_4", "kurdistan75_02_3", "kurdistan75_02_2", "kurdistan75_02_1", "kurdistan75_02_0"],
-        "glow": ["a_white", "a_white", "a_white", "a_ivory", "a__yllw", "a__orng", "a__orng", "a__yllw", "a_ivory"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1097,
         "guest": false,
@@ -5164,7 +5164,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["kurdistan75_03_8", "kurdistan75_03_7", "kurdistan75_03_6", "kurdistan75_03_5", "kurdistan75_03_4", "kurdistan75_03_3", "kurdistan75_03_2", "kurdistan75_03_1", "kurdistan75_03_0"],
-        "glow": ["a_azure", "a_azure", "a_azure", "a_azure", "a_azure", "a_azure", "a_azure", "a_azure", "a_azure"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1098,
         "guest": false,
@@ -5173,7 +5173,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["kurdistan75_04_8", "kurdistan75_04_7", "kurdistan75_04_6", "kurdistan75_04_5", "kurdistan75_04_4", "kurdistan75_04_3", "kurdistan75_04_2", "kurdistan75_04_1", "kurdistan75_04_0"],
-        "glow": ["a_white", "a_white", "a__card", "a__card", "a_white", "a_white", "a__card", "a__card", "a_white"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1099,
         "guest": false,
@@ -5182,7 +5182,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["kurdistan75_05_8", "kurdistan75_05_7", "kurdistan75_05_6", "kurdistan75_05_5", "kurdistan75_05_4", "kurdistan75_05_3", "kurdistan75_05_2", "kurdistan75_05_1", "kurdistan75_05_0"],
-        "glow": ["a__yllw", "a__yllw", "a__yllw", "a__yllw", "a__orng", "a__orng", "a__orng", "a__orng", "a__orng"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1100,
         "guest": false,
@@ -7463,6 +7463,13 @@
         "list": ["1199", "1200", "1201", "1202", "1203"]
     }, {
         "isCustom": true,
+        "id": "Forder",
+        "name": {
+            "en": "MADARA GAMİNG 888"
+        },
+        "list": ["1095", "1096", "1097", "1098", "1099", "1100"]
+    }, {
+        "isCustom": true,
         "id": "Kurdish Flag",
         "img": "kurdish-flag.png",
         "name": {
@@ -8593,27 +8600,27 @@
         },
         "kurdistan75_01": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_kurdistan75\/skin_kurdistan75_01.png"
+            "relativePath": "https://i.imgur.com/NPysGEX.png"
         },
         "kurdistan75_02": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_kurdistan75\/skin_kurdistan75_02.png"
+            "relativePath": "https://i.imgur.com/PcMAEPl.png"
         },
         "kurdistan75_03": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_kurdistan75\/skin_kurdistan75_03.png"
+            "relativePath": "https://i.imgur.com/nSvZprE.png"
         },
         "kurdistan75_04": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_kurdistan75\/skin_kurdistan75_04.png"
+            "relativePath": "https://i.imgur.com/Oec1KPt.png"
         },
         "kurdistan75_05": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_kurdistan75\/skin_kurdistan75_05.png"
+            "relativePath": "https://i.imgur.com/ngkAkF9.png"
         },
         "kurdistan75_06": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_kurdistan75\/skin_kurdistan75_06.png"
+            "relativePath": "https://i.imgur.com/Hp8zfoW.png"
         },
         "kurdistan75_07": {
             "custom": true,
