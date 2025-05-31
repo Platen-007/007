@@ -1,1509 +1,3505 @@
 {
     "success": true,
     "servers": [
-        {
-            "id": 62,
-            "name": "<div id='svhiep'> <div class='ten'>62. Germany </div> <div class='valu'>DE62</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32477/wormy",
-            "status": 1
-        },
-        {
-            "id": 61,
-            "name": "<div id='svhiep'> <div class='ten'>61. Germany </div> <div class='valu'>DE61</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32703/wormy",
-            "status": 1
-        },
-        {
-            "id": 60,
-            "name": "<div id='svhiep'> <div class='ten'>60. Germany </div> <div class='valu'>DE60</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30135/wormy",
-            "status": 1
-        },
-        {
-            "id": 59,
-            "name": "<div id='svhiep'> <div class='ten'>59. Germany </div> <div class='valu'>DE59</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30106/wormy",
-            "status": 1
-        },
-        {
-            "id": 58,
-            "name": "<div id='svhiep'> <div class='ten'>58. Germany </div> <div class='valu'>DE58</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30245/wormy",
-            "status": 1
-        },
-        {
-            "id": 57,
-            "name": "<div id='svhiep'> <div class='ten'>57. Germany </div> <div class='valu'>DE57</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://dal-b.wormate.io:32584/wormy",
-            "status": 1
-        },
-        {
-            "id": 56,
-            "name": "<div id='svhiep'> <div class='ten'>56. Germany </div> <div class='valu'>DE56</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://hil-a.wormate.io:30213/wormy",
-            "status": 1
-        },
-        {
-            "id": 55,
-            "name": "<div id='svhiep'> <div class='ten'>55. Germany </div> <div class='valu'>DE55</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://vin-a.wormate.io:30703/wormy",
-            "status": 1
-        },
-        {
-            "id": 54,
-            "name": "<div id='svhiep'> <div class='ten'>54. Germany </div> <div class='valu'>DE54</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32611/wormy",
-            "status": 1
-        },
-        {
-            "id": 53,
-            "name": "<div id='svhiep'> <div class='ten'>53. Germany </div> <div class='valu'>DE53</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31859/wormy",
-            "status": 1
-        },
-        {
-            "id": 52,
-            "name": "<div id='svhiep'> <div class='ten'>52. Germany </div> <div class='valu'>DE52</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30339/wormy",
-            "status": 1
-        },
-        {
-            "id": 51,
-            "name": "<div id='svhiep'> <div class='ten'>51. Germany </div> <div class='valu'>DE51</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31123/wormy",
-            "status": 1
-        },
-        {
-            "id": 50,
-            "name": "<div id='svhiep'> <div class='ten'>50. Germany </div> <div class='valu'>DE50</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30161/wormy",
-            "status": 1
-        },
-        {
-            "id": 49,
-            "name": "<div id='svhiep'> <div class='ten'>49. Germany </div> <div class='valu'>DE49</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32577/wormy",
-            "status": 1
-        },
-        {
-            "id": 48,
-            "name": "<div id='svhiep'> <div class='ten'>48. Germany </div> <div class='valu'>DE48</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32405/wormy",
-            "status": 1
-        },
-        {
-            "id": 47,
-            "name": "<div id='svhiep'> <div class='ten'>47. Germany </div> <div class='valu'>DE47</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31908/wormy",
-            "status": 1
-        },
-        {
-            "id": 46,
-            "name": "<div id='svhiep'> <div class='ten'>46. Germany </div> <div class='valu'>DE46</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30327/wormy",
-            "status": 1
-        },
-        {
-            "id": 45,
-            "name": "<div id='svhiep'> <div class='ten'>45. Germany </div> <div class='valu'>DE45</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30909/wormy",
-            "status": 1
-        },
-        {
-            "id": 44,
-            "name": "<div id='svhiep'> <div class='ten'>44. Germany </div> <div class='valu'>DE44</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31230/wormy",
-            "status": 1
-        },
-        {
-            "id": 43,
-            "name": "<div id='svhiep'> <div class='ten'>43. Germany </div> <div class='valu'>DE43</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31163/wormy",
-            "status": 1
-        },
-        {
-            "id": 42,
-            "name": "<div id='svhiep'> <div class='ten'>42. Germany </div> <div class='valu'>DE42</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31091/wormy",
-            "status": 1
-        },
-        {
-            "id": 41,
-            "name": "<div id='svhiep'> <div class='ten'>41. Germany </div> <div class='valu'>DE41</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31084/wormy",
-            "status": 1
-        },
-        {
-            "id": 40,
-            "name": "<div id='svhiep'> <div class='ten'>40. Germany </div> <div class='valu'>DE40</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30809/wormy",
-            "status": 1
-        },
-        {
-            "id": 39,
-            "name": "<div id='svhiep'> <div class='ten'>39. Germany </div> <div class='valu'>DE39</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30135/wormy",
-            "status": 1
-        },
-        {
-            "id": 38,
-            "name": "<div id='svhiep'> <div class='ten'>38. Germany </div> <div class='valu'>DE38</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30725/wormy",
-            "status": 1
-        },
-        {
-            "id": 37,
-            "name": "<div id='svhiep'> <div class='ten'>37. Germany </div> <div class='valu'>DE37</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32584/wormy",
-            "status": 1
-        },
-        {
-            "id": 36,
-            "name": "<div id='svhiep'> <div class='ten'>36. Germany </div> <div class='valu'>DE36</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31695/wormy",
-            "status": 1
-        },
-        {
-            "id": 35,
-            "name": "<div id='svhiep'> <div class='ten'>35. Germany </div> <div class='valu'>DE35</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32054/wormy",
-            "status": 1
-        },
-        {
-            "id": 34,
-            "name": "<div id='svhiep'> <div class='ten'>34. Germany </div> <div class='valu'>DE34</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30171/wormy",
-            "status": 1
-        },
-        {
-            "id": 33,
-            "name": "<div id='svhiep'> <div class='ten'>33. Germany </div> <div class='valu'>DE33</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31750/wormy",
-            "status": 1
-        },
-        {
-            "id": 32,
-            "name": "<div id='svhiep'> <div class='ten'>32. Germany </div> <div class='valu'>DE32</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
-            "status": 1
-        },
-        {
-            "id": 31,
-            "name": "<div id='svhiep'> <div class='ten'>31. Germany </div> <div class='valu'>DE31</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31038/wormy",
-            "status": 1
-        },
-        {
-            "id": 30,
-            "name": "<div id='svhiep'> <div class='ten'>30. Germany </div> <div class='valu'>DE30</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31695/wormy",
-            "status": 1
-        },
-        {
-            "id": 29,
-            "name": "<div id='svhiep'> <div class='ten'>29. Germany </div> <div class='valu'>DE29</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32054/wormy",
-            "status": 1
-        },
-        {
-            "id": 28,
-            "name": "<div id='svhiep'> <div class='ten'>28. Germany </div> <div class='valu'>DE28</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30171/wormy",
-            "status": 1
-        },
-        {
-            "id": 27,
-            "name": "<div id='svhiep'> <div class='ten'>27. Germany</div> <div class='valu'>DE27</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31750/wormy",
-            "status": 1
-        },
-        {
-            "id": 26,
-            "name": "<div id='svhiep'> <div class='ten'>26. Germany </div> <div class='valu'>DE26</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31819/wormy",
-            "status": 1
-        },
-        {
-            "id": 25,
-            "name": "<div id='svhiep'> <div class='ten'>25. Germany </div> <div class='valu'>DE25</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31533/wormy",
-            "status": 1
-        },
-        {
-            "id": 24,
-            "name": "<div id='svhiep'> <div class='ten'>24. Germany </div> <div class='valu'>DE24</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32054/wormy",
-            "status": 1
-        },
-        {
-            "id": 23,
-            "name": "<div id='svhiep'> <div class='ten'>23. Germany </div> <div class='valu'>DE23</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30208/wormy",
-            "status": 1
-        },
-        {
-            "id": 22,
-            "name": "<div id='svhiep'> <div class='ten'>22. Germany </div> <div class='valu'>DE22</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
-            "status": 1
-        },
-        {
-            "id": 21,
-            "name": "<div id='svhiep'> <div class='ten'>21. Germany</div> <div class='valu'>DE21</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://gra-a.wormate.io:31819/wormy",
-            "status": 1
-        },
-        {
-            "id": 20,
-            "name": "<div id='svhiep'> <div class='ten'>20.Germany</div> <div class='valu'>DE20</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/eff.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30208/wormy",
-            "status": 1
-        },
-        {
-            "id": 19,
-            "name": "<div id='svhiep'> <div class='ten'>19.Germany</div> <div class='valu'>DE19</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31819/wormy",
-            "status": 1
-        },
-        {
-            "id": 18,
-            "name": "<div id='svhiep'> <div class='ten'>18.Germany</div> <div class='valu'>DE18</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/mazarat.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31533/worm",
-            "status": 1
-        },
-        {
-            "id": 17,
-            "name": "<div id='svhiep'> <div class='ten'>17.Germany</div> <div class='valu'>DE17</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/ncn.jpg'/> </div> </div>",
-            "serverUrl": "wss://fra-c.wormate.io:30339/wormy",
-            "status": 1
-        },
-        {
-            "id": 16,
-            "name": "<div id='svhiep'> <div class='ten'>16.Germany</div> <div class='valu'>DE16</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/brazil.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30265/wormy",
-            "status": 1
-        },
-        {
-            "id": 15,
-            "name": "<div id='svhiep'> <div class='ten'>15.Germany</div> <div class='valu'>DE15</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/zikogaming.jpeg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30106/wormy",
-            "status": 1
-        },
-        {
-            "id": 14,
-            "name": "<div id='svhiep'> <div class='ten'>14. MARSHMELO GAMING </div> <div class='valu'>DE14</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/marsh.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
-            "status": 1
-        },
-        {
-            "id": 13,
-            "name": "<div id='svhiep'> <div class='ten'>13.Germany</div> <div class='valu'>DE13</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/riogaming.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
-            "status": 1
-        },
-        {
-            "id": 12,
-            "name": "<div id='svhiep'> <div class='ten'>12.Germany</div> <div class='valu'>DE12</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/dz.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://gra-a.wormate.io:30245/wormy",
-            "status": 1
-        },
-        {
-            "id": 11,
-            "name": "<div id='svhiep'> <div class='ten'>11.Germany</div> <div class='valu'>DE11</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/bsg.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:32581/wormy",
-            "status": 1
-        },
-        {
-            "id": 10,
-            "name": "<div id='svhiep'> <div class='ten'>10.Germany</div> <div class='valu'>DE10</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/reem.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
-            "status": 1
-        },
-        {
-            "id": 9,
-            "name": "<div id='svhiep'> <div class='ten'>09.Germany</div> <div class='valu'>DE9</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/aitmak.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31038/wormy",
-            "status": 1
-        },
-        {
-            "id": 8,
-            "name": "<div id='svhiep'> <div class='ten'>08.Germany</div> <div class='valu'>DE8</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/abnsham.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30106/wormy",
-            "status": 1
-        },
-        {
-            "id": 7,
-            "name": "<div id='svhiep'> <div class='ten'>07.Germany</div> <div class='valu'>DE7</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/show.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31392/wormy",
-            "status": 1
-        },
-        {
-            "id": 6,
-            "name": "<div id='svhiep'> <div class='ten'>06.Germany</div> <div class='valu'>DE6</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/ninawa.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
-            "status": 1
-        },
-        {
-            "id": 5,
-            "name": "<div id='svhiep'> <div class='ten'>05.Germany</div> <div class='valu'>DE5</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/EZIDXAN.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:31750/wormy",
-            "status": 1
-        },
-        {
-            "id": 4,
-            "name": "<div id='svhiep'> <div class='ten'>04.Germany</div> <div class='valu'>DE4</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/101kurdo.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
-            "status": 1
-        },
-        {
-            "id": 3,
-            "name": "<div id='svhiep'> <div class='ten'>03.Germany</div> <div class='valu'>DE3</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/kurdistan75.jpg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30702/wormy",
-            "status": 1
-        },
-        {
-            "id": 2,
-            "name": "<div id='svhiep'> <div class='ten'>02.Germany</div> <div class='valu'>DE2</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/OH-CLAN.png'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
-            "status": 1
-        },
-        {
-            "id": 1,
-            "name": "<div id='svhiep'> <div class='ten'>01.Germany</div> <div class='valu'>DE1</div>  <div class='img-team'> <img src='https://i.imgur.com/RQTKt8G.jpeg'/> </div> </div>",
-            "region": "peru",
-            "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
-            "status": 1
-        },
-        {
-            "id": 473,
-            "name": "<div id='svhiep'> <div class='ten'>04. UAE - WFC</div> <div class='valu'>UAE4</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "mexico",
-            "serverUrl": "wss://dxb-a.wormate.io:31353/wormy",
-            "status": 1
-        },
-        {
-            "id": 473,
-            "name": "<div id='svhiep'> <div class='ten'>03. SAG - Ali Gaming </div> <div class='valu'>UAE3</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/aligaming.JPG'/> </div> </div>",
-            "region": "mexico",
-            "serverUrl": "wss://dxb-a.wormate.io:32703/wormy",
-            "status": 1
-        },
-        {
-            "id": 472,
-            "name": "<div id='svhiep'> <div class='ten'>02. FIRE@YT\ud83d\udd25 </div> <div class='valu'>UAE2</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/fire.JPG'/> </div> </div>",
-            "region": "mexico",
-            "serverUrl": "wss://dxb-a.wormate.io:31975/wormy",
-            "status": 1
-        },
-        {
-            "id": 470,
-            "name": "<div id='svhiep'> <div class='ten'>01.\ud83d\udd34 YT Nona Milano</div> <div class='valu'>UAE1</div>  <div class='img-team'> <img src='https://i.imgur.com/RQTKt8G.jpeg'/> </div> </div>",
-            "region": "mexico",
-            "serverUrl": "wss://dxb-a.wormate.io:32703/wormy",
-            "status": 1
-        },
-        {
-            "id": 110,
-            "name": "<div id='svhiep'> <div class='ten'>41. US</div> <div class='valu'>US41</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:30725/wormy",
-            "status": 1
-        },
-        {
-            "id": 109,
-            "name": "<div id='svhiep'> <div class='ten'>40. US</div> <div class='valu'>US40</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://dal-b.wormate.io:30809/wormy",
-            "status": 1
-        },
-        {
-            "id": 108,
-            "name": "<div id='svhiep'> <div class='ten'>39. US</div> <div class='valu'>US39</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:32500/wormy",
-            "status": 1
-        },
-        {
-            "id": 107,
-            "name": "<div id='svhiep'> <div class='ten'>38. US</div> <div class='valu'>US38</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://sao-a.wormate.io:31163/wormy",
-            "status": 1
-        },
-        {
-            "id": 106,
-            "name": "<div id='svhiep'> <div class='ten'>37. US</div> <div class='valu'>US37</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:32212/wormy",
-            "status": 1
-        },
-        {
-            "id": 105,
-            "name": "<div id='svhiep'> <div class='ten'>36. US</div> <div class='valu'>US36</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:32053/wormy",
-            "status": 1
-        },
-        {
-            "id": 104,
-            "name": "<div id='svhiep'> <div class='ten'>35. US</div> <div class='valu'>US35</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:31516/wormy",
-            "status": 1
-        },
-        {
-            "id": 103,
-            "name": "<div id='svhiep'> <div class='ten'>34. US</div> <div class='valu'>US34</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:31311/wormy",
-            "status": 1
-        },
-        {
-            "id": 102,
-            "name": "<div id='svhiep'> <div class='ten'>33. US</div> <div class='valu'>US33</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:31211/wormy",
-            "status": 1
-        },
-        {
-            "id": 101,
-            "name": "<div id='svhiep'> <div class='ten'>32. US</div> <div class='valu'>US32</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:31142/wormy",
-            "status": 1
-        },
-        {
-            "id": 100,
-            "name": "<div id='svhiep'> <div class='ten'>31. US</div> <div class='valu'>US31</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:31026/wormy",
-            "status": 1
-        },
-        {
-            "id": 99,
-            "name": "<div id='svhiep'> <div class='ten'>30. US</div> <div class='valu'>US30</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:30703/wormy",
-            "status": 1
-        },
-        {
-            "id": 98,
-            "name": "<div id='svhiep'> <div class='ten'>29. US</div> <div class='valu'>US29</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:32746/wormy",
-            "status": 1
-        },
-        {
-            "id": 97,
-            "name": "<div id='svhiep'> <div class='ten'>28. US</div> <div class='valu'>US28</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:30332/wormy",
-            "status": 1
-        },
-        {
-            "id": 96,
-            "name": "<div id='svhiep'> <div class='ten'>27. US </div> <div class='valu'>US27</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:30208/wormy",
-            "status": 1
-        },
-        {
-            "id": 95,
-            "name": "<div id='svhiep'> <div class='ten'>26. US </div> <div class='valu'>US26</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://sin-a.wormate.io:31750/wormy",
-            "status": 1
-        },
-        {
-            "id": 94,
-            "name": "<div id='svhiep'> <div class='ten'>25. US </div> <div class='valu'>US25</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:30407/wormy",
-            "status": 1
-        },
-        {
-            "id": 93,
-            "name": "<div id='svhiep'> <div class='ten'>24. US </div> <div class='valu'>US24</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:31555/wormy",
-            "status": 1
-        },
-        {
-            "id": 92,
-            "name": "<div id='svhiep'> <div class='ten'>23. US </div> <div class='valu'>US23</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:31000/wormy",
-            "status": 1
-        },
-        {
-            "id": 91,
-            "name": "<div id='svhiep'> <div class='ten'>22. US </div> <div class='valu'>US22</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://sao-a.wormate.io:30072/wormy",
-            "status": 1
-        },
-        {
-            "id": 90,
-            "name": "<div id='svhiep'> <div class='ten'>21. US </div> <div class='valu'>US21</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://dal-b.wormate.io:30135/wormy",
-            "status": 1
-        },
-        {
-            "id": 89,
-            "name": "<div id='svhiep'> <div class='ten'>20. US </div> <div class='valu'>US20</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:30296/wormy",
-            "status": 1
-        },
-        {
-            "id": 88,
-            "name": "<div id='svhiep'> <div class='ten'>19. US </div> <div class='valu'>US19</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:32746/wormy",
-            "status": 1
-        },
-        {
-            "id": 87,
-            "name": "<div id='svhiep'> <div class='ten'>18. US </div> <div class='valu'>US18</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:30042/wormy",
-            "status": 1
-        },
-        {
-            "id": 86,
-            "name": "<div id='svhiep'> <div class='ten'>17. US </div> <div class='valu'>US17</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:32214/wormy",
-            "status": 1
-        },
-        {
-            "id": 85,
-            "name": "<div id='svhiep'> <div class='ten'>16. US </div> <div class='valu'>US16</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:32091/wormy",
-            "status": 1
-        },
-        {
-            "id": 84,
-            "name": "<div id='svhiep'> <div class='ten'>15. US </div> <div class='valu'>US15</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:31279/wormy",
-            "status": 1
-        },
-        {
-            "id": 83,
-            "name": "<div id='svhiep'> <div class='ten'>14. US </div> <div class='valu'>US14</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:30536/wormy",
-            "status": 1
-        },
-        {
-            "id": 82,
-            "name": "<div id='svhiep'> <div class='ten'>13. US </div> <div class='valu'>US13</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:30162/wormy",
-            "status": 1
-        },
-        {
-            "id": 81,
-            "name": "<div id='svhiep'> <div class='ten'>12. US </div> <div class='valu'>US12</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:32746/wormy",
-            "status": 1
-        },
-        {
-            "id": 80,
-            "name": "<div id='svhiep'> <div class='ten'>11. US </div> <div class='valu'>US11</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:30296/wormy",
-            "status": 1
-        },
-        {
-            "id": 78,
-            "name": "<div id='svhiep'> <div class='ten'>10. US </div> <div class='valu'>US10</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:32111/wormy",
-            "status": 1
-        },
-        {
-            "id": 78,
-            "name": "<div id='svhiep'> <div class='ten'>09. US </div> <div class='valu'>US9</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:32465/wormy",
-            "status": 1
-        },
-        {
-            "id": 77,
-            "name": "<div id='svhiep'> <div class='ten'>08. US </div> <div class='valu'>US8</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:32403/wormy",
-            "status": 1
-        },
-        {
-            "id": 76,
-            "name": "<div id='svhiep'> <div class='ten'>07. US </div> <div class='valu'>US7</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:32111/wormy",
-            "status": 1
-        },
-        {
-            "id": 75,
-            "name": "<div id='svhiep'> <div class='ten'>06. US </div> <div class='valu'>US6</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:30296/wormy",
-            "status": 1
-        },
-        {
-            "id": 74,
-            "name": "<div id='svhiep'> <div class='ten'>05. LEMANZ </div> <div class='valu'>US5</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/LEMANZ.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://hil-a.wormate.io:30162/wormy",
-            "status": 1
-        },
-        {
-            "id": 73,
-            "name": "<div id='svhiep'> <div class='ten'>04. LUCKY GAMING</div> <div class='valu'>US4</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/luckyg.jpg'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:32368/wormy",
-            "status": 1
-        },
-        {
-            "id": 72,
-            "name": "<div id='svhiep'> <div class='ten'>03. CD TEAM </div> <div class='valu'>US3</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://dal-b.wormate.io:31750/wormy",
-            "status": 1
-        },
-        {
-            "id": 71,
-            "name": "<div id='svhiep'> <div class='ten'>02. TEAM \ud83d\udc4b\ud83d\udc4b ARC </div> <div class='valu'>US2</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/teamarc.jpg'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://dal-b.wormate.io:32584/wormy",
-            "status": 1
-        },
-        {
-            "id": 70,
-            "name": "<div id='svhiep'> <div class='ten'>01.\ud83d\udd34 YT Nona Milano</div> <div class='valu'>US1</div>  <div class='img-team'> <img src='https://i.imgur.com/RQTKt8G.jpeg'/> </div> </div>",
-            "region": "eeuu",
-            "serverUrl": "wss://vin-a.wormate.io:30407/wormy",
-            "status": 1
-        },
-        {
-            "id": 414,
-            "name": "<div id='svhiep'> <div class='ten'>15. Lithuania </div> <div class='valu'>LT15</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:32465/wormy",
-            "status": 1
-        },
-        {
-            "id": 413,
-            "name": "<div id='svhiep'> <div class='ten'>14. Lithuania </div> <div class='valu'>LT14</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:32500/wormy",
-            "status": 1
-        },
-        {
-            "id": 412,
-            "name": "<div id='svhiep'> <div class='ten'>13. Lithuania </div> <div class='valu'>LT13</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:32368/wormy",
-            "status": 1
-        },
-        {
-            "id": 411,
-            "name": "<div id='svhiep'> <div class='ten'>12. Lithuania </div> <div class='valu'>LT12</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:30407/wormy",
-            "status": 1
-        },
-        {
-            "id": 410,
-            "name": "<div id='svhiep'> <div class='ten'>11. Lithuania </div> <div class='valu'>LT11</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:30332/wormy",
-            "status": 1
-        },
-        {
-            "id": 409,
-            "name": "<div id='svhiep'> <div class='ten'>10. Lithuania </div> <div class='valu'>LT10</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:31516/wormy",
-            "status": 1
-        },
-        {
-            "id": 408,
-            "name": "<div id='svhiep'> <div class='ten'>09. Lithuania </div> <div class='valu'>LT9</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:31311/wormy",
-            "status": 1
-        },
-        {
-            "id": 407,
-            "name": "<div id='svhiep'> <div class='ten'>08. Lithuania</div> <div class='valu'>LT8</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:30165/wormy",
-            "status": 1
-        },
-        {
-            "id": 406,
-            "name": "<div id='svhiep'> <div class='ten'>07. Lithuania </div> <div class='valu'>LT7</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:31142/wormy",
-            "status": 1
-        },
-        {
-            "id": 405,
-            "name": "<div id='svhiep'> <div class='ten'>06. Lithuania </div> <div class='valu'>LT6</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:31026/wormy",
-            "status": 1
-        },
-        {
-            "id": 404,
-            "name": "<div id='svhiep'> <div class='ten'>05. Lithuania </div> <div class='valu'>LT5</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:30703/wormy",
-            "status": 1
-        },
-        {
-            "id": 403,
-            "name": "<div id='svhiep'> <div class='ten'>04. Lithuania</div> <div class='valu'>LT4</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:32212/wormy",
-            "status": 1
-        },
-        {
-            "id": 402,
-            "name": "<div id='svhiep'> <div class='ten'>03. Lithuania </div> <div class='valu'>LT3</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:32053/wormy",
-            "status": 1
-        },
-        {
-            "id": 401,
-            "name": "<div id='svhiep'> <div class='ten'>02. Lithuania </div> <div class='valu'>LT2</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:31211/wormy",
-            "status": 1
-        },
-        {
-            "id": 400,
-            "name": "<div id='svhiep'> <div class='ten'>01. Lithuania </div> <div class='valu'>LT1</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "canada",
-            "serverUrl": "wss://vin-a.wormate.io:32368/wormy",
+{
+  "id": 999,
+  "name": "WormMedia Test",
+  "region": "turkey",
+  "serverUrl": "wss://wormmedia.xyz:9800",
+  "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+  "imageUrl": "",
+  "wormworld": 0,
+  "timmap": 0,
+  "status": 1
+},
+        {
+            "id": 317,
+            "name": "loading...",
+            "region": "germania",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:32638\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 316,
+            "name": "loading...",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31106\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 315,
+            "name": "loading...",
+            "region": "germania",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:30135\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 314,
+            "name": "loading...",
+            "region": "germania",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:31750\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 7,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 313,
+            "name": "BRAZIL ⚽ 24",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:32476\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 24,
+            "wormworld": 3,
+            "imageUrl": ""
+        },
+        {
+            "id": 312,
+            "name": "BRAZIL ⚽ 23",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31750\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 23,
+            "wormworld": 4,
+            "imageUrl": ""
+        },
+        {
+            "id": 311,
+            "name": "BRAZIL ⚽ 22",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30171\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 22,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 310,
+            "name": "BRAZIL ⚽ 21",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:32577\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 21,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 309,
+            "name": "BRAZIL ⚽ 20",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:32650\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 20,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 308,
+            "name": "BRAZIL ⚽ 19",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:32584\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 19,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 307,
+            "name": "BRAZIL ⚽ 18",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:32405\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 18,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 306,
+            "name": "BRAZIL ⚽ 17",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31975\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 17,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 305,
+            "name": "BRAZIL ⚽ 16",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31908\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 16,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 304,
+            "name": "BRAZIL ⚽ 15",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31216\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 15,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 303,
+            "name": "BRAZIL ⚽ 14",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31230\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 14,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 302,
+            "name": "BRAZIL ⚽ 13",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31163\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 13,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 301,
+            "name": "BRAZIL ⚽ 12",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31084\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 12,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 300,
+            "name": "BRAZIL ⚽ 11",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30702\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 11,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 299,
+            "name": "BRAZIL ⚽ 10",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30573\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "timmap": 10,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 298,
+            "name": "BRAZIL ⚽ 09",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30327\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "wormworld": 0,
+            "status": 1,
+            "timmap": 9,
+            "imageUrl": ""
+        },
+        {
+            "id": 297,
+            "name": "BRAZIL ⚽ 08",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30371\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "wormworld": 0,
+            "status": 1,
+            "timmap": 8,
+            "imageUrl": ""
+        },
+        {
+            "id": 296,
+            "name": "BRAZIL ⚽ 07",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30392\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "wormworld": 0,
+            "status": 1,
+            "timmap": 7,
+            "imageUrl": ""
+        },
+        {
+            "id": 295,
+            "name": "BRAZIL ⚽ 06",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30135\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "wormworld": 6,
+            "status": 1,
+            "timmap": 6,
+            "imageUrl": ""
+        },
+        {
+            "id": 294,
+            "name": "BRAZIL ⚽ 05",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:32703\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "wormworld": 0,
+            "status": 1,
+            "timmap": 5,
+            "imageUrl": ""
+        },
+        {
+            "id": 293,
+            "name": "BRAZIL ⚽ 04",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31713\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "wormworld": 2,
+            "status": 1,
+            "timmap": 4,
+            "imageUrl": ""
+        },
+        {
+            "id": 292,
+            "name": "BRAZIL ⚽ 03",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30560\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "wormworld": 1,
+            "status": 1,
+            "timmap": 3,
+            "imageUrl": ""
+        },
+        {
+            "id": 291,
+            "name": "BRAZIL ⚽ 02",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30809\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "wormworld": 0,
+            "status": 1,
+            "timmap": 2,
+            "imageUrl": ""
+        },
+        {
+            "id": 290,
+            "name": "BRAZIL ⚽ 01",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31091\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/bra.png",
+            "wormworld": 0,
+            "status": 1,
+            "timmap": 1,
+            "imageUrl": ""
+        },
+        {
+            "id": 289,
+            "name": "loading...",
+            "region": "germania",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31713\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 5,
+            "timmap": 0,
             "status": 1
         },
         {
             "id": 288,
-            "name": "<div id='svhiep'> <div class='ten'>18. Brazil </div> <div class='valu'>BR18</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:30171/wormy",
+            "name": "Australia",
+            "region": "granbretana",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:30165\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 7,
+            "timmap": 0,
             "status": 1
         },
         {
             "id": 287,
-            "name": "<div id='svhiep'> <div class='ten'>17. Brazil </div> <div class='valu'>BR17</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:30392/wormy",
+            "name": "Australia",
+            "region": "granbretana",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:32238\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 6,
+            "timmap": 0,
             "status": 1
         },
         {
             "id": 286,
-            "name": "<div id='svhiep'> <div class='ten'>16. Brazil </div> <div class='valu'>BR16</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:31975/wormy",
+            "name": "Australia",
+            "region": "granbretana",
+            "serverUrl": "wss:\/\/syd-a.wormate.io:31238\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 5,
+            "timmap": 0,
             "status": 1
         },
         {
             "id": 285,
-            "name": "<div id='svhiep'> <div class='ten'>15. Brazil </div> <div class='valu'>BR15</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:32703/wormy",
-            "status": 1
+            "name": "AUSTRALIA 🦘 04",
+            "region": "granbretana",
+            "serverUrl": "wss:\/\/syd-a.wormate.io:31238\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/aus.png",
+            "wormworld": 2,
+            "timmap": 4,
+            "imageUrl": ""
         },
         {
             "id": 284,
-            "name": "<div id='svhiep'> <div class='ten'>14. Brazil </div> <div class='valu'>BR14</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:30809/wormy",
-            "status": 1
+            "name": "AUSTRALIA 🦘 03",
+            "region": "granbretana",
+            "serverUrl": "wss:\/\/syd-a.wormate.io:30154\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/aus.png",
+            "timmap": 3,
+            "wormworld": 4,
+            "imageUrl": ""
         },
         {
             "id": 283,
-            "name": "<div id='svhiep'> <div class='ten'>13. Brazil </div> <div class='valu'>BR13</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://dal-b.wormate.io:31555/wormy",
-            "status": 1
+            "name": "AUSTRALIA 🦘 02",
+            "region": "granbretana",
+            "serverUrl": "wss:\/\/syd-a.wormate.io:31882\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/aus.png",
+            "timmap": 2,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 282,
-            "name": "<div id='svhiep'> <div class='ten'>12. Brazil </div> <div class='valu'>BR12</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://vin-a.wormate.io:32638/wormy",
-            "status": 1
+            "name": "AUSTRALIA 🦘 01",
+            "region": "granbretana",
+            "serverUrl": "wss:\/\/syd-a.wormate.io:31342\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/aus.png",
+            "timmap": 1,
+            "wormworld": 1,
+            "imageUrl": ""
         },
         {
             "id": 281,
-            "name": "<div id='svhiep'> <div class='ten'>11. Brazil </div> <div class='valu'>BR11</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:31106/wormy",
-            "status": 1
+            "name": "Australia",
+            "region": "granbretana",
+            "serverUrl": "wss:\/\/syd-a.wormate.io:30311\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 3,
+            "timmap": 0,
+            "status": 0
         },
         {
             "id": 280,
-            "name": "<div id='svhiep'> <div class='ten'>10. Brazil </div> <div class='valu'>BR10</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:31091/wormy",
-            "status": 1
+            "name": "FREE- JP",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:32091\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 9,
+            "timmap": 0,
+            "status": 0
         },
         {
             "id": 279,
-            "name": "<div id='svhiep'> <div class='ten'>09. Brazil </div> <div class='valu'>BR9</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:31975/wormy",
-            "status": 1
+            "name": "JAPAN 🈳 01",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:30171\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/jap.png",
+            "timmap": 1,
+            "wormworld": 2,
+            "imageUrl": ""
         },
         {
             "id": 278,
-            "name": "<div id='svhiep'> <div class='ten'>08. Brazil </div> <div class='valu'>BR8</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://dal-b.wormate.io:30135/wormy",
-            "status": 1
+            "name": "JAPAN 🈳 02",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:31339\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/jap.png",
+            "timmap": 2,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
-            "id": 27,
-            "name": "<div id='svhiep'> <div class='ten'>07. Brazil </div> <div class='valu'>BR7</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:32584/wormy",
-            "status": 1
+            "id": 277,
+            "name": "JAPAN 🈵 03",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:30657\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/jap.png",
+            "timmap": 3,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 276,
-            "name": "<div id='svhiep'> <div class='ten'>06. Brazil </div> <div class='valu'>BR6</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://dal-b.wormate.io:31750/wormy",
-            "status": 1
+            "name": "JAPAN 🈳 04",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:32499\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/jap.png",
+            "timmap": 4,
+            "wormworld": 3,
+            "imageUrl": ""
         },
         {
             "id": 275,
-            "name": "<div id='svhiep'> <div class='ten'>05. Brasil - WFC</div> <div class='valu'>BR5</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:30135/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:31091\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 1,
+            "timmap": 0,
+            "status": 0
         },
         {
             "id": 274,
-            "name": "<div id='svhiep'> <div class='ten'>04. Brasil - WFC</div> <div class='valu'>BR4</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:31713/wormy",
-            "status": 1
+            "name": "FREE- JP",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:31770\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 7,
+            "timmap": 0,
+            "status": 0
         },
         {
             "id": 273,
-            "name": "<div id='svhiep'> <div class='ten'>03. Brasil - WFC</div> <div class='valu'>BR3</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:31750/wormy",
+            "name": "FREE- JP",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:30392\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 4,
+            "timmap": 0,
             "status": 1
         },
         {
             "id": 272,
-            "name": "<div id='svhiep'> <div class='ten'>02. Brasil - WFC</div> <div class='valu'>BR2</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:31713/wormy",
+            "name": "FREE- JP",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:31859\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 5,
+            "timmap": 0,
             "status": 1
         },
         {
             "id": 271,
-            "name": "<div id='svhiep'> <div class='ten'>01. Guizeira </div> <div class='valu'>BR1</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/Guizeira.jpg'/> </div> </div>",
-            "region": "germania",
-            "serverUrl": "wss://sao-a.wormate.io:30560/wormy",
+            "name": "FREE- JP",
+            "region": "japon",
+            "serverUrl": "wss:\/\/tok-b.wormate.io:30786\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 6,
+            "timmap": 0,
             "status": 1
+        },
+        {
+            "id": 270,
+            "name": "FREE- JP",
+            "region": "japon",
+            "serverUrl": "'wss:\/\/tok-b.wormate.io:32111\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 8,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 269,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31230\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 49,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 268,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32405\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 48,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 267,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31908\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 47,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 266,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30208\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 31,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 265,
+            "name": "SINGAPORE 🍒 11",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30161\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "imageUrl": "",
+            "wormworld": 29,
+            "timmap": 11,
+            "status": 1
+        },
+        {
+            "id": 264,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:32677\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 25,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 263,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32053\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 23,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 262,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:31764\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 17,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 261,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31026\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 14,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 260,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31211\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 12,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 259,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:31764\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 4,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 258,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30786\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 37,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 257,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30339\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 33,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 256,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32609\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 27,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 255,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32500\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 26,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 254,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32677\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 21,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 253,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:31203\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 13,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 252,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30165\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 8,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 251,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:30161\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 7,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 250,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:31764\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 1,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 249,
+            "name": "SINGAPORE 🍒 38",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:31339\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "wormworld": 0,
+            "status": 1,
+            "timmap": 38,
+            "imageUrl": ""
+        },
+        {
+            "id": 248,
+            "name": "SINGAPORE 🍒 37",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:30885\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "wormworld": 0,
+            "status": 1,
+            "timmap": 37,
+            "imageUrl": ""
+        },
+        {
+            "id": 247,
+            "name": "SINGAPORE 🍒 36",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31203\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 36,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 246,
+            "name": "SINGAPORE 🍒 35",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31353\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 35,
+            "wormworld": 22,
+            "imageUrl": ""
+        },
+        {
+            "id": 245,
+            "name": " SINGAPORE 🍒 34",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:31510\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 34,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 244,
+            "name": "SINGAPORE 🍒 33",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:31534\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 33,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 243,
+            "name": "SINGAPORE 🍒 32",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:32677\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 32,
+            "wormworld": 10,
+            "imageUrl": ""
+        },
+        {
+            "id": 242,
+            "name": "SINGAPORE 🍒 31",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-b.wormate.io:30165\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 31,
+            "wormworld": 24,
+            "imageUrl": ""
+        },
+        {
+            "id": 241,
+            "name": "SINGAPORE 🍒 30",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32577\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 30,
+            "wormworld": 45,
+            "imageUrl": ""
+        },
+        {
+            "id": 240,
+            "name": "SINGAPORE 🍒 29",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32405\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 29,
+            "wormworld": 44,
+            "imageUrl": ""
+        },
+        {
+            "id": 239,
+            "name": "SINGAPORE 🍒 28",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31908\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 28,
+            "wormworld": 43,
+            "imageUrl": ""
+        },
+        {
+            "id": 238,
+            "name": "SINGAPORE 🍒 27",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32584\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 27,
+            "wormworld": 42,
+            "imageUrl": ""
+        },
+        {
+            "id": 237,
+            "name": "SINGAPORE 🍒 26",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31750\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 26,
+            "wormworld": 20,
+            "imageUrl": ""
+        },
+        {
+            "id": 236,
+            "name": "SINGAPORE 🍒 25",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31533\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 25,
+            "wormworld": 19,
+            "imageUrl": ""
+        },
+        {
+            "id": 235,
+            "name": "SINGAPORE 🍒 24",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31230\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 24,
+            "wormworld": 41,
+            "imageUrl": ""
+        },
+        {
+            "id": 234,
+            "name": "SINGAPORE 🍒 23",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31163\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 23,
+            "wormworld": 40,
+            "imageUrl": ""
+        },
+        {
+            "id": 233,
+            "name": "SINGAPORE 🍒 22",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31091\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 22,
+            "wormworld": 39,
+            "imageUrl": ""
+        },
+        {
+            "id": 232,
+            "name": "SINGAPORE 🍒 21",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31084\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 21,
+            "wormworld": 38,
+            "imageUrl": ""
+        },
+        {
+            "id": 231,
+            "name": "SINGAPORE 🍒 20",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30809\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 20,
+            "wormworld": 15,
+            "imageUrl": ""
+        },
+        {
+            "id": 230,
+            "name": "SINGAPORE 🍒 19",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30657\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 19,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 229,
+            "name": "SINGAPORE 🍒 18",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30725\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 18,
+            "wormworld": 36,
+            "imageUrl": ""
+        },
+        {
+            "id": 228,
+            "name": "SINGAPORE 🍒 17",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30702\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 17,
+            "wormworld": 35,
+            "imageUrl": ""
+        },
+        {
+            "id": 227,
+            "name": "SINGAPORE 🍒 16",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31339\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 16,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 226,
+            "name": "SINGAPORE 🍒 15",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30371\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 15,
+            "wormworld": 34,
+            "imageUrl": ""
+        },
+        {
+            "id": 225,
+            "name": "SINGAPORE 🍒 14",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31451\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 14,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 224,
+            "name": "SINGAPORE 🍒 13",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30327\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 13,
+            "wormworld": 32,
+            "imageUrl": ""
+        },
+        {
+            "id": 223,
+            "name": "SINGAPORE 🍒 12",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30208\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 12,
+            "wormworld": 18,
+            "imageUrl": ""
+        },
+        {
+            "id": 222,
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30171\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 30,
+            "imageUrl": ""
+        },
+        {
+            "id": 221,
+            "name": "SINGAPORE 🍒 10",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30161\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 10,
+            "wormworld": 6,
+            "imageUrl": ""
+        },
+        {
+            "id": 220,
+            "name": "SINGAPORE 🍒 09",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30135\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 9,
+            "wormworld": 28,
+            "imageUrl": ""
+        },
+        {
+            "id": 219,
+            "name": "SINGAPORE 🍒 08",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30573\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 8,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 218,
+            "name": "SINGAPORE 🍒 07",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31404\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 7,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 217,
-            "name": "<div id='svhiep'> <div class='ten'>18. FR - WFC </div> <div class='valu'>FR18</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:30909/wormy",
-            "status": 1
+            "name": "SINGAPORE 🍒 06",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32212\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 6,
+            "wormworld": 9,
+            "imageUrl": ""
         },
         {
             "id": 216,
-            "name": "<div id='svhiep'> <div class='ten'>17. FR - WFC </div> <div class='valu'>FR17</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:30265/wormy",
-            "status": 1
+            "name": "SINGAPORE 🍒 05",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32053\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 5,
+            "wormworld": 16,
+            "imageUrl": ""
         },
         {
             "id": 215,
-            "name": "<div id='svhiep'> <div class='ten'>16. FR - WFC </div> <div class='valu'>FR16</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
-            "status": 1
+            "name": "SINGAPORE 🍒 04",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31211\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 4,
+            "wormworld": 2,
+            "imageUrl": ""
         },
         {
             "id": 214,
-            "name": "<div id='svhiep'> <div class='ten'>15. FR - WFC </div> <div class='valu'>FR15</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:31695/wormy",
-            "status": 1
+            "name": "SINGAPORE 🍒 03",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31026\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 3,
+            "wormworld": 11,
+            "imageUrl": ""
         },
         {
             "id": 213,
-            "name": "<div id='svhiep'> <div class='ten'>14. FR - WFC </div> <div class='valu'>FR14</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:31819/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:30703\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 5,
+            "imageUrl": ""
         },
         {
             "id": 212,
-            "name": "<div id='svhiep'> <div class='ten'>13. FR - WFC </div> <div class='valu'>FR13</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://fra-c.wormate.io:31392/wormy",
-            "status": 1
+            "name": "SINGAPORE 🍒 01",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31764\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/sing.png",
+            "timmap": 1,
+            "wormworld": 3,
+            "imageUrl": ""
         },
         {
             "id": 211,
-            "name": "<div id='svhiep'> <div class='ten'>12. FR - WFC </div> <div class='valu'>FR12</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://fra-c.wormate.io:30106/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "singapur",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:32356\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 46,
+            "timmap": 0,
+            "status": 0
         },
         {
             "id": 210,
-            "name": "<div id='svhiep'> <div class='ten'>11. FR - WFC </div> <div class='valu'>FR11</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://fra-c.wormate.io:30140/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:30786\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 0,
+            "status": 0
         },
         {
             "id": 209,
-            "name": "<div id='svhiep'> <div class='ten'>10. FR - WFC </div> <div class='valu'>FR10</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:32054/wormy",
-            "status": 1
+            "name": "LITHUANIA 🦋 01",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:32609\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 1,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 208,
-            "name": "<div id='svhiep'> <div class='ten'>09. FR - WFC </div> <div class='valu'>FR9</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
-            "status": 1
+            "name": "LITHUANIA 🦋 02",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31211\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 2,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 207,
-            "name": "<div id='svhiep'> <div class='ten'>08. FR - WFC </div> <div class='valu'>FR8</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
-            "status": 1
+            "name": "LITHUANIA 🦋 03",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:32053\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 3,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 206,
-            "name": "<div id='svhiep'> <div class='ten'>07. FR - WFC </div> <div class='valu'>FR7</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://fra-c.wormate.io:30106/wormy",
-            "status": 1
+            "name": "LITHUANIA 🦋 04",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:32212\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 4,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 205,
-            "name": "<div id='svhiep'> <div class='ten'>06. FR - WFC </div> <div class='valu'>FR6</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://fra-c.wormate.io:31695/wormy",
-            "status": 1
+            "name": "LITHUANIA 🦋 05",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:30703\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 5,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 204,
-            "name": "<div id='svhiep'> <div class='ten'>05. FR - WFC </div> <div class='valu'>FR5</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://dal-b.wormate.io:32584/wormy",
-            "status": 1
+            "name": "LITHUANIA 🦋 06",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31026\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 6,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 203,
-            "name": "<div id='svhiep'> <div class='ten'>04. FR - WFC </div> <div class='valu'>FR4</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
-            "status": 1
+            "name": "LITHUANIA 🦋 07",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31142\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 7,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 202,
-            "name": "<div id='svhiep'> <div class='ten'>03. Mido Gaming </div> <div class='valu'>FR3</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
-            "status": 1
+            "name": "LITHUANIA 🦋 08",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:30165\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 8,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 201,
-            "name": "<div id='svhiep'> <div class='ten'>02. KURDISTAN </div> <div class='valu'>FR2</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:32054/wormy",
-            "status": 1
+            "name": "LITHUANIA 🦋 09",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31311\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 9,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 200,
-            "name": "<div id='svhiep'> <div class='ten'>01.\ud83d\udd34 YT Nona Milano</div> <div class='valu'>FR1</div>  <div class='img-team'> <img src='https://i.imgur.com/RQTKt8G.jpeg'/> </div> </div>",
-            "region": "francia",
-            "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
+            "name": "LITHUANIA 🦋 10",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31516\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 10,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 199,
+            "name": "LITHUANIA 🦋 11",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:30332\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 11,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 198,
+            "name": "LITHUANIA 🦋 12",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:30407\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "wormworld": 0,
+            "timmap": 12,
+            "imageUrl": ""
+        },
+        {
+            "id": 197,
+            "name": "LITHUANIA 🦋 13",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:32368\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 13,
+            "wormworld": 8,
+            "imageUrl": ""
+        },
+        {
+            "id": 196,
+            "name": "LITHUANIA 🦋 14",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31404\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 14,
             "status": 1
         },
         {
+            "id": 195,
+            "name": "LITHUANIA 🦋 15",
+            "region": "canada",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:32465\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/lit.png",
+            "timmap": 15,
+            "wormworld": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 194,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:31091\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 2,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 193,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:31230\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 3,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 192,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:31282\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 4,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 191,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:31290\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 5,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 190,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:30165\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 7,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 189,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:30339\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 8,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 188,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:31084\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 9,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 187,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:30786\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 10,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 186,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30162\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 1,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 185,
+            "name": "loading...",
+            "region": "canada",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:30135\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 6,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 184,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30072\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 12,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 183,
+            "name": "U.S.A 🎃 01",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32111\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 3,
+            "timmap": 1,
+            "status": 1
+        },
+        {
+            "id": 182,
+            "name": "U.S.A 🎃 02",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32746\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 2,
+            "wormworld": 17,
+            "imageUrl": ""
+        },
+        {
+            "id": 181,
+            "name": "U.S.A 🎃 03",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30296\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 3,
+            "wormworld": 9,
+            "imageUrl": ""
+        },
+        {
+            "id": 180,
+            "name": "U.S.A 🎃 04",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30536\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 4,
+            "wormworld": 4,
+            "imageUrl": ""
+        },
+        {
+            "id": 179,
+            "name": "U.S.A 🎃 05",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31279\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 5,
+            "wormworld": 5,
+            "imageUrl": ""
+        },
+        {
+            "id": 178,
+            "name": "U.S.A 🎃 06",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32091\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 6,
+            "wormworld": 19,
+            "imageUrl": ""
+        },
+        {
+            "id": 177,
+            "name": "U.S.A 🎃 07",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30042\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 21,
+            "timmap": 7,
+            "status": 1
+        },
+        {
+            "id": 176,
+            "name": "U.S.A 🎃 08",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32214\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 8,
+            "wormworld": 20,
+            "imageUrl": ""
+        },
+        {
             "id": 175,
-            "name": "<div id='svhiep'> <div class='ten'>36. WFC - VTH</div> <div class='valu'>SG36</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31203/wormy",
+            "name": "U.S.A 🎃 09",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32403\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 14,
+            "timmap": 9,
             "status": 1
         },
         {
             "id": 174,
-            "name": "<div id='svhiep'> <div class='ten'>35. WFC - VTH</div> <div class='valu'>SG35</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31353/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 10",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30162\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "wormworld": 1,
+            "timmap": 10,
+            "imageUrl": ""
         },
         {
             "id": 173,
-            "name": "<div id='svhiep'> <div class='ten'>34. WFC - VTH</div> <div class='valu'>SG34</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-b.wormate.io:31510/wormy",
+            "name": "U.S.A 🎃 11",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30135\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 11,
             "status": 1
         },
         {
             "id": 172,
-            "name": "<div id='svhiep'> <div class='ten'>33. WFC - VTH </div> <div class='valu'>SG33</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-b.wormate.io:31534/wormy",
+            "name": "U.S.A 🎃 12",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30161\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 12,
             "status": 1
         },
         {
             "id": 171,
-            "name": "<div id='svhiep'> <div class='ten'>32. WFC - VTH </div> <div class='valu'>SG32</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-b.wormate.io:32677/wormy",
+            "name": "U.S.A 🎃 13",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30171\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 13,
             "status": 1
         },
         {
             "id": 170,
-            "name": "<div id='svhiep'> <div class='ten'>31. WFC - VTH </div> <div class='valu'>SG31</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-b.wormate.io:30165/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 14",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30208\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 14,
+            "wormworld": 27,
+            "imageUrl": ""
         },
         {
             "id": 169,
-            "name": "<div id='svhiep'> <div class='ten'>30. WFC - VTH </div> <div class='valu'>SG30</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:32577/wormy",
+            "name": "U.S.A 🎃 15",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30327\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 15,
             "status": 1
         },
         {
             "id": 168,
-            "name": "<div id='svhiep'> <div class='ten'>29. WFC - VTH </div> <div class='valu'>SG29</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:32405/wormy",
+            "name": "U.S.A 🎃 16",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31451\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 16,
             "status": 1
         },
         {
             "id": 167,
-            "name": "<div id='svhiep'> <div class='ten'>28. WFC - VTH </div> <div class='valu'>SG28</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31908/wormy",
+            "name": "U.S.A 🎃 17",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30371\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 17,
             "status": 1
         },
         {
             "id": 166,
-            "name": "<div id='svhiep'> <div class='ten'>27. WFC - VTH </div> <div class='valu'>SG27</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:32584/wormy",
+            "name": "U.S.A 🎃 18",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30702\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 18,
             "status": 1
         },
         {
             "id": 165,
-            "name": "<div id='svhiep'> <div class='ten'>26. WFC - VTH </div> <div class='valu'>SG26</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31750/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 19",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30725\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 19,
+            "wormworld": 41,
+            "imageUrl": ""
         },
         {
             "id": 164,
-            "name": "<div id='svhiep'> <div class='ten'>25. WFC - VTH </div> <div class='valu'>SG25</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31533/wormy",
+            "name": "U.S.A 🎃 20",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30657\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 20,
             "status": 1
         },
         {
             "id": 163,
-            "name": "<div id='svhiep'> <div class='ten'>24. WFC - VTH </div> <div class='valu'>SG24</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31230/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 21",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30809\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 21,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 162,
-            "name": "<div id='svhiep'> <div class='ten'>23. WFC - VTH </div> <div class='valu'>SG23</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31163/wormy",
+            "name": "U.S.A 🎃 22",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31084\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 22,
             "status": 1
         },
         {
             "id": 161,
-            "name": "<div id='svhiep'> <div class='ten'>22. WFC - VTH </div> <div class='valu'>SG22</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31091/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 23",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31091\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 23,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 160,
-            "name": "<div id='svhiep'> <div class='ten'>21. WFC - VTH </div> <div class='valu'>SG21</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31084/wormy",
+            "name": "U.S.A 🎃 24",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31163\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 24,
             "status": 1
         },
         {
             "id": 159,
-            "name": "<div id='svhiep'> <div class='ten'>20. WFC - VTH </div> <div class='valu'>SG20</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30809/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 25",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32584\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 25,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 158,
-            "name": "<div id='svhiep'> <div class='ten'>19. WFC - VTH </div> <div class='valu'>SG19</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30657/wormy",
+            "name": "U.S.A 🎃 26",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31230\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 26,
             "status": 1
         },
         {
             "id": 157,
-            "name": "<div id='svhiep'> <div class='ten'>18. WFC - VTH </div> <div class='valu'>SG18</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30725/wormy",
+            "name": "U.S.A 🎃 27",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31533\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 27,
             "status": 1
         },
         {
             "id": 156,
-            "name": "<div id='svhiep'> <div class='ten'>17. WFC - VTH </div> <div class='valu'>SG17</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30702/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 28",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31750\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 28,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 155,
-            "name": "<div id='svhiep'> <div class='ten'>16. WFC - VTH </div> <div class='valu'>SG16</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31339/wormy",
+            "name": "U.S.A 🎃 29",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31339\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 29,
             "status": 1
         },
         {
             "id": 154,
-            "name": "<div id='svhiep'> <div class='ten'>15. WFC - VTH </div> <div class='valu'>SG15</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30371/wormy",
+            "name": "U.S.A 🎃 30",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31908\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 30,
             "status": 1
         },
         {
             "id": 153,
-            "name": "<div id='svhiep'> <div class='ten'>14. WFC - VTH </div> <div class='valu'>SG14</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30339/wormy",
+            "name": "U.S.A 🎃 31",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32405\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 31,
             "status": 1
         },
         {
             "id": 152,
-            "name": "<div id='svhiep'> <div class='ten'>13. WFC - VTH </div> <div class='valu'>SG13</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30327/wormy",
+            "name": "U.S.A 🎃 32",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32577\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 32,
             "status": 1
         },
         {
             "id": 151,
-            "name": "<div id='svhiep'> <div class='ten'>12. WFC - VTH </div> <div class='valu'>SG12</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30208/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 33",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32703\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 33,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 150,
-            "name": "<div id='svhiep'> <div class='ten'>11. WFC - VTH </div> <div class='valu'>SG11</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30171/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 34",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32650\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 34,
+            "wormworld": 0,
+            "imageUrl": ""
         },
         {
             "id": 149,
-            "name": "<div id='svhiep'> <div class='ten'>10. WFC - VTH </div> <div class='valu'>SG10</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30161/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 35",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31000\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 35,
+            "wormworld": 13,
+            "imageUrl": ""
         },
         {
             "id": 148,
-            "name": "<div id='svhiep'> <div class='ten'>09. \u1d40\u1d9c\u1d40\u2c7d Tu\u1ea5n C\u1ea3nh TV</div> <div class='valu'>SG9</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/tuancanh.jpg'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30135/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 36",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31555\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 36,
+            "wormworld": 11,
+            "imageUrl": ""
         },
         {
             "id": 147,
-            "name": "<div id='svhiep'> <div class='ten'>08. TEAM \ud83d\udc4b\ud83d\udc4b ARC </div> <div class='valu'>SG8</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/teamarc.jpg'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30573/wormy",
-            "status": 1
+            "name": "U.S.A 🎃 37",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/sin-a.wormate.io:31750\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/usa.png",
+            "timmap": 37,
+            "wormworld": 26,
+            "imageUrl": ""
         },
         {
             "id": 146,
-            "name": "<div id='svhiep'> <div class='ten'>07. Kiss The Rain</div> <div class='valu'>SG7</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/kiss-the-rain.PNG'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:32500/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:30407\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 1,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
             "id": 145,
-            "name": "<div id='svhiep'> <div class='ten'>06. \u0110\u1ecbnh M\u1ec7nh Bigo</div> <div class='valu'>SG6</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/dinh-menh-bigo.PNG'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:32212/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:30072\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 2,
+            "timmap": 0,
+            "status": 0
         },
         {
             "id": 144,
-            "name": "<div id='svhiep'> <div class='ten'>05. TH\u01af K\u00dd BIGO </div> <div class='valu'>SG5</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/thuky.png'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:32053/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:30332\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 3,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
             "id": 143,
-            "name": "<div id='svhiep'> <div class='ten'>04. Sen \u0110\u00e1 Gaming</div> <div class='valu'>SG4</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/senda.jpg'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31211/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31026\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 4,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
             "id": 142,
-            "name": "<div id='svhiep'> <div class='ten'>03. \ud83c\udd85\ud83c\udd7d\ud83c\udf0dHo\u00e0ng H\u00e0</div> <div class='valu'>SG3</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/hoang-ha.PNG'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31026/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31211\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 5,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
             "id": 141,
-            "name": "<div id='svhiep'> <div class='ten'>02. \ud83c\udd85\ud83c\udd7d\ud83c\udf0d\u0f3a\u2112\u1eef\u0f12\u212c\u1ed1\u0f3b </div> <div class='valu'>SG2</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/trong-hoan.jpg'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:30703/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31311\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 6,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
             "id": 140,
-            "name": "<div id='svhiep'> <div class='ten'>01.\ud83c\udf52 Cherry Land </div> <div class='valu'>SG1</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/cheryy.PNG'/> </div> </div>",
-            "region": "singapur",
-            "serverUrl": "wss://sin-a.wormate.io:31764/wormy",
-            "status": 1
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:31516\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 7,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
-            "id": 606,
-            "name": "<div id='svhiep'> <div class='ten'>07. Wormate Friend</div> <div class='valu'>JP7</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "japon",
-            "serverUrl": "wss://tok-b.wormate.io:31091/wormy",
-            "status": 1
+            "id": 139,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:32053\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 8,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
-            "id": 605,
-            "name": "<div id='svhiep'> <div class='ten'>06. Wormate Friend</div> <div class='valu'>JP6</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "japon",
-            "serverUrl": "wss://tok-b.wormate.io:30725/wormy",
-            "status": 1
+            "id": 138,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:32212\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 9,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
-            "id": 604,
-            "name": "<div id='svhiep'> <div class='ten'>05. Wormate Friend</div> <div class='valu'>JP5</div> <div class='hoat-dong'>ON</div><div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "japon",
-            "serverUrl": "wss://tok-b.wormate.io:30161/wormy",
-            "status": 1
+            "id": 137,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/sao-a.wormate.io:31163\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 10,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
-            "id": 603,
-            "name": "<div id='svhiep'> <div class='ten'>04. Wormate Friend</div> <div class='valu'>JP4</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "japon",
-            "serverUrl": "wss://tok-b.wormate.io:32499/wormy",
-            "status": 1
+            "id": 136,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:32500\/wormy",
+            "status": 0,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 11,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
-            "id": 602,
-            "name": "<div id='svhiep'> <div class='ten'>03. Wormate Friend</div> <div class='valu'>JP3</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "japon",
-            "serverUrl": "wss://tok-b.wormate.io:30786/wormy",
-            "status": 1
+            "id": 135,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:30809\/wormy",
+            "status": 0,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 12,
+            "timmap": 0,
+            "imageUrl": ""
+        },
+                {
+            "id": 134,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31750\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 0,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
-            "id": 601,
-            "name": "<div id='svhiep'> <div class='ten'>02. Wormate Friend</div> <div class='valu'>JP2</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "japon",
-            "serverUrl": "wss://tok-b.wormate.io:31770/wormy",
-            "status": 1
+            "id": 133,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:31770\/wormy",
+            "status": 0,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 0,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
-            "id": 600,
-            "name": "<div id='svhiep'> <div class='ten'>01. Wormate Friend</div> <div class='valu'>JP1</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "japon",
-            "serverUrl": "wss://tok-b.wormate.io:30171/wormy",
-            "status": 1
+            "id": 132,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30296\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 0,
+            "timmap": 0,
+            "imageUrl": ""
         },
         {
-            "id": 707,
-            "name": "<div id='svhiep'> <div class='ten'>08 .India </div> <div class='valu'>IN8</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
+            "id": 131,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:32746\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 0,
+            "timmap": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 130,
+            "name": "loading...",
+            "region": "eeuu",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:30703\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 0,
+            "timmap": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 129,
+            "name": "loading...",
             "region": "australia",
-            "serverUrl": "wss://mum-a.wormate.io:32368/wormy",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:31216\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 0,
             "status": 1
         },
         {
-            "id": 706,
-            "name": "<div id='svhiep'> <div class='ten'>07 .India </div> <div class='valu'>IN7</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
+            "id": 128,
+            "name": "INDIA 🛡️ 01",
             "region": "australia",
-            "serverUrl": "wss://mum-a.wormate.io:30703/wormy",
-            "status": 1
+            "serverUrl": "wss:\/\/mum-a.wormate.io:32238\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 1,
+            "status": 1,
+            "timmap": 1,
+            "imageUrl": ""
         },
         {
-            "id": 705,
-            "name": "<div id='svhiep'> <div class='ten'>06 .India </div> <div class='valu'>IN6</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
+            "id": 127,
+            "name": "INDIA 🛡️ 02",
             "region": "australia",
-            "serverUrl": "wss://mum-a.wormate.io:32053/wormy",
-            "status": 1
+            "serverUrl": "wss:\/\/mum-a.wormate.io:30165\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 1,
+            "status": 1,
+            "timmap": 2,
+            "imageUrl": ""
         },
         {
-            "id": 704,
-            "name": "<div id='svhiep'> <div class='ten'>05 .India </div> <div class='valu'>IN5</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
+            "id": 126,
+            "name": "INDIA 🛡️ 03",
             "region": "australia",
-            "serverUrl": "wss://mum-a.wormate.io:32238/wormy",
-            "status": 1
+            "serverUrl": "wss:\/\/mum-a.wormate.io:30332\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 1,
+            "status": 1,
+            "timmap": 3,
+            "imageUrl": ""
         },
         {
-            "id": 703,
-            "name": "<div id='svhiep'> <div class='ten'>04 .India </div> <div class='valu'>IN4</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
+            "id": 125,
+            "name": "INDIA 🛡️ 04",
             "region": "australia",
-            "serverUrl": "wss://mum-a.wormate.io:31026/wormy",
-            "status": 1
+            "serverUrl": "wss:\/\/mum-a.wormate.io:30407\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 13,
+            "timmap": 4,
+            "imageUrl": ""
         },
         {
-            "id": 702,
-            "name": "<div id='svhiep'> <div class='ten'>03 .India </div> <div class='valu'>IN3</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
+            "id": 124,
+            "name": "INDIA 🛡️ 05",
             "region": "australia",
-            "serverUrl": "wss://mum-a.wormate.io:30407/wormy",
-            "status": 1
+            "serverUrl": "wss:\/\/mum-a.wormate.io:30703\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 12,
+            "timmap": 5,
+            "imageUrl": ""
         },
         {
-            "id": 701,
-            "name": "<div id='svhiep'> <div class='ten'>02 .India </div> <div class='valu'>IN2</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
+            "id": 123,
+            "name": "INDIA 🛡️ 06",
             "region": "australia",
-            "serverUrl": "wss://mum-a.wormate.io:32212/wormy",
-            "status": 1
+            "serverUrl": "wss:\/\/mum-a.wormate.io:31026\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 4,
+            "timmap": 6,
+            "imageUrl": ""
         },
         {
-            "id": 700,
-            "name": "<div id='svhiep'> <div class='ten'>01.\ud83d\udd34 YT Nona Milano</div> <div class='valu'>IN1</div>  <div class='img-team'> <img src='https://i.imgur.com/RQTKt8G.jpeg'/> </div> </div>",
+            "id": 122,
+            "name": "INDIA 🛡️ 07",
             "region": "australia",
-            "serverUrl": "wss://mum-a.wormate.io:31211/wormy",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:31142\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 10,
+            "timmap": 7,
+            "imageUrl": ""
+        },
+        {
+            "id": 121,
+            "name": "INDIA 🛡️ 08",
+            "region": "australia",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:31211\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 9,
+            "status": 1,
+            "timmap": 8,
+            "imageUrl": ""
+        },
+        {
+            "id": 120,
+            "name": "INDIA 🛡️ 09",
+            "region": "australia",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:31311\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 8,
+            "status": 1,
+            "timmap": 9,
+            "imageUrl": ""
+        },
+        {
+            "id": 119,
+            "name": "INDIA 🛡️ 10",
+            "region": "australia",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:31516\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 7,
+            "status": 1,
+            "timmap": 10,
+            "imageUrl": ""
+        },
+        {
+            "id": 118,
+            "name": "INDIA 🛡️ 11",
+            "region": "australia",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:32053\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 6,
+            "status": 1,
+            "timmap": 11,
+            "imageUrl": ""
+        },
+        {
+            "id": 117,
+            "name": "INDIA 🛡️ 12",
+            "region": "australia",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:32212\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 5,
+            "status": 1,
+            "timmap": 12,
+            "imageUrl": ""
+        },
+        {
+            "id": 116,
+            "name": "INDIA 🛡️ 13",
+            "region": "australia",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:32368\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 11,
+            "status": 1,
+            "timmap": 13,
+            "imageUrl": ""
+        },
+        {
+            "id": 115,
+            "name": "INDIA 🛡️ 14",
+            "region": "australia",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:31404\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 3,
+            "status": 1,
+            "timmap": 14,
+            "imageUrl": ""
+        },
+        {
+            "id": 114,
+            "name": "INDIA 🛡️ 15",
+            "region": "australia",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:32609\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 2,
+            "status": 1,
+            "timmap": 15,
+            "imageUrl": ""
+        },
+        {
+            "id": 113,
+            "name": "INDIA 🛡️ 16",
+            "region": "australia",
+            "serverUrl": "wss:\/\/mum-a.wormate.io:32238\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/india.png",
+            "wormworld": 1,
+            "status": 1,
+            "timmap": 16,
+            "imageUrl": ""
+        },
+        {
+            "id": 112,
+            "name": "GERMAN 👑 38",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30371\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 38,
             "status": 1
         },
         {
-            "id": 545,
-            "name": "<div id='svhiep'> <div class='ten'>06. AU -NEW</div> <div class='valu'>AU6</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "granbretana",
-            "serverUrl": "wss://dal-b.wormate.io:31163/wormy",
+            "id": 111,
+            "name": "GERMAN 👑 36",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31451\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 36,
             "status": 1
         },
         {
-            "id": 544,
-            "name": "<div id='svhiep'> <div class='ten'>05. AU - NEW</div> <div class='valu'>AU5</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "granbretana",
-            "serverUrl": "wss://sin-a.wormate.io:31510/wormy",
+            "id": 110,
+            "name": "GERMAN 👑 27",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30510\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 27,
             "status": 1
         },
         {
-            "id": 544,
-            "name": "<div id='svhiep'> <div class='ten'>04. AU - SV VIP</div> <div class='valu'>AU4</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "granbretana",
-            "serverUrl": "wss://syd-a.wormate.io:31882/wormy",
+            "id": 109,
+            "name": "GERMAN 👑 12",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32581\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 12,
             "status": 1
         },
         {
-            "id": 542,
-            "name": "<div id='svhiep'> <div class='ten'>03. \ud83e\udd55 KTR Gaming</div> <div class='valu'>AU3</div>  <div class='img-team'> <img src='https://haylamday.com/images/team/kiss-the-rain.PNG'/> </div> </div>",
-            "region": "granbretana",
-            "serverUrl": "wss://syd-a.wormate.io:31882/wormy",
+            "id": 108,
+            "name": "GERMAN 👑 10",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31819\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 10,
             "status": 1
         },
         {
-            "id": 541,
-            "name": "<div id='svhiep'> <div class='ten'>02. AU - WFC</div> <div class='valu'>AU2</div>  <div class='img-team'> <img src='https://i.imgur.com/XDSCMg7.png'/> </div> </div>",
-            "region": "granbretana",
-            "serverUrl": "wss://syd-a.wormate.io:31238/wormy",
+            "id": 107,
+            "name": "GERMAN 👑 03",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30106\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 3,
             "status": 1
         },
         {
-            "id": 540,
-            "name": "<div id='svhiep'> <div class='ten'>01.\ud83d\udd34 YT Nona Milano</div> <div class='valu'>AU1</div>  <div class='img-team'> <img src='https://i.imgur.com/RQTKt8G.jpeg'/> </div> </div>",
-            "region": "granbretana",
-            "serverUrl": "wss://syd-a.wormate.io:31342/wormy",
+            "id": 106,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:32584\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 63,
+            "timmap": 0,
             "status": 1
+        },
+        {
+            "id": 105,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/hil-a.wormate.io:30213\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 62,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 104,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/vin-a.wormate.io:30703\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 61,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 103,
+            "name": "GERMAN 👑 41",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32611\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 60,
+            "timmap": 41,
+            "status": 1
+        },
+        {
+            "id": 102,
+            "name": "GERMAN 👑 40",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31859\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 59,
+            "timmap": 40,
+            "status": 1
+        },
+        {
+            "id": 101,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30339\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 58,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 100,
+            "name": "GERMAN 👑 35",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31123\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 57,
+            "timmap": 35,
+            "status": 1
+        },
+        {
+            "id": 99,
+            "name": "GERMAN 👑 34",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30161\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 56,
+            "timmap": 34,
+            "status": 1
+        },
+        {
+            "id": 98,
+            "name": "GERMAN 👑 33",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32577\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 55,
+            "timmap": 33,
+            "status": 1
+        },
+        {
+            "id": 97,
+            "name": "GERMAN 👑 32",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32405\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 54,
+            "timmap": 32,
+            "status": 1
+        },
+        {
+            "id": 96,
+            "name": "GERMAN 👑 31",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31908\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 53,
+            "timmap": 31,
+            "status": 0
+        },
+        {
+            "id": 95,
+            "name": "GERMAN 👑 30",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30327\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 52,
+            "timmap": 30,
+            "status": 0
+        },
+        {
+            "id": 94,
+            "name": "GERMAN 👑 29",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30909\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 51,
+            "timmap": 29,
+            "status": 0
+        },
+        {
+            "id": 93,
+            "name": "GERMAN 👑 28",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31230\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 50,
+            "timmap": 28,
+            "status": 1
+        },
+        {
+            "id": 92,
+            "name": "GERMAN 👑 07",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31750\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 49,
+            "timmap": 7,
+            "status": 1
+        },
+        {
+            "id": 91,
+            "name": "GERMAN 👑 25",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31091\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 48,
+            "timmap": 25,
+            "status": 1
+        },
+        {
+            "id": 90,
+            "name": "GERMAN 👑 24",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31084\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 47,
+            "timmap": 24,
+            "status": 0
+        },
+        {
+            "id": 89,
+            "name": "GERMAN 👑 23",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30809\/wormy",
+            "status": 0,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "wormworld": 46,
+            "timmap": 23,
+            "imageUrl": ""
+        },
+        {
+            "id": 88,
+            "name": "GERMAN 👑 22",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30135\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 45,
+            "timmap": 22,
+            "status": 0
+        },
+        {
+            "id": 87,
+            "name": "GERMAN 👑 21",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30725\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 44,
+            "timmap": 21,
+            "status": 0
+        },
+        {
+            "id": 86,
+            "name": "GERMAN 👑 18",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32584\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "wormworld": 43,
+            "timmap": 18,
+            "status": 0
+        },
+        {
+            "id": 85,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31695\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 42,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 84,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32054\/wormy",
+            "status": 0,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 41,
+            "timmap": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 83,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30171\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 40,
+            "imageUrl": ""
+        },
+        {
+            "id": 82,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31750\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 39,
+            "imageUrl": ""
+        },
+        {
+            "id": 81,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 38,
+            "imageUrl": ""
+        },
+        {
+            "id": 80,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31038\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 37,
+            "imageUrl": ""
+        },
+        {
+            "id": 79,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31695\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 36,
+            "imageUrl": ""
+        },
+        {
+            "id": 78,
+            "name": "GERMAN 👑 13",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32054\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 13,
+            "wormworld": 35,
+            "imageUrl": ""
+        },
+        {
+            "id": 77,
+            "name": "GERMAN 👑 09",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30265\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 9,
+            "wormworld": 34,
+            "imageUrl": ""
+        },
+        {
+            "id": 76,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31750\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 33,
+            "imageUrl": ""
+        },
+        {
+            "id": 75,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31819\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 32,
+            "imageUrl": ""
+        },
+        {
+            "id": 74,
+            "name": "GERMAN 👑 26",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31533\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 26,
+            "wormworld": 31,
+            "imageUrl": ""
+        },
+        {
+            "id": 73,
+            "name": "GERMAN 👑 11",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31230\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 11,
+            "wormworld": 30,
+            "imageUrl": ""
+        },
+        {
+            "id": 72,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30208\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 29,
+            "imageUrl": ""
+        },
+        {
+            "id": 71,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 28,
+            "imageUrl": ""
+        },
+        {
+            "id": 70,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/gra-a.wormate.io:31819\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 27,
+            "imageUrl": ""
+        },
+        {
+            "id": 69,
+            "name": "GERMAN 👑 17",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31163\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 17,
+            "wormworld": 26,
+            "imageUrl": ""
+        },
+        {
+            "id": 68,
+            "name": "GERMAN 👑 06",
+            "region": "peru",
+            "serverUrl": "wss:\/\/gra-a.wormate.io:32054\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 6,
+            "wormworld": 25,
+            "imageUrl": ""
+        },
+        {
+            "id": 67,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31533\/worm",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 24,
+            "imageUrl": ""
+        },
+        {
+            "id": 66,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30339\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 23,
+            "imageUrl": ""
+        },
+        {
+            "id": 65,
+            "name": "GERMAN 👑 39",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30265\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 39,
+            "wormworld": 22,
+            "imageUrl": ""
+        },
+        {
+            "id": 64,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30106\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 21,
+            "imageUrl": ""
+        },
+        {
+            "id": 63,
+            "name": "GERMAN 👑 15",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30171\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 15,
+            "wormworld": 20,
+            "imageUrl": ""
+        },
+        {
+            "id": 62,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/gra-a.wormate.io:31038\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 19,
+            "imageUrl": ""
+        },
+        {
+            "id": 61,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/gra-a.wormate.io:30245\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 18,
+            "imageUrl": ""
+        },
+        {
+            "id": 60,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32355\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 17,
+            "imageUrl": ""
+        },
+        {
+            "id": 59,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31712\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "https:\/\/www.tiktok.com\/@xxshadi1",
+            "wormworld": 16,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 58,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32581\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 15,
+            "imageUrl": ""
+        },
+        {
+            "id": 57,
+            "name": "GERMAN 👑 16",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31695\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "wormworld": 14,
+            "timmap": 16,
+            "imageUrl": ""
+        },
+        {
+            "id": 56,
+            "name": "GERMAN 👑 02",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31163\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 2,
+            "wormworld": 13,
+            "imageUrl": ""
+        },
+        {
+            "id": 55,
+            "name": "GERMAN 👑 37",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31392\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 37,
+            "wormworld": 12,
+            "imageUrl": ""
+        },
+        {
+            "id": 54,
+            "name": "GERMAN 👑 05",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31695\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "wormworld": 11,
+            "timmap": 5,
+            "imageUrl": ""
+        },
+        {
+            "id": 53,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 10,
+            "imageUrl": ""
+        },
+        {
+            "id": 52,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 9,
+            "timmap": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 51,
+            "name": "GERMAN 👑 08",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30702\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "wormworld": 8,
+            "timmap": 8,
+            "imageUrl": ""
+        },
+        {
+            "id": 50,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 7,
+            "timmap": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 49,
+            "name": "GERMAN 👑 20",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30702\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 20,
+            "wormworld": 6,
+            "imageUrl": ""
+        },
+        {
+            "id": 48,
+            "name": "GERMAN 👑 04",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32584\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 4,
+            "wormworld": 5,
+            "imageUrl": ""
+        },
+        {
+            "id": 47,
+            "name": "GERMAN 👑 14",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32054\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "timmap": 14,
+            "wormworld": 4,
+            "imageUrl": ""
+        },
+        {
+            "id": 46,
+            "name": "GERMAN 👑 19",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30140\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "wormworld": 3,
+            "timmap": 19,
+            "imageUrl": ""
+        },
+        {
+            "id": 45,
+            "name": "loading...",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "status": 1,
+            "wormworld": 2,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 44,
+            "name": "GERMAN 👑 01",
+            "region": "peru",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "status": 1,
+            "wormworld": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/ger.png",
+            "imageUrl": "",
+            "timmap": 1
+        },
+        {
+            "id": 43,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31695\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 1,
+            "imageUrl": ""
+        },
+        {
+            "id": 42,
+            "name": "FRANCE ⚡ 09",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32584\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "timmap": 9,
+            "wormworld": 2,
+            "imageUrl": ""
+        },
+        {
+            "id": 41,
+            "name": "FRANCE ⚡ 01",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31695\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "timmap": 1,
+            "wormworld": 3,
+            "imageUrl": ""
+        },
+        {
+            "id": 40,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31695\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 4,
+            "imageUrl": ""
+        },
+        {
+            "id": 39,
+            "name": "FRANCE ⚡ 03",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30140\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "timmap": 3,
+            "wormworld": 5,
+            "imageUrl": ""
+        },
+        {
+            "id": 38,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30140\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 6,
+            "imageUrl": ""
+        },
+        {
+            "id": 37,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 7,
+            "imageUrl": ""
+        },
+        {
+            "id": 36,
+            "name": "FRANCE ⚡ 06",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31230\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "timmap": 6,
+            "wormworld": 8,
+            "imageUrl": ""
+        },
+        {
+            "id": 35,
+            "name": "FRANCE ⚡ 13",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31123\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "wormworld": 9,
+            "timmap": 13,
+            "imageUrl": ""
+        },
+        {
+            "id": 34,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/dal-b.wormate.io:32584\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 10,
+            "timmap": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 33,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31695\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "wormworld": 11,
+            "timmap": 0,
+            "imageUrl": ""
+        },
+        {
+            "id": 32,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30106\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "timmap": 0,
+            "wormworld": 18,
+            "imageUrl": ""
+        },
+        {
+            "id": 31,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/gra-a.wormate.io:31038\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 15,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 30,
+            "name": "FRANCE ⚡ 05",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31163\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "imageUrl": "",
+            "wormworld": 14,
+            "timmap": 5,
+            "status": 1
+        },
+        {
+            "id": 29,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/gra-a.wormate.io:31038\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 13,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 28,
+            "name": "FRANCE ⚡ 11",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30171\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "imageUrl": "",
+            "wormworld": 16,
+            "timmap": 11,
+            "status": 1
+        },
+        {
+            "id": 27,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30140\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 17,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 26,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30106\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 12,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 25,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31392\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 19,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 24,
+            "name": "FRANCE ⚡ 08",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30702\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "imageUrl": "",
+            "wormworld": 20,
+            "timmap": 8,
+            "status": 1
+        },
+        {
+            "id": 23,
+            "name": "FRANCE ⚡ 07",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:32703\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "imageUrl": "",
+            "wormworld": 21,
+            "timmap": 7,
+            "status": 1
+        },
+        {
+            "id": 22,
+            "name": "loading...",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 22,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 21,
+            "name": "FRANCE ⚡ 04",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30055\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "imageUrl": "",
+            "wormworld": 23,
+            "timmap": 4,
+            "status": 1
+        },
+        {
+            "id": 20,
+            "name": "FRANCE ⚡ 02",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30106\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 2,
+            "status": 1
+        },
+        {
+            "id": 19,
+            "name": "FRANCE ⚡ 10",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31750\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 10,
+            "status": 1
+        },
+        {
+            "id": 18,
+            "name": "FRANCE ⚡ 12",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31084\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 12,
+            "status": 1
+        },
+        {
+            "id": 17,
+            "name": "FRANCE ⚡ 14",
+            "region": "francia",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31392\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fra.png",
+            "imageUrl": "",
+            "wormworld": 0,
+            "timmap": 14,
+            "status": 1
+        },
+        {
+            "id": 16,
+            "name": "PALESTINE 💫 16",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31555\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 16,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 15,
+            "name": "PALESTINE 💫 15",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31290\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 15,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 14,
+            "name": "PALESTINE 💫 14",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31392\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 14,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 13,
+            "name": "PALESTINE 💫 13",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:31091\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 13,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 12,
+            "name": "PALESTINE 💫 12",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30573\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 12,
+            "timmap": 0,
+            "status": 1
+        },
+        {
+            "id": 11,
+            "name": "PALESTINE 💫 11",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/fra-c.wormate.io:30140\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/team/wfc3.png",
+            "imageUrl": "",
+            "wormworld": 11,
+            "timmap": 0,
+            "status": 0
+        },
+        {
+            "id": 10,
+            "name": "PALESTINE 💫 10",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:32703\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "imageUrl": "",
+            "wormworld": 10,
+            "timmap": 10,
+            "status": 0
+        },
+        {
+            "id": 9,
+            "name": "PALESTINE 💫 09",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:32703\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "imageUrl": "",
+            "wormworld": 9,
+            "timmap": 9,
+            "status": 0
+        },
+        {
+            "id": 8,
+            "name": "PALESTINE 💫 08",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:31353\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "imageUrl": "",
+            "wormworld": 8,
+            "timmap": 8,
+            "status": 0
+        },
+        {
+            "id": 7,
+            "name": "PALESTINE 💫 07",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:31975\/wormy",
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "imageUrl": "",
+            "wormworld": 7,
+            "timmap": 7,
+            "status": 0
+        },
+        {
+            "id": 6,
+            "name": "PALESTINE 💫 06",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:31975\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "timmap": 6,
+            "wormworld": 6,
+            "imageUrl": ""
+        },
+        {
+            "id": 5,
+            "name": "PALESTINE 💫 05",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:32703\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "wormworld": 5,
+            "timmap": 5,
+            "imageUrl": ""
+        },
+        {
+            "id": 4,
+            "name": "PALESTINE 💫 04",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:31975\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "timmap": 4,
+            "wormworld": 4,
+            "imageUrl": ""
+        },
+        {
+            "id": 3,
+            "name": "PALESTINE 💫 03",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:32650\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "timmap": 3,
+            "wormworld": 3,
+            "imageUrl": ""
+        },
+        {
+            "id": 2,
+            "name": "PALESTINE 💫 02",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:31353\/wormy",
+            "status": 1,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "timmap": 2,
+            "wormworld": 2,
+            "imageUrl": ""
+        },
+        {
+            "id": 1,
+            "name": "PALESTINE 💫 01",
+            "region": "mexico",
+            "serverUrl": "wss:\/\/dxb-a.wormate.io:32703\/wormy",
+            "status": 0,
+            "image": "https://wormatefriendsturkey.com/images/serverflags/fil.png",
+            "wormworld": 1,
+            "timmap": 1,
+            "imageUrl": ""
         }
-    ]
+    ],
+    "timestamp": 1746904853,
+    "error": null
 }
