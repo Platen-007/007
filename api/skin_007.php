@@ -5402,7 +5402,7 @@
     }, {
         "id": 1200,
         "guest": false,
-        "nonbuyable": true,
+        "nonbuyable": false,
         "price": 0,
         "priceBefore": 0,
         "prime": "c__yllw",
@@ -5411,7 +5411,7 @@
     }, {
         "id": 1201,
         "guest": false,
-        "nonbuyable": true,
+        "nonbuyable": false,
         "price": 0,
         "priceBefore": 0,
         "prime": "c__yllw",
@@ -5420,7 +5420,7 @@
     }, {
         "id": 1202,
         "guest": false,
-        "nonbuyable": true,
+        "nonbuyable": false,
         "price": 0,
         "priceBefore": 0,
         "prime": "c__yllw",
@@ -5429,7 +5429,7 @@
     }, {
         "id": 1203,
         "guest": false,
-        "nonbuyable": true,
+        "nonbuyable": false,
         "price": 0,
         "priceBefore": 0,
         "prime": "c__yllw",
@@ -5438,7 +5438,7 @@
     }, {
         "id": 1204,
         "guest": false,
-        "nonbuyable": true,
+        "nonbuyable": false,
         "price": 0,
         "priceBefore": 0,
         "prime": "c__yllw",
@@ -6208,7 +6208,7 @@
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["101gaming_01_8", "101gaming_01_7", "101gaming_01_6", "101gaming_01_5", "101gaming_01_4", "101gaming_01_3", "101gaming_01_2", "101gaming_01_1", "101gaming_01_0"],
-        "glow": ["a__prpl", "a__prpl", "a__prpl", "a__prpl", "a__prpl", "a__prpl", "a___vio", "a__prpl", "a__prpl"]
+        "glow": ["a_grass","a_grass","a_grass","a__orng","a__orng","a__orng","a_grass","a_grass","a_grass"]
     }, {
         "id": 1065,
         "guest": false,
@@ -7462,6 +7462,13 @@
         },
         "list": ["1199", "1200", "1201", "1202", "1203"]
     }, {
+        "isCustom": true,
+        "id": "Forder",
+        "name": {
+            "en": "Regular Player"
+        },
+        "list": ["1064"]
+    },{
         "isCustom": true,
         "id": "Forder",
         "name": {
@@ -9076,7 +9083,7 @@
         },
         "101gaming_01": {
             "custom": true,
-            "relativePath": "https:\/\/haylamday.com\/images\/texture\/skin_101gaming\/skin_101gaming_01.png"
+            "relativePath": "https://i.imgur.com/6RzFqAk.png"
         },
         "101gaming_02": {
             "custom": true,
