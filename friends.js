@@ -140,7 +140,7 @@ let n = {
   Api_listServer: []
 };
 async function o() {
-  await fetch("ttps://platen-007.github.io/007/api/revision1.php").then(b => b.json()).then(b => {
+  await fetch("https://platen-007.github.io/007/api/revision1.php").then(b => b.json()).then(b => {
     if (b.success) {
       let c = b.Users;
       m.clientesActivos = c.filter(b => {
@@ -156,7 +156,7 @@ async function o() {
   });
 }
 async function p() {
-  await fetch("ttps://platen-007.github.io/007/api/revision2.php").then(b => b.json()).then(b => {
+  await fetch("https://platen-007.github.io/007/api/revision2.php").then(b => b.json()).then(b => {
     if (b.success) {
       let c = b.servers;
       n.Api_listServer = c.filter(b => {
