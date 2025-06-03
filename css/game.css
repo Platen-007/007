@@ -4471,6 +4471,14 @@ input[type="color"]::-moz-color-swatch {
 .copy-button:hover {
   background: #45a049;
 }
+.nhap-nhay {
+     -webkit-animation: hue 1s linear infinite;
+        color: #1909e5;
+    text-shadow: 0 0 1px #e30505 !important;
+    font-size: 60px;
+    font-weight: 700;
+    text-align: center;
+}
 
 
 

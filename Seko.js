@@ -3720,7 +3720,7 @@ function account() {
                 var t = this,
                     e = _0x1974fc(),
                     i = Date.now() + "_" + Math.floor(1e3 + 8999 * Math.random());
-                this.Sl = $('<div id="' + i + '" class="toaster toaster-consent-accepted">    <img class="toaster-consent-accepted-logo" src="https://wormate.io/images/linelogo-xmas2022.png" alt="Wormate.io logo"/>    <div class="toaster-consent-accepted-container">        <span class="toaster-consent-accepted-text">' + _0x13fb67("index.game.toaster.consent.text").replaceAll(" ", "&nbsp;").replaceAll("\n", "<br/>") + '</span>        <a class="toaster-consent-accepted-link" href="/privacy-policy">' + _0x13fb67("index.game.toaster.consent.link") + '</a>    </div>    <div class="toaster-consent-close">' + _0x13fb67("index.game.toaster.consent.iAccept") + "</div></div>"), this.Tl = this.Sl.find(".toaster-consent-close"), this.Tl.hide(), this.Tl.click(function () {
+                this.Sl = $('<div id="' + i + '" class="toaster toaster-consent-accepted">    <img class="toaster-consent-accepted-logo" src="" alt="Wormate.io logo"/>    <div class="toaster-consent-accepted-container">        <span class="toaster-consent-accepted-text">' + _0x13fb67("index.game.toaster.consent.text").replaceAll(" ", "&nbsp;").replaceAll("\n", "<br/>") + '</span>        <a class="toaster-consent-accepted-link" href="/privacy-policy">' + _0x13fb67("index.game.toaster.consent.link") + '</a>    </div>    <div class="toaster-consent-close">' + _0x13fb67("index.game.toaster.consent.iAccept") + "</div></div>"), this.Tl = this.Sl.find(".toaster-consent-close"), this.Tl.hide(), this.Tl.click(function () {
                     e.r.Cd(), e.Y() && e.$(!0, !0), t.Ck()
                 })
             })).prototype.Bk = function () {
@@ -4195,5 +4195,6 @@ function stopZoom(event) {
         window.changedNf()
     }
 }
+$(".mm-logo").replaceWith("\n    <div class=\"nhap-nhay\">Wormate.io</div>");
 window.addEventListener('keydown', stopZoom);
 console.log("v1 New Update PLATEN");
