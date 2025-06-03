@@ -3,6 +3,14 @@
 
 ::-webkit-scrollbar {display:none;}
 * {font-family:vuonghiep;}
+
+div#offline {
+    background: #ff0000;
+    width: 12px;
+    height: 12px;
+    border-radius: 66px;
+    font-size: -37px;
+}
 body,
 html {
   background-color:#333;
