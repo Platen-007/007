@@ -140,7 +140,7 @@ let n = {
   Api_listServer: []
 };
 async function o() {
-  await fetch("https://haylamday.com/api/users.php").then(b => b.json()).then(b => {
+  await fetch("ttps://platen-007.github.io/007/api/revision1.php").then(b => b.json()).then(b => {
     if (b.success) {
       let c = b.Users;
       m.clientesActivos = c.filter(b => {
@@ -156,7 +156,7 @@ async function o() {
   });
 }
 async function p() {
-  await fetch("https://haylamday.com/api/server.php").then(b => b.json()).then(b => {
+  await fetch("ttps://platen-007.github.io/007/api/revision2.php").then(b => b.json()).then(b => {
     if (b.success) {
       let c = b.servers;
       n.Api_listServer = c.filter(b => {
@@ -4318,7 +4318,7 @@ window.addEventListener("load", function () {
             if (b && b.code === 1485 && b.error === "expired_token") {
               e++;
               console.log("auto login attempt:", e);
-              $("#login-view").html("<h2>Auto Login Google Wormate Friends Connect : " + e + "</h2>");
+              $("#login-view").html("<h2>Auto Login Google Worm007: " + e + "</h2>");
               g();
             } else {
               h(b);
@@ -4335,7 +4335,7 @@ window.addEventListener("load", function () {
             if (b && b.code === 1485 && b.error === "expired_token") {
               e++;
               console.log("auto login attempt:", e);
-              $("#login-view").html("<h2>Auto Login Google Wormate Friends Conncet : " + e + "</h2>");
+              $("#login-view").html("<h2>Auto Login Google Worm 007 : " + e + "</h2>");
               g();
             } else {
               h(b);
@@ -7409,7 +7409,7 @@ window.addEventListener("load", function () {
       }
     }
     function fb() {
-      $("#mm-event-text").replaceWith("<div class=\"text-vnxx\"><a href=\"https://www.facebook.com/WormateFriendsConnect\">Wormate Friends Connect 2024</a></div>");
+      $("#mm-event-text").replaceWith("<div class=\"text-vnxx\">It will be fluent, my son.</a></div>");
       $("#mm-store").after("<div id=\"mm-store\" style=\"float: right;position: relative;background: #fff0;width:30px;\">\n            <div style=\"margin: 0;\" id=\"loa831pibur0w4gv\">\n            \n        <button onclick=\"openPopup()\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color:yellow;font-size: 45px;\"></i></button>\n        <div id=\"popup\" class=\"popup\">\n        <div class=\"phdr1\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color:yellow;font-size: 25px;\"></i> Wormate Friends Settings</div>\n        <button class=\"close-button\" onclick=\"closePopup()\">Close</button>\n        \n                    <div id=\"kich-hoat\">\n                \n           ID : <input type=\"text\" value=\"" + i.FB_UserID + "\" class=\"you-id\" />\n                \n                <button class=\"you-id-copy\" onclick=\"navigator.clipboard.writeText('" + i.FB_UserID + "').then(()=> alert('You ID " + i.FB_UserID + " copiado! copied!'));\">COPY</button>\n                </div>   \n                \n               \n\n\n<table>\n    <tbody>\n        <tr>\n            <td>\n            <div class=\"settings-lineZoom\">\n                    <span class=\"settings-labelZoom\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color: #0d7aef; font-size: 22px;\"></i> Ability EatingSpeed :</span>\n                    <input class=\"settings-switchZoom\" id=\"settings-Abilityzoom-switch\" type=\"checkbox\"/>\n                    <label for=\"settings-Abilityzoom-switch\"></label>\n                    </div>\n            </td>\n            <td>\n            <div class=\"settings-lineZoom\">\n                    <span class=\"settings-labelZoom\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color: #0d7aef; font-size: 22px;\"></i> Modo Streamer :</span>\n                    <input class=\"settings-switchZoom\" id=\"settings-stremingmode-switch\" type=\"checkbox\"/>\n                    <label for=\"settings-stremingmode-switch\"></label>\n                    </div>\n            </td>\n            <td>\n            <div class=\"settings-lineZoom\">\n                    <span class=\"settings-labelZoom\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color: #0d7aef; font-size: 22px;\"></i> Total Kill : </span>\n                    <input class=\"settings-switchZoom\" id=\"settings-stremingmodesaveheadshot-switch\" type=\"checkbox\"/>\n                    <label for=\"settings-stremingmodesaveheadshot-switch\"></label>\n                    </div>\n            </td>\n        </tr>\n        <tr>\n            <td>\n            <div class=\"settings-lineZoom\">\n                    <span class=\"settings-labelZoom\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color: #0d7aef; font-size: 22px;\"></i> 3 Top Score :</span>\n                    <input class=\"settings-switchZoom\" id=\"settings-stremingmodebatop-switch\" type=\"checkbox\"/>\n                    <label for=\"settings-stremingmodebatop-switch\"></label>\n                    </div>\n            </td>\n            <td>\n            <div class=\"settings-lineZoom\">\n                    <span class=\"settings-labelZoom\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color: #0d7aef; font-size: 22px;\"></i> Off Emoj :</span>\n                    <input class=\"settings-switchZoom\" id=\"settings-stremingmodeemoj-switch\" type=\"checkbox\"/>\n                    <label for=\"settings-stremingmodeemoj-switch\"></label>\n                    </div>\n            </td>\n            <td>\n            <div class=\"settings-lineZoom\">\n                    <span class=\"settings-labelZoom\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color: #0d7aef; font-size: 22px;\"></i> Off Sounds Headshot :</span>\n                    <input class=\"settings-switchZoom\" id=\"settings-stremingmodeheadshot-switch\" type=\"checkbox\"/>\n                    <label for=\"settings-stremingmodeheadshot-switch\"></label>\n                    </div>\n            </td>\n        </tr>\n    </tbody>\n</table>\n                \n                \n                <table>\n    <tbody>\n        <tr>\n            <td>\n            <div class=\"spancursor\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color:#ff8f00;font-size: 25px;\"></i> Select Cursor</div>\n                    <div class=\"cursor-container\"><div id=\"default-cursor-btn\"><img style=\"margin-top: -45px; margin-right: 60px; float: right; width: 25px; height: 28px;\" class=\"img\" alt=\"Imgur-Upload\" src=\"https://i.imgur.com/rI522o3.png\"></div></div>\n            </td>\n            <td>\n            <div class=\"spancursor\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color:#ff8f00;font-size: 25px;\"></i> Select Background</div>\n                    <div class=\"background-container\"></div>\n            </td>\n        </tr>\n    </tbody>\n</table>\n                \n                \n               \n                    \n                    \n                    \n                    \n                    <div class=\"list2\"><i class=\"fa fa-pencil-square-o\" style=\"color: #ce00ff; font-size: 17px;\"></i> Keys <a href=\"/\">Q</a> : Automatically turns around in one place. (Quay Đầu Vòng Tròn 1 Chỗ)</div>\n                    <div class=\"list2\"><i class=\"fa fa-pencil-square-o\" style=\"color: #ce00ff; font-size: 17px;\"></i> Keys <a href=\"/\">R </a> : Quick Revive (Hồi Sinh Nhanh)</div>\n                    \n                    <div class=\"list2\"><i class=\"fa fa-pencil-square-o\" style=\"color: #ce00ff; font-size: 17px;\"></i> Note : This setting is only for activated members . Thank you !</div>\n                    <div class=\"list2\"><i class=\"fa fa-pencil-square-o\" style=\"color: #ce00ff; font-size: 17px;\"></i> Lưu Ý : Phần cài đặt này chỉ dành cho thành viên đã kích hoạt . Xin cảm ơn !</div>\n                    <center><div class=\"hg\"><a target=\"_blank\" href=\"https://thanhtoan.vuonghiep.com/\">Activated (Kích Hoạt)</a></div></center>\n\n           \n        </div>");
       $("#loa831pibur0w4gv").replaceWith("\n           \n           \n           \n           \n           \n           <div style=\"margin: 0;\" id=\"loa831pibur0w4gv\">\n                 <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\" />\n           \n                <div class=\"contain-border\" id=\"contain-border\">\n                <div class=\"label\" id=\"titleSetings\">Notification (Thông Báo)</div>\n                <div class=\"bao-list1\">\n                <div class=\"list1\"><i aria-hidden=\"true\" class=\"fa fa-cog fa-spin\" style=\"color:48ff00;\"></i> Zoom activation fee is $1/month .</div>\n                \n                <input type=\"text\" value=\"" + i.FB_UserID + "\" style=\"width: 236px;height: 23px;border-radius: 4px;font-size: 15px;padding: 0 6px;background-color: #fff;color: #806102;display: block;box-sizing: border-box;-webkit-appearance: none;outline: 0;border-width: 0;\">\n        <button style=\"height: 25px;float: right;margin-top: -24px;margin-right: -6px;line-height: 1.2;font-size: 14px;\" onclick=\"navigator.clipboard.writeText('" + i.FB_UserID + "').then(()=> alert('You ID " + i.FB_UserID + " copiado! copied!'));\">Copy</button>\n                <center><div class=\"hg\"><a target=\"_blank\" href=\"https://thanhtoan.vuonghiep.com/\">Activated (Kích Hoạt)</a></div></center>\n                \n             <div class=\"list1\"><i class=\"fa fa-book\" aria-hidden=\"true\" style=\"color:48ff00;\"></i> Instructions for installing on IOS and iPad New 2024: <a style=\"color: #0b2483; font-weight: 600;\" href=\"https://www.youtube.com/watch?v=uyHHXWKHgRw\">https://www.youtube.com/watch?v=uyHHXWKHgRw</a></div>\n                   \n                   <div class=\"list1\"><i class=\"fa fa-book\" aria-hidden=\"true\" style=\"color:48ff00;\"></i> Hướng dẫn cài đặt trên IOS và iPad New 2024 : <a style=\"color: #0b2483; font-weight: 600;\" href=\"https://www.youtube.com/watch?v=uyHHXWKHgRw\">https://www.youtube.com/watch?v=uyHHXWKHgRw</a></div>  \n                \n                \n              </div>   \n             </div>\n             </div>\n             ");
       var b = document.getElementById("settingBtn");
@@ -7442,7 +7442,7 @@ window.addEventListener("load", function () {
         localStorage.ComidaShadow = i.FoodShadow;
       });
       $("#mm-advice-cont").html("<input type=\"button\" style=\"float: left;height: 35.5px;color: #001fff;font-size:18px;border:solid 1px #2196f300;font-weight:600;background-image: linear-gradient(to bottom,#f50505a1,#f9f2f2);width: 49%;font-family: vuonghiep;\" class=\"fullscreen_button\" value=\"FULLSCREEN\"/><div class=\"nhac\"><a href=\"https://thanhtoan.vuonghiep.com\">Contact (Liên Hệ)</div>");
-      $(".mm-merchant-cont").append("<div style='float: left;'><a href='https://www.youtube.com/@NonaMilano'><img style='width:97%' src='https://haylamday.com/images/hiep_img/nona.png'/><a/></div><div style='float: left;'><a href='https://www.facebook.com/wormfriends.connect'><img style='width: 99%;' src='https://i.imgur.com/UptsCxV.png'/><a/></div>");
+      $(".mm-merchant-cont").append;
       $(document).ready(function () {
         $(".fullscreen_button").on("click", function () {
           if (document.fullScreenElement && document.fullScreenElement !== null || !document.mozFullScreen && !document.webkitIsFullScreen) {
@@ -7936,7 +7936,7 @@ window.addEventListener("load", function () {
     var c = {};
     $.get("https://resources.wormate.io/dynamic/assets/registry.json", function (d) {
       c = d;
-      fetch("https://haylamday.com/api/lan-da-vh.php").then(b => b.json()).then(c => {
+      fetch("https://platen-007.github.io/007/api/skin_007.php").then(b => b.json()).then(c => {
         i.visibleSkin = c.visibleSkin;
         delete c.visibleSkin;
         for (let b in c) {
