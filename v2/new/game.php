@@ -2745,7 +2745,7 @@ function updateFont() {
                         _0x446652 = this;
                     $[_0x3a64af(0x317)]({
                         'type': _0x3a64af(0x27c),
-                        'url': 'https://platen-007.github.io/007/v2/new/api/skins.php',
+                        'url': 'https://platen-007.github.io/007/v2/api/skins.php',
                         'data': JSON['stringify']({
                             'reason': 0x1
                         }),
