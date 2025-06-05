@@ -38,7 +38,7 @@
             "Client_VisibleSkin8": "0000",
             "Client_VisibleSkin9": "0000",
             "Client_VisibleSkin10": "0000"
-        } 
+        }, 
         {
             "id": 3,
             "cliente_NOMBRE": "IMAMA",
