@@ -42,7 +42,7 @@
         {
             "id": 3,
             "cliente_NOMBRE": "Killzo",
-            "cliente_ID": "g_104965442757550260264",
+            "cliente_ID": "gg_104965442757550260264",
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateExpired": "2029-12-20",
             "status": 1,
