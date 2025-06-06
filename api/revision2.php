@@ -1106,140 +1106,140 @@
     },
     {
         "id": 20,
-        "name": "20.  👑EFFENDI👑    <img class='team' src='https://milat2.com/images/team/eff.jpg'/>",
+        "name": "20.  W-007 - NEW    <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
         "status": 1
     },
     {
         "id": 19,
-        "name": "19. IRAQ <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+        "name": "19. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:31038/wormy",
         "status": 1
     },
     {
         "id": 18,
-        "name": "18.MAZARAT <img class='team' src='https://milat2.com/images/team/mazarat.jpg'/>",
+        "name": "18.W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
         "status": 1
     },
     {
         "id": 17,
-        "name": "17. NCN <img class='team' src='https://milat2.com/images/team/ncn.jpg'/>",
+        "name": "17. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:31695/wormy",
         "status": 1
     },
     {
         "id": 16,
-        "name": "16. IRAQ <img class='team' src='https://milat2.com/images/team/brazil.png'/>",
+        "name": "16. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:32054/wormy",
         "status": 1
     },
     {
         "id": 15,
-        "name": "15. ZIKO GAMING <img class='team' src='https://milat2.com/images/team/zikogaming.jpeg'/>",
+        "name": "15. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:30786/wormy",
         "status": 1
     },
     {
         "id": 14,
-        "name": "14. MARSHMELO GAMING <img class='team' src='https://milat2.com/images/team/marsh.jpg'/>",
+        "name": "14. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:32054/wormy",
         "status": 1
     },
     {
         "id": 13,
-        "name": "13. RIO GAMING <img class='team' src='https://milat2.com/images/team/riogaming.jpg'/>",
+        "name": "13. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:30171/wormy",
         "status": 1
     },
     {
         "id": 12,
-        "name": "12. DZ GAMING <img class='team' src='https://milat2.com/images/team/dz.jpg'/> ",
+        "name": "12. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/> ",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:31750/wormy",
         "status": 1
     },
     {
         "id": 11,
-        "name": "11. BSG  <img class='team' src='https://milat2.com/images/team/bsg.jpg'/>",
+        "name": "11. W-007 - NEW  <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:31533/wormy",
         "status": 1
     },
     {
         "id": 10,
-        "name": "10. REEM GAMING <img class='team' src='https://milat2.com/images/team/reem.png'/>",
+        "name": "10. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:31819/wormy",
         "status": 1
     },
     {
         "id": 9,
-        "name": "19. ايتماك - AitMak‎  <img class='team' src='https://milat2.com/images/team/aitmak.jpg'/>",
+        "name": "19. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:32650/wormy",
         "status": 1
     },
     {
         "id": 8,
-        "name": "08. ابن الشام <img class='team' src='https://milat2.com/images/team/abnsham.jpg'/>",
+        "name": "08. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:32650/wormy",
         "status": 1
     },
     {
         "id": 7,
-        "name": "07. Glitch <img class='team' src='https://milat2.com/images/team/show.jpg'/>",
+        "name": "07. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
         "status": 1
     },
     {
         "id": 6,
-        "name": "06. ابن نينوى Gaming<img class='team' src='https://milat2.com/images/team/ninawa.jpg'/> ",
+        "name": "06. W-007 - NEW<img class='team' src='https://i.imgur.com/XDSCMg7.png'/> ",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:30259/wormy",
         "status": 1
     },
     {
         "id": 5,
-        "name": "05. EZI MIRAN <img class='team' src='https://milat2.com/images/team/EZIDXAN.png'/>",
+        "name": "05. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:30106/wormy",
         "status": 1
     },
     {
         "id": 4,
-        "name": "04. Kurdo 101 Gaming <img class='team' src='https://milat2.com/images/team/101kurdo.png'/>",
+        "name": "04. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:31770/wormy",
         "status": 1
     },
     {
         "id": 3,
-        "name": "03. KURDISTAN 75 <img class='team' src='https://milat2.com/images/team/kurdistan75.jpg'/>   ",
+        "name": "03. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>   ",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
         "status": 1
     },
     {
         "id": 2,
-        "name": "02. ALP Gaming <img class='team' src='https://milat2.com/images/team/alp.jpg'/>",
+        "name": "02. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:32703/wormy",
         "status": 1
     },
     {
         "id": 1,
-        "name": "01. 25 YPG <img class='team' src='https://milat2.com/images/team/25ypg.jpg'/>",
+        "name": "01. W-007 - NEW <img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "peru",
         "serverUrl": "wss://fra-c.wormate.io:32650/wormy",
         "status": 1
