@@ -1,13 +1,13 @@
 
 var xURL = "https://platen-007.github.io/007";
 window.detectLog = null;
-const _wrmxt = {
+const _w007 = {
     BETAisSkinCustom(input) {
         var templateStartAlphaRegex = /[a-zA-Z]/;
         return "string" === typeof input && templateStartAlphaRegex.test(input);
     },
     testSkinCustom: function (value) {
-        return _wrmxt.BETAisSkinCustom(value) ? 34 || 33 : value;
+        return _w007.BETAisSkinCustom(value) ? 34 || 33 : value;
     },
     testSkinMod: function (a22) {
         return 399 <= a22 && 999 > a22;
@@ -19,12 +19,12 @@ const _wrmxt = {
         return "" !== id && null !== id && void 0 !== id && !isNaN(id);
     },
     validInput: function (e) {
-        if (!_wrmxt.testSkinMod(e) && !_wrmxt.BETAisSkinCustom(e)) {
+        if (!_w007.testSkinMod(e) && !_w007.BETAisSkinCustom(e)) {
             return e;
         }
         try {
             let duration = $("#inputReplaceSkin").val();
-            return encodeURI(_wrmxt.isNumberValid(duration) ? duration : 35);
+            return encodeURI(_w007.isNumberValid(duration) ? duration : 35);
         } catch (q) {
             return encodeURI(35);
         }
@@ -903,7 +903,7 @@ var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator 
                         var lon = item.l.coords.longitude;
                         p = 1 | Math.max(0, Math.min(32767, (lat + 90) / 180 * 32768)) << 1 | Math.max(0, Math.min(65535, (lon + 180) / 360 * 65536)) << 16;
                     }
-                    _wrmxt.testSkinCustom(primaryKeyId);
+                    _w007.testSkinCustom(primaryKeyId);
                     
                     let u = "x" + (9999 < primaryKeyId ? "0000" : primaryKeyId.toString().padStart(4, 0)) + (999 < srcAtt ? "000" : srcAtt.toString().padStart(3, 0)) + (999 < fileRelPath ? "000" : fileRelPath.toString().padStart(3, 0)) + (999 < newSearchboxValue ? "000" : newSearchboxValue.toString().padStart(3, 0));
                     //originPhoto = (32 <= originPhoto.length ? originPhoto.substr(0, 16) : originPhoto.substr(0, 16).padEnd(16)) + u;
@@ -912,7 +912,7 @@ var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator 
                     
                     console.log(originPhoto);
                     // InvocaciÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â³n a server
-                    var urlRequest = GATEWAY_HOST + "/pub/wuid/" + e + "/start?gameMode=" + encodeURI(testPostcode) + "&gh=" + p + "&nickname=" + encodeURI(originPhoto) + "&skinId=" + _wrmxt.validInput(primaryKeyId) + "&eyesId=" + encodeURI(fileRelPath) + "&mouthId=" + encodeURI(newSearchboxValue) + "&glassesId=" + encodeURI(eventLabel) + "&hatId=" + encodeURI(srcAtt);
+                    var urlRequest = GATEWAY_HOST + "/pub/wuid/" + e + "/start?gameMode=" + encodeURI(testPostcode) + "&gh=" + p + "&nickname=" + encodeURI(originPhoto) + "&skinId=" + _w007.validInput(primaryKeyId) + "&eyesId=" + encodeURI(fileRelPath) + "&mouthId=" + encodeURI(newSearchboxValue) + "&glassesId=" + encodeURI(eventLabel) + "&hatId=" + encodeURI(srcAtt);
 
                     console.log("urlRequest: " + urlRequest);
 
@@ -1219,7 +1219,7 @@ var _typeof = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator 
                 };
                 window.onclose = socket.onclose = function () {
                     setKillsCounts("closed");
-                    _wrmxt.aload = false;
+                    _w007.aload = false;
                     if (self.db === socket) {
                         console.log("Socket closed");
                         self.Ub();
@@ -2705,8 +2705,8 @@ else {
                         that.setInt16(glassesId, data.Dg); //glass
                         that.setInt16(hatId, data.Eg); //hat
 
-                        _wrmxt.aload = true;
-                        _wrmxt.aId = skinId;
+                        _w007.aload = true;
+                        _w007.aId = skinId;
                     }
                     if (data.ad = html, this.o.fb.bf === data.Lb) {
                         this.o.N.Fg(data);
@@ -5776,17 +5776,16 @@ else {
     
     <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
     
-    <input type="button" value="CONTACT" onclick="window.location.href='https://api.whatsapp.com/send?phone=84924623650&text=Xin%20ch%C3%A0o!%20M%C3%ACnh%20%C4%91ang%20d%C3%B9ng%20Whatsapp'" class="fullscreen_contact">
     </div> `);
             
             
              $(".mm-merchant-cont").html(`
   <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">
-    <a href="https://www.youtube.com/@NonaMilano" target="_blank" style="margin-right: 10px;">
-      <img src="https://i.imgur.com/II5bGJk.png" alt="nona" width="155">
+    <a href="https://www.youtube.com/@AliGAMING_Wormateio" target="_blank" style="margin-right: 10px;">
+      <img src="https://i.imgur.com/II5bGJk.png" alt="Ali" width="155">
     </a>
-    <a href="https://thanhtoan.vuonghiep.com" target="_blank">
-      <img src="https://i.imgur.com/UptsCxV.png" alt="wfc" width="155">
+    <a href="https://www.facebook.com/share/1AnKLsdDoA" target="_blank">
+      <img src="https://i.imgur.com/Ymt2Qb7.png" alt="W-007" width="155">
     </a>
   </div>`);
             $(document).ready(function () {
