@@ -5447,12 +5447,12 @@
     }, {
         "id": 1205,
         "guest": false,
-        "nonbuyable": true,
+        "nonbuyable": false,
         "price": 0,
         "priceBefore": 0,
         "prime": "c__yllw",
         "base": ["25ypg_07_8", "25ypg_07_7", "25ypg_07_6", "25ypg_07_5", "25ypg_07_4", "25ypg_07_3", "25ypg_07_2", "25ypg_07_1", "25ypg_07_0"],
-        "glow": ["a__ruby", "a__ruby", "a__ruby", "a__ruby", "a__ruby", "a__ruby", "a__ruby", "a__ruby", "a__ruby"]
+        "glow": ["a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white", "a_white"]
     }, {
         "id": 1206,
         "guest": false,
@@ -7444,15 +7444,21 @@
             "en": "WFC - Friends"
         },
         "list": ["1400", "1401", "1402", "1403", "1404", "1405", "1406", "1407", "1408", "1409", "1410", "1411", "1412", "1413", "1414", "1415", "1416", "1417", "1418", "1419", "1420", "1421", "1357", "1358", "1359", "1360", "1361", "1362", "1363", "1364", "1365", "1366", "1367", "1368", "1369", "1370", "1371", "1372", "1373", "1374", "1375", "1376", "1377", "1378", "1379", "1381", "1382", "1384", "1385", "1386"]
-    },
-{
+    },{
+        "isCustom": true,
+        "id": "HPBD",
+        "name": {
+            "en": "Happy Britly"
+        },
+        "list": ["1387", "1388", "1389", "1390", "1391", "1392", "1393", "1394", "1395", "1396", "1397", "1398", "1399"]
+    },{
         "isCustom": true,
         "id": "HPBD",
         "img": "Platen.png",
         "name": {
             "en": "HPBD"
         },
-        "list": ["1387", "1388", "1389", "1390", "1391", "1392", "1393", "1394", "1395", "1396", "1397", "1398", "1399"]
+        "list": ["1204", "1205"]
     },{
         "isCustom": true,
         "id": "HPBD",
@@ -8746,11 +8752,11 @@
         },
         "25ypg_06": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/LjVOS0r.png"
+            "relativePath": "https://i.imgur.com/LGBKqQ7.png"
         },
         "25ypg_07": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/eE7LLKc.png"
+            "relativePath": "https://i.imgur.com/NwKTDpX.png"
         },
         "25ypg_08": {
             "custom": true,
