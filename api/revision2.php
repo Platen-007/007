@@ -605,56 +605,56 @@
   },
   {
         "id": 207,
-        "name": "08. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+        "name": "08. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "francia",
         "serverUrl": "wss://fra-c.wormate.io:32095/wormy",
         "status": 1
     },
     {
         "id": 206,
-        "name": "07. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+        "name": "07. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "francia",
         "serverUrl": "wss://fra-c.wormate.io:32262/wormy",
         "status": 1
     },
     {
         "id": 205,
-        "name": "06. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+        "name": "06. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "francia",
         "serverUrl": "wss://fra-c.wormate.io:32026/wormy",
         "status": 1
     },
     {
         "id": 204,
-        "name": "05. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+        "name": "05. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "francia",
         "serverUrl": "wss://fra-c.wormate.io:32609/wormy",
         "status": 1
     },
     {
         "id": 203,
-        "name": "04. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+        "name": "04. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "francia",
         "serverUrl": "wss://fra-c.wormate.io:32103/wormy",
         "status": 1
     },
     {
         "id": 202,
-        "name": "03. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+        "name": "03. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "francia",
         "serverUrl": "wss://fra-c.wormate.io:31965/wormy",
         "status": 1
     },
     {
         "id": 201,
-        "name": "02. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+        "name": "02. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "francia",
         "serverUrl": "wss://gra-a.wormate.io:32064/wormy",
         "status": 1
     },
     {
         "id": 200,
-        "name": "01. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+        "name": "01. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
         "region": "francia",
         "serverUrl": "wss://fra-c.wormate.io:32053/wormy",
         "status": 1
@@ -1189,56 +1189,56 @@
   },
   {
     "id": 8,
-    "name": "08. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+    "name": "08. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
     "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:32095/wormy",
     "status": 1
   },
   {
     "id": 7,
-    "name": "07. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+    "name": "07. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
      "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:32262/wormy",
     "status": 1
   },
   {
     "id": 6,
-    "name": "06. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+    "name": "06. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
     "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:32026/wormy",
     "status": 1
   },
   {
     "id": 5,
-    "name": "05. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+    "name": "05. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
     "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:31965/wormy",
     "status": 1
   },
   {
     "id": 4,
-    "name": "04. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+    "name": "04. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
     "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:32064/wormy",
     "status": 1
   },
   {
     "id": 3,
-    "name": "03. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+    "name": "03. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
     "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:32609/wormy",
     "status": 1
   },
   {
     "id": 2,
-    "name": "02. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+    "name": "02. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
     "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:32103/wormy",
     "status": 1
   },
   {
     "id": 1,
-    "name": "01. WORMATE.İO UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
+    "name": "01. UPDATE SERVERS<img class='team' src='https://i.imgur.com/XDSCMg7.png'/>",
     "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:32053/wormy",
     "status": 1
