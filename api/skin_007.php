@@ -5456,7 +5456,7 @@
     }, {
         "id": 1206,
         "guest": false,
-        "nonbuyable": true,
+        "nonbuyable": false,
         "price": 0,
         "priceBefore": 0,
         "prime": "c__yllw",
@@ -7458,7 +7458,7 @@
         "name": {
             "en": "HPBD"
         },
-        "list": ["1204", "1205"]
+        "list": ["1204", "1205", "1206"]
     },{
         "isCustom": true,
         "id": "HPBD",
@@ -8760,7 +8760,7 @@
         },
         "25ypg_08": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/6WIRcSO.png"
+            "relativePath": "https://i.imgur.com/fMzPPVw.png"
         },
         "25ypg_09": {
             "custom": true,
